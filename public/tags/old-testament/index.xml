@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old-Testament on Bible Brad</title>
+    <link>http://localhost:1313/tags/old-testament/</link>
+    <description>Recent content in Old-Testament on Bible Brad</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Thu, 29 Sep 2022 21:44:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/old-testament/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leviticus</title>
+      <link>http://localhost:1313/posts/leviticus/</link>
+      <pubDate>Thu, 29 Sep 2022 21:44:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/leviticus/</guid>
+      <description>Chapter Overview Chapters 1-9 are about how to make certain sacrifices for certain things that may happen in daily life</description>
+    </item>
+  </channel>
+</rss>

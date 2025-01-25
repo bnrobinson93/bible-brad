@@ -1,0 +1,32 @@
+baseURL = 'http://biblebrad.com/'
+copyright = "{year}"
+languageCode = 'en-US'
+defaultContentLanguage = 'en'
+theme = 'enchanted-lowkey'
+title = 'Bible Brad'
+enableRobotsTXT = true
+summaryLength = 15
+paginate = 5
+enableEmoji = true
+
+[sitemap]
+  changeFreq = 'monthly'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = false
+    style = 'catppuccin-macchiato'
+    tabWidth = 4

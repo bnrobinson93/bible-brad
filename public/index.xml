@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Bible Brad</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Bible Brad</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 21 Jan 2025 20:39:17 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My-First-Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 21 Jan 2025 20:39:17 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 21 Jan 2025 21:18:00 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>What this is Hi, I am Brad. I&amp;rsquo;m a tech consultant, Christian, and husband. I love the Bible and the study of the culture, history, and language found within it.</description>
+    </item>
+    <item>
+      <title>Leviticus</title>
+      <link>http://localhost:1313/posts/leviticus/</link>
+      <pubDate>Thu, 29 Sep 2022 21:44:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/leviticus/</guid>
+      <description>Chapter Overview Chapters 1-9 are about how to make certain sacrifices for certain things that may happen in daily life</description>
+    </item>
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>http://localhost:1313/posts/markdown-cheat-sheet/</link>
+      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-cheat-sheet/</guid>
+      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+    </item>
+    <item>
+      <title>Understanding God&#39;s Plan</title>
+      <link>http://localhost:1313/posts/gods-will/</link>
+      <pubDate>Thu, 14 Jul 2022 18:32:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/gods-will/</guid>
+      <description>Known and Unknown Have you ever wondered about God&amp;rsquo;s plan for your life? The beautiful truth is that God wants to reveal His plan even more than we desire to know it.</description>
+    </item>
+  </channel>
+</rss>

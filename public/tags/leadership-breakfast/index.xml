@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership-Breakfast on Bible Brad</title>
+    <link>http://localhost:1313/tags/leadership-breakfast/</link>
+    <description>Recent content in Leadership-Breakfast on Bible Brad</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <atom:link href="http://localhost:1313/tags/leadership-breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/gods-will/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gods-will/</guid>
+      <description>God&amp;rsquo;s Plan God wants to reveal His plan even more than we want to know it</description>
+    </item>
+  </channel>
+</rss>
