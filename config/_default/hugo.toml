@@ -1,4 +1,4 @@
-baseURL = 'http://biblebrad.com/'
+baseURL = 'https://biblebrad.com/'
 copyright = "{year}"
 languageCode = 'en-US'
 defaultContentLanguage = 'en'

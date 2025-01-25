@@ -880,6 +880,9 @@ video {
 .order-2 {
   order: 2;
 }
+.m-2 {
+  margin: 0.5rem;
+}
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -971,8 +974,14 @@ video {
 .rounded-full {
   border-radius: 9999px;
 }
+.border-4 {
+  border-width: 4px;
+}
 .stroke-2 {
   stroke-width: 2;
+}
+.p-\[0\.4em\] {
+  padding: 0.4em;
 }
 .px-2\.5 {
   padding-left: 0.625rem;
