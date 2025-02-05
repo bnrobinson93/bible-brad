@@ -1,9 +1,12 @@
 ---
+title: The Sacrificial Alter
 updated: 2025-01-23T21:55:31-06:00
 date: 2025-01-23T21:55:31-06:00
 ---
+
 ## Why that shape? Why the horns?
-The horns are not demonic. Horns in a biblical mindset represent **strength**, like an ox. Even the first letter of their alphabet was originally an ox. 
+
+The horns are not demonic. Horns in a biblical mindset represent **strength**, like an ox. Even the first letter of their alphabet was originally an ox.
 
 The earth is spoken of as having four corners, the cardinal directions. So then, alter represents God's presence, and strength, reaching to the four corners of the earth.
 
@@ -14,3 +17,4 @@ The five [[Types of offerings]]
 # Links:
 
 202408101031
+

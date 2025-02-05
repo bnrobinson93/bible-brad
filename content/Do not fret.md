@@ -1,7 +1,9 @@
 ---
+title: Do Not Fret
 updated: 2025-01-23T21:55:32-06:00
 date: 2025-01-23T21:55:32-06:00
 ---
+
 In [[Psalms]] 37, David gives his recipe for not worrying:
 
 1. Trust the Lord and do good
@@ -15,6 +17,8 @@ In [[Psalms]] 37, David gives his recipe for not worrying:
 5. Refrain from anger
 
 Then you will not fret when evil happens.
+
 # Links:
 
 202408201818
+

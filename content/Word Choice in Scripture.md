@@ -1,4 +1,5 @@
 ---
+title: Word Choice in Scripture
 updated: 2025-01-23T21:55:32-06:00
 URL: https://pca.st/episode/ee8c9f91-f127-4bc5-9925-9752f5a5d8da
 date: 2025-01-23T21:55:32-06:00

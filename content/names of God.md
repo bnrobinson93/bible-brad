@@ -1,4 +1,5 @@
 ---
+title: Names of God
 id: names of God
 aliases: []
 tags: []

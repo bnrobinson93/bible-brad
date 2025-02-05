@@ -1,4 +1,5 @@
 ---
+title: From the Garden to Golgotha
 updated: 2025-01-23T21:55:32-06:00
 URL: https://youtu.be/B8lenwN-rLA?si=oCOKJvp4u3J591dh
 Favorite: false

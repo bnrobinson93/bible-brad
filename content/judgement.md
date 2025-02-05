@@ -1,20 +1,19 @@
 ---
+title: Judgement
 Favorite: false
 tags:
   - bible
 updated: 2025-01-23T21:55:32-06:00
-URL: 
+URL:
 date: 2025-01-23T21:55:32-06:00
 ---
-# Context
 
-  
+# Context
 
 # One
 
 ## Sub One
 
-  
-
 > [!important]  
 > Question:
+

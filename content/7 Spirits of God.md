@@ -1,4 +1,5 @@
 ---
+title: 7 Spirits of God
 updated: 2025-01-23T21:55:32-06:00
 aliases:
   - 6 spirits

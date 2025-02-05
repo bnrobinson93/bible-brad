@@ -1,8 +1,9 @@
 ---
+title: Joshua is Renamed
 updated: 2025-01-23T21:55:32-06:00
 date: 2025-01-23T21:55:32-06:00
 ---
-# Joshua is renamed
+
 > [[Numbers]] 13:3-4
 > And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel.
 > ...
@@ -14,6 +15,7 @@ Moses renames Oshea ("he saves") to Joshua ("Ya[^1] saves")
 Likewise, Jesus greets the women in the garden with "Yahovah[^1] Saves!"
 
 # Links:
+
 [^1]: [[names of God]]
 
 202410051200
