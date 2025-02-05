@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Bible Brad",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "biblebrad.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5", // page bg
+          lightgray: "#e6e9ef", // borders
+          gray: "#6c6f85", // links & heavy borders
+          darkgray: "#5c5f77", // body text
+          dark: "#4c4f69", // header text and icons
+          secondary: "#7287fd", // link, current graph node
+          tertiary: "#8839ef", // hover state, visted graph
+          highlight: "rgba(32, 159, 181, 0.15)", // link bg, highlighted text, highlighted code
+          textHighlight: "#df8e1d", // md highlighted bg
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e", // base
+          lightgray: "#181825", // mantle
+          gray: "#a6adc8", // subtext
+          darkgray: "#bac2de", // subtext
+          dark: "#cdd6f4", // text
+          secondary: "#b4befe", // lavender
+          tertiary: "#cba6f7", // mauve
+          highlight: "rgba(116, 199, 236, 0.15)", // sapphire
+          textHighlight: "#f9e2af", // yellow
         },
       },
     },
@@ -62,8 +62,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "catppuccin-latte",
+          dark: "catppuccin-mocha",
         },
         keepBackground: false,
       }),
