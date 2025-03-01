@@ -1,9 +1,7 @@
 ---
-title: Sanctification
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-02-27T08:08:27-06:00
 date: 2025-01-23T21:55:32-06:00
 ---
-
 The idea is to progress through each of these steps. We should see God as...
 
 1. A father - someone that we look up to, learn from, and ask for forgiveness from while we grow in our faith
@@ -12,6 +10,6 @@ The idea is to progress through each of these steps. We should see God as...
 4. A groom - At this point, we rule and reign with God in the [[New heaven and new earth]]
 
 # Links:
+[[Sanctification - Never stop improving]]
 
 202410291047
-
