@@ -1,5 +1,5 @@
 ---
-updated: 2025-03-02T09:46:59-06:00
+updated: 2025-03-08T10:05:10-06:00
 date: 2025-02-28T08:42:59-06:00
 ---
 In [[Mark]] 9:33-37, Jesus reminds us that those who wish to go first will go last. Rather, those who are welcoming to those with no authority or wisdom, those who speak in Jesus name over all they meet, they will be first in the kingdom. Remember: this earth is our proving ground. We are to show God with our actions that we are a bride aligned with his spirit and that we are on his team before anyone else's .

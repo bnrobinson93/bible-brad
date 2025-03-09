@@ -1,5 +1,5 @@
 ---
-updated: 2025-03-01T10:03:38-06:00
+updated: 2025-03-02T09:38:46-06:00
 date: 2025-02-26T22:15:47-06:00
 ---
 One thing that gets touted often when I say that I eat Kosher and celebrate Sabbath on Saturday is that I've become legalistic. People will often point to the number of commandments and quote verses like [[Luke]] 11:46.
