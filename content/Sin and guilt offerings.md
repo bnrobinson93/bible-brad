@@ -1,5 +1,5 @@
 ---
-updated: 2025-03-01T10:01:53-06:00
+updated: 2025-03-01T10:06:06-06:00
 date: 2025-02-17T09:36:03-06:00
 ---
 In [[2-Areas/Bible/Books of Bible/Leviticus|Lev]] 4 and 5, we see the sin and guilt offerings laid out. There are a few important things to note from this passage. Firstly, it is repeated that these offerings only cover unintentional sin or sins by omission. It is clear from these passages that God draws a line between accidental sin and purposeful guilt. He is willing to overlook a slip up but intentionally sinning has no recompense. We are guilty as guilty can be and we choose that for ourselves. The only exception here seems to be sin by omission.

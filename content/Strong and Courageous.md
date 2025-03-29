@@ -1,5 +1,4 @@
 ---
-title: Strong and Courageous
 updated: 2025-01-23T21:55:33-06:00
 url: https://www.youtube.com/watch?v=RBOqG81tZ9g
 date: 2025-01-23T21:55:33-06:00

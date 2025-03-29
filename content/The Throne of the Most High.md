@@ -1,5 +1,4 @@
 ---
-title: The Throne of the Most High
 updated: 2025-01-23T21:55:32-06:00
 URL: https://youtu.be/KRnHZlJeUlo?si=djKMp0DAE7nBdeYx
 date: 2025-01-23T21:55:32-06:00

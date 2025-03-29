@@ -1,11 +1,9 @@
 ---
-title: Give to New Christians
 updated: 2025-01-23T21:55:32-06:00
 date: 2025-01-23T21:55:32-06:00
 ---
-
-In [[2 Corinthians|2 Cor]] 11, Paul mentions that kids should not save for their parents (meaning spiritual leaders). Rather, the parents should save for the kids. I'm so saying, he sets a precedent for himself that new Christians should never have to pay for learning, it is the responsibility of the learned to give it freely, at the teachers own expense.
-
+# Give to new Christians
+In [[2 Corinthians|2 Cor]] 11, Paul mentions that kids should not save for their parents (meaning spiritual leaders). Rather, the parents should save for the kids. I'm so saying, he sets a precedent for himself that new Christians should never have to pay for learning, it is the responsibility of the learned to give it freely, at the teachers own expense. 
 # Links:
 
 202409122310

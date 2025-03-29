@@ -1,9 +1,7 @@
 ---
-title: Job Prays for a Mediator
 updated: 2025-01-23T21:55:32-06:00
 date: 2025-01-23T21:55:32-06:00
 ---
-
 In [[Job]] 8, Job rebuts his friends saying it doesn't matter whether he is guilty or innocent. Even if he had God's ear, which we cannot ask for in fairness, God is not required to listen or agree with us. He prays for a mediator. We now **have** one, [[Jesus]]!
 
 > 33 If only there were someone to mediate between us,
@@ -15,4 +13,3 @@ In [[Job]] 8, Job rebuts his friends saying it doesn't matter whether he is guil
 # Links:
 
 202408230813
-

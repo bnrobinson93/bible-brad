@@ -1,5 +1,4 @@
 ---
-title: Temple of the Living God
 updated: 2025-01-23T21:55:32-06:00
 URL: https://www.youtube.com/watch?v=XuW1DX7Cr4E
 aliases:

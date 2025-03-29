@@ -1,10 +1,8 @@
 ---
-title: The Bread - Light of Life
 updated: 2025-01-23T21:55:33-06:00
 URL: https://www.youtube.com/watch?v=QaQHj4wIx8A
 date: 2025-01-23T21:55:33-06:00
 ---
-
 Part 1: [[From the Garden to Golgotha]]
 
 [[Seek God]]
@@ -18,9 +16,7 @@ God delivers instruction for the tabernacle to essentially say "If **you** want 
 [[Table of Showbread]]
 
 [[Menorah]]
-
 # Links:
-
 [[A Rood Awakening]]
 [[7 in the Bible]]
 [[Menorah]]
@@ -29,4 +25,3 @@ God delivers instruction for the tabernacle to essentially say "If **you** want 
 [[7 Spirits of God]]
 
 202408030746
-
