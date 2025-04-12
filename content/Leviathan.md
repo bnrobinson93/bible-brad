@@ -1,16 +1,16 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-04-10T20:33:43-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 # Leviathan
 #refine 
+
 > [[Isaiah|Isa]] 27:1
 > In that day, the LORD will punish with his sword—
  	his fierce, great and powerful sword—
  Leviathan the gliding serpent, Leviathan the coiling serpent; he will slay the monster of the sea.
  
 The entirety of [[Job]] 41:
-
 > 41 “Can you pull in Leviathan with a fishhook
  	or tie down its tongue with a rope?
  ² Can you put a cord through its nose
