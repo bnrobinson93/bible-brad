@@ -1,5 +1,5 @@
 ---
-updated: 2025-04-19T10:55:14-05:00
+updated: 2025-04-19T13:55:41-05:00
 date: 2025-04-13T09:15:02-05:00
 ---
 [[Luke]] 16 gives an interesting parable with an even more interesting lesson. In it, a master is about to fire a servant because he has been unfaithful in watching over finances. Before he was gone, he went out and got back some sizeable percentage from each of the debtors and returned it to the master. The master made note of the shrewd behavior and kept him.

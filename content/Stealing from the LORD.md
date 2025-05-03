@@ -1,5 +1,5 @@
 ---
-updated: 2025-04-19T10:55:14-05:00
+updated: 2025-04-19T13:55:41-05:00
 date: 2025-04-13T09:06:43-05:00
 ---
 In [[Joshua]] 7, we find the story of Achan. When God gave Jericho to Israel, he told them that this city was not to be plundered, as it was the first fruit for Him. However, Achan took for himself a beautiful robe, roughly $50k worth of gold, and about $2.5k of silver. He hid this in his tent. God called him out and he was ultimately stoned to death as a result of his disobedience.
