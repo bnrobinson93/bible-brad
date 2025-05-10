@@ -1,5 +1,5 @@
 ---
-updated: 2025-04-30T22:21:13-05:00
+updated: 2025-05-04T10:41:52-05:00
 date: 2025-04-28T22:56:56-05:00
 ---
 [[Gideon]], having killed the Midianite leaders, was asking to become a leader, to which he declined, saying God was their ruler. He did, however, ask for a small amount of gold from each person. He took this gold and fashioned what ultimately became an idol.

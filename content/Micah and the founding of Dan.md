@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-03T10:08:55-05:00
+updated: 2025-05-04T10:41:52-05:00
 date: 2025-05-03T09:45:19-05:00
 ---
 In [[Judges]] 17 and 18, we get the story of Micah and his [[Levite]]. Micah's mother had been robbed of 1100 talents of silver (roughly $12.4k) and Michael was able to return it to her as a thank you. She had it given to him and cast as an idol. He placed it in his home along with other household gods and then found a Levite who was wandering around for a new place to live and made him his priest. The tribe of [[Dan]], having not yet established their land, passed on their way to scout out the land and found the [[Levite]]. They asked him to give them a blessing over their pursuit of land and he did. When they found the land good, they returned with the full army. He was hired as their tribe's levite. They stole the idol - Micah could not defend against an army - took the land, and set up Micah's idol there. This became the town of Dan in the far north of Israel. While the city was abandoned around 733 BC, the idol remained in place as long as [[Shiloh]] was in use.
