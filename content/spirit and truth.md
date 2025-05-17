@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-06T22:56:42-05:00
+updated: 2025-05-12T12:37:16-05:00
 date: 2025-05-05T19:46:48-05:00
 ---
 In [[John]] 4, Jesus encounters the [[Samaritan]] woman at the well. He reveals to her that he is the Messiah and tells her that, despite how the Samaritans worship or how the Jews worship, God is spiritual and he desires those who worship him in both spirit and in truth.
