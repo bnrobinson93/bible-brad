@@ -1,9 +1,20 @@
 ---
-updated: 2025-05-12T19:35:33-05:00
-date: 2025-05-12T12:37:36-05:00
+Favorite: false
+updated: 2025-05-18T22:44:52-05:00
+tags:
+  - bible
+URL: 
+date: 2025-05-12T19:35:33-05:00
 ---
-In [[1 Samuel|1 Sam]] 13, we see the beginning of the end for King Saul. Th
+# Context
 
-# Links:
+  
 
-202505121237
+# One
+
+## Sub One
+
+  
+
+> [!important]  
+> Question:

@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-16T12:33:51-05:00
+updated: 2025-05-18T22:44:52-05:00
 date: 2025-05-15T10:27:22-05:00
 ---
 In [[1 Samuel|1 Sam]] 17, the story of [[David]] and [[Goliath]] is recounted. Perhaps one of the most well-known tales of the Bible, we're told of a giant who renounces [[Israel]] and the God thereof for 40 days, daring someone to fight him instead of the army, winner take all. [[David]], who was ping-ponging between [[Bethlehem]] (tending to his father's sheep) and the battle field (to support his three oldest brothers in the war) arrives and ultimately decides to stand up for Israel. [[King Saul]] gives him his own armor and weapons but [[David]] turns them down in favor of a sling. He, "but a young boy," strikes [[Goliath]] in the forehead, killing him, and then beheads him. The [[Philistines]] flee and Israel is victorious. From that day, [[David]] serves the king and does not return home.
