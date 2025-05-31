@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-28T19:28:14-05:00
+updated: 2025-05-30T21:17:50-05:00
 date: 2025-05-21T23:36:11-05:00
 ---
 In [[1 Samuel]] 29 and 30, [[David]] and his men are forbidden from fighting with the man they'd been staying with, as the [[Philistines]] did not want him to flip on them last minute. Rather, he is sent away. This is good as ultimately the battle that ensued is what lead to the death of Saul's sons and [[Saul]] to his suicide.

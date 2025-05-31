@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-28T19:28:14-05:00
+updated: 2025-05-30T21:17:51-05:00
 date: 2025-05-19T08:58:15-05:00
 ---
 In [[1 Samuel]] 24 and 25, we are given two examples from [[David's]] life that show how we should deal with vengeance. In the first, David had the opportunity to kill Saul, yet did not, even at the prompting of his men; Saul was still the appointed king and David still his servant. Vengeance for the wrongdoing would need to come from God.
