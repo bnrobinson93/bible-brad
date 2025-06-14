@@ -1,5 +1,5 @@
 ---
-updated: 2025-06-07T11:38:54-05:00
+updated: 2025-06-07T18:32:39-05:00
 date: 2025-06-03T08:56:01-05:00
 ---
 In [[2 Samuel]] 21, we find that there is a drought in [[Israel]]. [[David]] inquires of the [[LORD]] and is told that it is because of [[Saul's]] betrayal of the [[Amorites]] ([[Gibeon]]), who they had sworn to protect. [[David]] made recompense with them and the rain fell.

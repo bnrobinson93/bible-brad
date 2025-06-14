@@ -1,5 +1,5 @@
 ---
-updated: 2025-06-01T09:41:59-05:00
+updated: 2025-06-07T18:32:39-05:00
 date: 2025-05-31T09:40:16-05:00
 ---
 In [[2 Samuel]], we encounter a story of two of David's sons. Perhaps the most famous, [[Solomon]], is no where to be found just yet. Absalom was the brother of [[Tamar]] and their half brother, [[Amnon]], became infatuated with [[Tamar]], ultimately raping her and then putting her away. Absalom, a good brother, took her in and kept her safe - as she was now ineligible for marriage according to their custom. A few years later, [[Amnon]] and Absalom are away from Jerusalem - at a battle in [[Ephraim]] - and Absalom kills [[Amnon]]. He flees to the home of his maternal grandfather, for fear of consequences. [[Joab]] devises a plan to have [[Absalom]] return home - sending someone to tell a tale that paralleled that of Absalom and [[Amnon]] and then turning the tables so that the king would restore his son. [[Absalom]] returns but [[David]] refuses to look at him.
