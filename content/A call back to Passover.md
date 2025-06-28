@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:25:29-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 When King Hezekiah reigned, he called in the people of Israel to celebrate the feasts of Passover and unleavened bread. Unfortunately, most of the priests were not in a ritually clean state in the first month, so they agreed to hold to the [[Passover provision of the second month]]. The priests went around to call on the people, but most laughed at them. Some, however, humbled themselves and went up to Jerusalem.

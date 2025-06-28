@@ -1,5 +1,5 @@
 ---
-updated: 2025-04-19T13:55:41-05:00
+updated: 2025-06-28T11:26:03-05:00
 date: 2025-04-18T19:44:46-05:00
 ---
 In [[Joshua]] 17 and 18, we see two stories about the Israelites settling in the land. In the first, Manassites ask Joshua for more land. His response is that the land is there's to take and that God has already given it to them. They were fearful of those who lived there and didn't want to work the land, yet this was their allotment. 

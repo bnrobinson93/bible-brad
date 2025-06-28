@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:26:29-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 In [[2 Timothy]] 2, Paul invites us to his suffering. He gives three examples for us to emulate in a spiritual sense:

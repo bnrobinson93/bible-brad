@@ -1,5 +1,5 @@
 ---
-updated: 2025-03-29T09:04:20-05:00
+updated: 2025-06-28T11:25:30-05:00
 date: 2025-01-23T21:55:31-06:00
 ---
 In [[Jeremiah]] 6-7, we see a picture of arrogant people. God tries to purify them with trials but rather than shed the impurities, they lean into it; the Bible says that they are like copper with lead and that rather than the lead burning off, they call themselves rejected silver - hoisting themselves to a higher status than they are and blaming God for rejection.

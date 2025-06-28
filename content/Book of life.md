@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:33-06:00
+updated: 2025-06-28T11:25:36-05:00
 aliases:
   - Do infants go to heaven?
   - If you never hear of God, are you saved?

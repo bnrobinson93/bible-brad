@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:25:25-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 In [[Genesis|Gen]] 13, we see a few examples of Abraham (then Abram) living a life of generosity. Namely, he notices quarreling between he and his nephews staff, and allows his nephew, Lot, to choose whichever land he would prefer, then go the other way. Ultimately, God rewards this by promising the land of Israel to him and keeping him safe as opposed to Sodom, where Lot chose to live.

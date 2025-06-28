@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-18T22:44:52-05:00
+updated: 2025-06-28T11:25:41-05:00
 date: 2025-05-08T23:09:16-05:00
 ---
 In [[1 Samuel|1 Sam]] 2-4, we have a few stories recounted. Firstly, Eli's two sons - descendents of Aaron - had been taking out of the offerings that which was to be God's, and had grown fat. Eli heard from God that this was wrong but he did little to correct them. God strikes him blind and separates the role of priest to be for those who love him; to those who don't, only agony, death, and suffering.

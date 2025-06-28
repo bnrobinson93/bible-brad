@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:26:09-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 In [[Psalms]] 37, David gives his recipe for not worrying:

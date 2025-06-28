@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:26:19-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 In [[1 Cor]] 15,  Paul discusses our new bodies. After speaking of [[Jesus's resurrection]] answering the pressing question of "is [[resurrection]] a thing," ("he answers, I sure hope so or this is all a joke") he tries to answer the question of what that will look like.

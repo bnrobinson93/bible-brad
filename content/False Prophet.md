@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:26:05-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 False prophets, often called "soothsayers" are people who claim to speak on behalf of God but speak only words that "sooth" those who hear the words. 

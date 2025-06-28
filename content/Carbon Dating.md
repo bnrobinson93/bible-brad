@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:25:40-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 Carbon-14 (C-14) degrades into Nitrogen-14 (N) with a half life of 5730 years. At the moment, roughly 1/1T C-14 atoms exist per C-12 (C). The earth has 1.3x10^50 atoms. Given that mass were made *entirely* of C-14, it would decay down to one atom within 1 million years. Therefore anything "older" than 1 million years old is inherently impossible to guarantee.

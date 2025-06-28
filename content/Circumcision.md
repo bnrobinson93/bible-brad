@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-06-28T11:25:59-05:00
 date: 2025-01-23T21:55:32-06:00
 ---
 Circumcision is far more than a physical act of cutting; it symbolizes our commitment to God and our trust in Him. We first see this act done by Abraham at the time that he was promised a son that would turn into a nation despite his old age. The tradition appeared to carry forward from there into Egypt. However, we see in  [[Joshua]] 5 that this practice seemed to have stopped while in the wilderness. Additionally, we see that the people stopped holding the Passover while in the wilderness. Jake Hilton, in [[Crossing Over]], contends that this was due to the commandment that Passover could only be held by families in which all sons were circumcised and that this was the rule for both natural children of Israel and the foreigner who wished to partake ([[Exodus]] 12:48-49). Once the people are circumcised, we see that the LORD stops providing manna and they hold the Passover in the [[Promised Land]] for the first time ([[Joshua]] 5:10-12).
