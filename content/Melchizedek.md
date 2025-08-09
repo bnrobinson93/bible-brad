@@ -6,7 +6,7 @@ Created: 2022-11-03T22:08
 Updated: 2022-11-04T06:55
 Favorite: false
 created: 2024-07-15T22:22
-updated: 2025-07-09T00:24:40-05:00
+updated: 2025-08-09T09:21:58-05:00
 date: 2025-07-08T21:58:25-05:00
 ---
 
@@ -77,7 +77,7 @@ date: 2025-07-08T21:58:25-05:00
 
 # Tying that back to Jesus
 
-- The author of [[Hebrews]] does most of the leg work here
+- The author of [[2-Areas/Bible/Teaching/Hebrews]] does most of the leg work here
 - Citing [[Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
   - The LORD said to my lord — that is [[God]] said to Jesus
   - Just as [[Melchizedek]]’s back story is unknown, only that he was called by God, so was Jesus

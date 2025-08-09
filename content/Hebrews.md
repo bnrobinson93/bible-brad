@@ -5,10 +5,10 @@ tags:
   - New-Testament
 date: 2023-02-16T22:36
 Favorite: false
-updated: 2025-03-01T10:16:25-06:00
+updated: 2025-08-09T09:21:58-05:00
 ---
 
-[[Hebrews]]
+[[2-Areas/Bible/Teaching/Hebrews]]
 
 # Context
 
@@ -104,7 +104,7 @@ updated: 2025-03-01T10:16:25-06:00
 ### Intro
 
 - Previously, we recounted the prophecies of David regarding his descendant, who would also be the son of [[God]] ([[Matthew]] 22:45, if he comes from David, why is he called “Lord” by David)
-- [[Hebrews]] is written to Messianic Jews prior to the destruction of the temple
+- [[2-Areas/Bible/Teaching/Hebrews]] is written to Messianic Jews prior to the destruction of the temple
   - At the time they were called “Netzerim” — followers of the Netzer
   - A Netzer is a root the grows separately from the main plant
   - [[Yeshua|Jesus]] was called this by [[Isaiah]] ([[Isaiah]] 11:1-5)
