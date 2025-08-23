@@ -5,7 +5,7 @@ tags:
   - New-Testament
 date: 2023-02-16T22:36
 Favorite: false
-updated: 2025-08-09T09:21:58-05:00
+updated: 2025-08-09T11:41:32-05:00
 ---
 
 [[2-Areas/Bible/Teaching/Hebrews]]
