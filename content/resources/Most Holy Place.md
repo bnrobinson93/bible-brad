@@ -4,9 +4,11 @@ aliases:
   - Most Holy
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:14
+title: Most Holy Place
+updated: 2025-09-14T17:24:04-05:00
 ---
+
+# Most Holy Place
 
 The representation of God's throne room
 
@@ -16,7 +18,6 @@ The location in which the [[Ark of the Covenant]] is placed
 
 This room may only be entered into by the [[High Priest]] once per year on the [[Day of Atonement]].
 
-# Links:
+## Links:
 
 202407271041
-

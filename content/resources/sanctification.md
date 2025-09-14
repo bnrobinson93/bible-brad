@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-14T17:05
+title: sanctification
+updated: 2025-09-14T17:23:49-05:00
 ---
+
+# sanctification
 
 The idea is to progress through each of these steps. We should see God as...
 
@@ -13,9 +15,8 @@ The idea is to progress through each of these steps. We should see God as...
 3. A friend - Jesus laid down his life for us; we should be a friend that is willing to lay down our lives for him. The goal here is to grow to the point that your mind and Jesus's are aligned; to get to the point that you are in constant relationship.
 4. A groom - At this point, we rule and reign with God in the [[New heaven and new earth]]
 
-# Links:
+## Links:
 
 [[Sanctification - Never stop improving]]
 
 202410291047
-

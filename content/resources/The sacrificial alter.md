@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:31-06:00
-title: Links:
-updated: 2025-09-06T01:15
+title: The sacrificial alter
+updated: 2025-09-14T17:24:19-05:00
 ---
+
+# The sacrificial alter
 
 ## Why that shape? Why the horns?
 
@@ -16,7 +18,6 @@ The earth is spoken of as having four corners, the cardinal directions. So then,
 
 The five [[Types of offerings]]
 
-# Links:
+## Links:
 
 202408101031
-

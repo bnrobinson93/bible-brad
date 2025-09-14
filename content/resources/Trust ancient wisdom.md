@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:15
+title: Trust ancient wisdom
+updated: 2025-09-14T17:23:37-05:00
 ---
+
+# Trust ancient wisdom
 
 b# Trust ancient wisdom
 
@@ -13,7 +15,6 @@ b# Trust ancient wisdom
 
 Perhaps the elderly have wisdom about something. Removing a boundary they set up may prove to be the most foolish thing we could do. Sometimes, it's best to trust that things are the way they are for our own good and getting around it will only cause you pain.
 
-# Links:
+## Links:
 
 202409092120
-

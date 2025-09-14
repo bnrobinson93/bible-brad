@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:15
+title: The mark of the beast
+updated: 2025-09-14T17:23:43-05:00
 ---
+
+# The mark of the beast
 
 According to [[Revelation|Rev]] 13:16-18, the mark of the beast is the name of the beast written upon the forehead or right hand and is used in order to allow commerce. The mark is left somewhat ambiguous but is left for "those who understand" and is described as a number which is "the mark of a man" - 666.
 
@@ -29,7 +31,6 @@ The [[Revelation]] was written in 98AD. This as after Emperor Nero (Kaiser Neron
 
 ![[Pasted image 20241123111228.png]]
 
-# Links:
+## Links:
 
 202411231107
-

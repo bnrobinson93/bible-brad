@@ -3,8 +3,10 @@ aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
 title: Links
-updated: 2025-09-06T01:17:01-05:00
+updated: 2025-09-14T17:23:26-05:00
 ---
+
+# sin
 
 Sin is often defined according to the English word, which was an archery term meaning "to miss the mark." While I do think that's a valid interpretation, I don't think it fully embodies the meaning from Scripture. My personal definition is that which can be found in the Bible itself: sin is transgression of the law.
 
@@ -22,7 +24,7 @@ Primarily, I think it's important to have an explicit goal that we can strive fo
 
 Perhaps more importantly, I think an explicit measure for sin matters because we, as sinners, need to know what sin is in order to stop sinning. If the definition of sin is left up to us, we can easily define evil as good and righteousness as transgression. Played all the way out, if there is no law at all we have no need for salvation. That is, if the salvation that Jesus offers us is salvation from the law of sin and death - as is laid out in Romans, and there is no sin, there is no punishment required and, therefore, no need for rescue from that punishment.
 
-# Links
+## Links
 
 [[forgiveness]]
 [[Salvation]]
@@ -34,4 +36,3 @@ Perhaps more importantly, I think an explicit measure for sin matters because we
 [[Faith without works]]
 
 20250318085600
-

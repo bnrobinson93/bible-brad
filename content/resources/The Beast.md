@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:14
+title: The Beasd
+updated: 2025-09-14T17:21:41-05:00
 ---
+
+# The Beast
 
 The beast has seven heads - to represent the seven mountains, which represents the continents - with 10 horns and 10 crowns, one on each horn. Each head had a blasphemous name ([[Revelation|Rev]] 13). All of the nations follow the beast. The beast was given a mouth and allowed to speak pride, blasphemous words for 42 months (3.5 years). The beast will be seen and worshiped as God by all **except** those who love God and keep his commandments ([[Revelation|Rev]] 20).
 
@@ -14,7 +16,7 @@ The beast is the "Messiah," the false prophet is "Jesus." While neither are true
 
 After the 42 months, the [[Abomination of Desolation]] will occur. Jesus warns about this in [[Matthew|Matt]] 24 and tells the true believer **immediately** run to the mountains as **soon** as this occurs. It is at this point that things get _really_ bad. The bible says this is worse than it has ever been or will ever be; that means this will beat out the holocaust, the gladiators, crucifixions, World Wars, the crusades, the Flood - it's going to be bad.
 
-# Links:
+## Links:
 
 [[Return of the King]]
 [[False Prophet]]
@@ -22,4 +24,3 @@ After the 42 months, the [[Abomination of Desolation]] will occur. Jesus warns a
 [[A Rood Awakening]]
 
 202411230942
-

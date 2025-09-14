@@ -1,12 +1,13 @@
 ---
 aliases: []
-tags: []
+tags:
+  - refine
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:14
+title: Messiah son of Joseph
+updated: 2025-09-14T17:25:19-05:00
 ---
 
-#refine
+# Messiah son of Joseph
 
 I listened to an interesting podcast today. In it, they talk about the concept of the two messiahs. They start by speaking of Genesis, where Jacob speaks to Joseph and promises a figure will rise from his line. Moses confirms that Joshua (son of Nun, an Ephriamite[^1]) is that realization but will also have a future realization. This prophecy ([[Deuteronomy|Deut]] 33:16-17) was that his descendant would be like a first born ox (born for sacrifice) but would have the horns of an aurochs (a wild ox that was left alone).
 
@@ -27,7 +28,7 @@ How does this messiah differ from Jesus?
     [^2] Messiah as a peaceful man
     [^3] Messiah coming from the city of Rachel
 
-# Links:
+## Links:
 
 [[Two Messiahs]]
 
@@ -36,4 +37,3 @@ How does this messiah differ from Jesus?
 [Link to Podcast](https://podcasts.apple.com/us/podcast/the-naked-bible-podcast/id961385822?i=1000529937555)
 
 202501092041
-

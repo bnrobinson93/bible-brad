@@ -2,17 +2,18 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:14
+title: Speak when it Matters
+updated: 2025-09-14T17:19:42-05:00
 ---
+
+# Speak when it Matters
 
 [[Proverbs]] 26:4-5 seem to contract each other. One says not to respond to a fool or you make yourself as foolish. The other says to respond to a fool lest he think he's wise.
 
 The lesson here is to know when to speak. Sometimes, correction is necessary. Other times, speaking adds nothing to the conversation and only adds fuel to a raging fire. Think before you speak.
 
-# Links:
+## Links:
 
 [[the tongue]]
 
 202410231729
-

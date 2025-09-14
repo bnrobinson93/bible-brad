@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:31-06:00
-title: Links:
-updated: 2025-09-06T01:15
+title: The law is perfect
+updated: 2025-09-14T17:24:20-05:00
 ---
+
+# The law is perfect
 
 > [[Psalms]] 19:7 The law of the LORD is perfect, refreshing the soul.
 > The statutes of the LORD are trustworthy,
@@ -14,7 +16,6 @@ updated: 2025-09-06T01:15
 > 9 The fear of the LORD is pure, enduring forever.
 > The decrees of the LORD are firm, and all of them are righteous.
 
-# Links:
+## Links:
 
 202407251247
-

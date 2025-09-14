@@ -2,9 +2,11 @@
 aliases: []
 tags: []
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:14
+title: The two goats
+updated: 2025-09-14T17:23:21-05:00
 ---
+
+# The two goats
 
 Two identical goats are brought for the [[Day of Atonement]] ([[2-Areas/Bible/Books of Bible/Leviticus|Lev]] 16). One goat is used for sacrifice. The other is released into the desert. Note, these are not a shadow picture of Jesus. He is not "the goat of God" nor did he die on [[Yom Kippur]]. Rather, these goats point to something lawless.
 
@@ -25,11 +27,10 @@ Reckonings of the temple service records that the lamb that was sent away would 
 
 Mishna Yoma 6 (6:6) covers more about how the service used to work (including the miracle of the crimson strip turning white). View it [here](https://www.sefaria.org/Mishnah_Yoma.6.6?lang=bi&with=all&lang2=en).
 
-# Links:
+## Links:
 
 [[Day of Atonement]]
 [[The Arc of the Covenant]]
 [[1000 year reign]]
 
 202408171107
-

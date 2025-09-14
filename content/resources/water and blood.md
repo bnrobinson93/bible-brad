@@ -1,18 +1,18 @@
 ---
 aliases: []
-tags: []
+tags:
+  - refine
 created: 2025-01-23T21:55:32-06:00
-title: Links:
-updated: 2025-09-06T01:15
+title: water and blood
+updated: 2025-09-14T17:26:45-05:00
 ---
 
-#refine
+# water and blood
 
 1 John 5:6-12 proclaims that Jesus comes by water and blood (and the Spirit)
 
 This is speaking of the water and blood that pours out of Jesus when he is stabbed in the side on the cross ([[John]] 19:33-37).
 
-# Links:
+## Links:
 
 202408171146
-
