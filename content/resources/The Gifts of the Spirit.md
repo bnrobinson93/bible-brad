@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 [[1 Corinthians|1 Cor]] 12 covers the Gifts of the Spirit. Paul lays them all out as examples and then likens them to a body. One body part is not lesser than another, only different. Likewise, no body part can remove another body part just because the former doesn't need it in order to do its job. The body parts that are less presentable are only presented with honor and those that are more presentable require no pomp and circumstance. So too is the body of Christ.
 

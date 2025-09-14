@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:16-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 > [[Proverbs]] 19:26
 26 Whoever robs their father and drives out their mother

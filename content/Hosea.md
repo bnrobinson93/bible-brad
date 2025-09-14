@@ -1,14 +1,8 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - Old-Testament
-Created: 2022-01-20T17:16
-Updated: 2022-09-29T21:43
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:02-05:00
-date: 2025-07-18T21:09:02-05:00
+aliases: []
+tags: []
+updated: 2025-09-06T01:16:58-05:00
+created: 2025-09-06T01:16:58-05:00
 ---
 
 ## Intro

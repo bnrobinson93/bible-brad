@@ -1,26 +1,27 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
-Created: 2020-05-12T18:41
-Updated: 2022-09-29T21:44
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:23:23-05:00
-date: 2025-07-08T21:58:37-05:00
+created: 2020-05-12T18:41
+favorite: false
+title: The Wilderness
+updated: 2025-09-06T17:18:18-05:00
 ---
 
-# Group questions
+# The Wilderness
+
+## Group questions
 
 1. On an individual level, how do we make the best of this situation
 2. As a group, how do we help each other and our community through this crisis?
 3. What scriptures are you leaning on in this time? What has [[God]] shown you through them?
 
-# Intro
+## Intro
 
 COVID-19 has tossed us into a lonely, silo'd world where we are encouraged to do things alone and forced to focus on what man can do for themselves and others. To me, we're in a time of wandering as a nation and I look to the Bible for hope, clarity, and guidance.
 
-# Why do we find ourselves here?
+## Why do we find ourselves here?
 
 Not to be over-spiritual but I do think that there is a constant battle going on right past our field of vision.
 
@@ -37,7 +38,7 @@ Last week I already touched on the judgement a bit and I feel that it being a te
 
 One place that we find perhaps a non-example of what to do and an example of how [[God]] works is the 40 years in the desert - the wasteland.
 
-# Manna from heaven
+## Manna from heaven
 
 We now have average-Joes and princes of large nations that have Coronavirus. In some ways, I think this may be a way of humbling the proud and equalizing us under [[God]] - a reminder to us all that [[God]] sees us all the same way: beloved sons that have wandered far, spat in his face, and - hopefully - returned home, repentant; wanting to draw close to Him; to do his will as a bond slave (Ex 21:5-6, Deut 15:12-18).
 

@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-08T11:47:04-06:00
-date: 2025-03-05T18:13:23-06:00
+updated: 2025-07-13T08:33:43-05:00
+created: 2025-03-05T18:13:23-06:00
 ---
 In [[Mark]] 12, we get a good glimpse at what the resurrection entails. The Sadducees attempt to entrap Jesus in a question about resurrection - as they themselves held that there is no resurrection of the dead. Jesus answers their questions with pity over their lack of understanding. He essentially boils it down to two points:
 

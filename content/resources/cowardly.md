@@ -1,9 +1,9 @@
 ---
-id: 1728758046-TSVC
 aliases: []
 tags: []
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
+title: Links:
+updated: 2025-09-06T01:14
 ---
 
 [[Revelation]] 21:8 mentions a list of people that will not inherit the kingdom of the earth. The first listed is the cowardly and they are listed amung murderes, the sexually immoral, and magicians; idolaters and liars.

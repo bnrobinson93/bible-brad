@@ -1,39 +1,24 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - New-Testament
-Created: 2022-01-06T21:14
-Updated: 2022-01-20T17:18
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:02-05:00
-date: 2025-07-18T21:09:02-05:00
+aliases: []
+tags: []
+title: Romans
+updated: 2025-09-06T01:16:58-05:00
+created: 2025-09-06T01:16:58-05:00
 ---
 
-[Background](#Background)
+# Romans
 
-[When was it Written](#When was it Written)
-
-[What was Going on in Rome at the Time](#What was Going on in Rome at the Time)
-
-[Paul’s Purpose for Writing](#Paul’s Purpose for Writing)
-
-[Chapters 1-4](#Chapters 1-4)
-
-[Chapters 5-16](#Chapters 5-16)
-
-# Background
+## Background
 
 ---
 
-## When was it Written
+### When was it Written
 
 - Dated to 57AD, likely written from the time that Paul was in Corinth
 - Nero and Agrippa are still in charge
 - This takes place about 5 years before the Great Fire (64AD), so persecution is slowly mounting
 
-## What was Going on in Rome at the Time
+### What was Going on in Rome at the Time
 
 - Jews considered themselves superior to the [[Romans]] (same as Jesus’s day)
 - The church had existed for a while but Christianity, still “The Way”, consisted of a mixture of Messianic Jews and Pagan converts
@@ -41,7 +26,7 @@ date: 2025-07-18T21:09:02-05:00
   - The Pagan converts, coming out of a life of “envy, murder, strife, deceit, malice, gossips, slanderes, God-haters, insolence, arrrogance, boastfulness, disobedience, and inventers of evil”, no doubt struggles of “what was ‘still’ ok” were occurring
     - It feels like half of chapter 1 is dedicated to homosexuality. This was a prime example of the rejection of [[God]] and how, insodoing, perversion occurs. Some believe that this was discussing purely the concept of lust, in any capacity. It is clear from 1 Cor 6:9 that Paul was not ok with loving homosexual relationships but condemned them all as “ervah” - sexual [[sin]] (as laid out in [[[[Leviticus]]]])
 
-## Paul’s Purpose for Writing
+### Paul’s Purpose for Writing
 
 - His purpose was to present the gospel and, secondarily, to address the issues that were occurring in Rome at the time
 - Paul indicates that he had often tried to make it to Rome and was hoping to visit soon on his way - or as a stepping stone - to Spain. The letter served as a bit of an introduction to lay the groundwork for his visit that would never occur - Paul’s imprisonment and death (in Rome) took place 10 years after its writing
@@ -51,7 +36,6 @@ date: 2025-07-18T21:09:02-05:00
   **Rom 3:8** And why not say, “Let us do evil so that good may come of it”? - as some who slander us allege we say
   **Rom 3:31** Do we then nullify the law through faith? Absolutely not! Instead we uphold the law
 - Catholic sources indicate that Peter lead the church in Rome (now St. Peter’s Basilica) though sources vary as to whether he actually ever visited
-
   - Peter likely only spoke Aramaic and was a fisherman before meeting Jesus
   - Peter and [[James]] lead the church in Jerusalem according to [[Acts]] 15 (Jerusalem Council, 48AD)
   - Giaus, 2nd century, wrote of Peter’s acts within the church in Rome
@@ -59,7 +43,7 @@ date: 2025-07-18T21:09:02-05:00
 
 - Whether or not Peter was in a leadership role, or even had visited Rome, the Roman church was plagued with extremists on both sides of the truth vs faith dispute: Jews vs Pagan converts to “The Way” (name for Christianity before formalization in 320AD; [[[Acts]] 9:2](https://biblia.com/bible/esv/[[Acts]]%209.2); [19:9](https://biblia.com/bible/esv/[[Acts]]%2019.9), [23](https://biblia.com/bible/esv/[[Acts]]%2019.23); [22:4](https://biblia.com/bible/esv/[[Acts]]%2022.4); [24:14](https://biblia.com/bible/esv/[[Acts]]%2024.14), [22](https://biblia.com/bible/esv/[[Acts]]%2024.22))
 
-# Chapters 1-4
+## Chapters 1-4
 
 ---
 
@@ -70,7 +54,7 @@ date: 2025-07-18T21:09:02-05:00
 - God’s solution is to send His son, one for **all**
 - Justification, then, comes from [[God]] and never from the Law, the the Law is good (Ps 19:7 “law of the Lord is perfect”) and **does** provide guidance to what righteousness is, a standard to practice God’s righteousness and a mirror that shows us our faults
 
-# Chapters 5-16
+## Chapters 5-16
 
 ---
 
@@ -90,7 +74,6 @@ date: 2025-07-18T21:09:02-05:00
 - Also, we should remember that if we - wild branches - can be grafted into the root, how much easier is it for a natural branch to be grafted in
 
 - Paul then talks to specific issues of the church:
-
   - [[Love]] - superiority and lack of understanding
   - Judgement around food
 

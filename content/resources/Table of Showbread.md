@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 Lechem Panim - "Bread of the Presence" - Bread of the face of God
 

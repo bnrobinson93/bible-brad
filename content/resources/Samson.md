@@ -1,6 +1,6 @@
 ---
-updated: 2025-05-04T10:41:51-05:00
-date: 2025-05-01T19:10:27-05:00
+updated: 2025-07-13T08:34:48-05:00
+created: 2025-05-01T19:10:27-05:00
 ---
 In [[Judges]], we encounter a story of a woman who was barren. She is approached by an angel and is told she would have a baby that must live as a Nazarite[^1]. She takes it to her husband who is slow to accept it. Once the angel appears again, they realize that this is from God and obey.
 

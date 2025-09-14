@@ -1,16 +1,13 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - New-Testament
-  - Old-Testament
-Created: 2022-03-31T22:21
-Updated: 2022-03-31T23:47
-Favorite: false
-created: 2024-07-15T22:35
-updated: 2025-07-09T00:25:06-05:00
-date: 2025-07-08T21:58:04-05:00
+aliases: []
+tags: []
+title: End Times
+updated: 2025-09-06T01:16:57-05:00
+created: 2025-09-06T01:16:57-05:00
 ---
+
+# End Times
+
 [Intro](#Intro)
 
 [Daniel](#Daniel)
@@ -33,19 +30,19 @@ date: 2025-07-08T21:58:04-05:00
 
 [Revelation](#Revelation)
 
-# Intro
+## Intro
 
 - Lots of stuff scattered around:
-    - Daniel - four beasts (eagle, bear, leopard, horned beast)
-    - Zechariah
-    - Ezekiel
-    - Isaiah
-    - The Gospels
-    - Revelation
+  - Daniel - four beasts (eagle, bear, leopard, horned beast)
+  - Zechariah
+  - Ezekiel
+  - Isaiah
+  - The Gospels
+  - Revelation
 
-# Daniel
+## Daniel
 
-## Chapter 7
+### Chapter 7
 
 The four beasts:
 
@@ -59,7 +56,7 @@ Interpretation:
 - Each beast represents four kings or kingdoms
 - The fourth beast means (v23-27) that a fourth kingdom will arise, different from the others. It will devour the earth and temple, humiliating three kings (kingdoms) and the world will conspire to destroy it, reigning in the eternal kingdom
 
-## Chapter 8
+### Chapter 8
 
 Two years later...
 
@@ -76,14 +73,14 @@ Interpretation (8:16-)
 - The vision pertains to the end of times
 - The ram represents Media and Persia
 - The goat is Greece
-    - The horn was broken into four
-    - When Alexander the Great died, his kingdom was split into Asia (includes modern day Syria, Iraq, Iran, Afghanistan, and Pakistan), Egypt, Thrace, and Macedonia/Greece
-    - Rome then destroyed Greece and expanded its empire
-    - From Rome, grew the Roman Catholic church - different from all the others - and no army could rise against it
+  - The horn was broken into four
+  - When Alexander the Great died, his kingdom was split into Asia (includes modern day Syria, Iraq, Iran, Afghanistan, and Pakistan), Egypt, Thrace, and Macedonia/Greece
+  - Rome then destroyed Greece and expanded its empire
+  - From Rome, grew the Roman Catholic church - different from all the others - and no army could rise against it
 - At the end, the Greek kings will become rash and one king will arise and destroy God’s people through deceit
 - The 2300 should be sealed away for now as it is a long ways off
 
-## Prayer
+### Prayer
 
 Daniel recognizes that the period of Babylonian captivity would be 70 weeks
 
@@ -95,11 +92,11 @@ Seventy Weeks
 - From rebuild of Jerusalem until prince returns & temple completed: 7 + 62 weeks (1.3 years)
 - After 62 weeks (1.2 years), annointed one (messiah) will be cut off and have nothing
 - He will confirm a covenant with many for 1 week
-    - In the middle of that week he will stop sacrifice
-    - Many say that this will happen at 3.5 years into the tribulation period (1 week = 7 days so 7 years of tribulation ⇒ 3.5 days becomes 3.5 years)
+  - In the middle of that week he will stop sacrifice
+  - Many say that this will happen at 3.5 years into the tribulation period (1 week = 7 days so 7 years of tribulation ⇒ 3.5 days becomes 3.5 years)
 - Total: 2.5 years
 
-## Vision of War
+### Vision of War
 
 After some scary news of war, Daniel spent time fasting. While fasting, an angel approaches and reassures him that the war is in God’s control
 
@@ -118,12 +115,12 @@ From the time that the sacrifice is removed (abomination that causes desolation)
 
 Blessed are those who attain 1335 days = 3.6 years
 
-# Zechariah
+## Zechariah
 
-# Ezekeil
+## Ezekeil
 
-# Isaiah
+## Isaiah
 
-# The Gospels
+## The Gospels
 
-# Revelation
+## Revelation

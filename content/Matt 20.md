@@ -1,21 +1,18 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - New-Testament
-Created: 2021-03-16T21:45
-Updated: 2022-01-20T17:18
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:21-05:00
-date: 2025-07-08T21:58:21-05:00
+aliases: []
+tags: []
+title: Matt 20
+updated: 2025-09-06T01:16:58-05:00
+created: 2025-09-06T01:16:58-05:00
 ---
 
-# Context:
+# Matt 20
+
+## Context:
 
 let the children come ... the first shall be last and the last first
 
-# Parable of the workers
+## Parable of the workers
 
 A man hires people throughout the day. First at daybreak,again midmorning, again at noon, three, and five o'clock. At dusk, he gathers them together and pays the first "what is right" for a full day's work. When he pays all of the workers the same, the first grumble that they were treated unfairly. The master replies that he has every right to do what he wants with what is his. If he chooses to be generous to those that joined late, it's his call. You got what was deemed right, just the same as the others.
 
@@ -24,11 +21,11 @@ A man hires people throughout the day. First at daybreak,again midmorning, again
 - What are some ways that we can keep this perspective: that [[God|God's]] owns all and he can do with us as he pleases, even if it feels unfair towards us?
 - What we are given we are given to watch over, its not ours (Gen 1:26 "let him have dominion", Ps 127:3-4 "Behold, children are a heritage from the LORD, the fruit of the womb a reward. Like arrows in the hand of a warrior are the children of one’s youth.")
 
-# [[Yeshua|Jesus]] Predicts His Death
+## [[Yeshua|Jesus]] Predicts His Death
 
 Speaking of keeping perspective when things feel unfair to us, [[Matthew]] places this little nugget. This is on the way to Jerusalem, so not nessarily chronologically next. Yet the placement fits well with the idea of the first being last and the last being first. It also perfectly illustrates how [[Yeshua|Jesus]] does not complain about his allotment from God. Instead he pulls his desciples aside and simply mentions it.
 
-## A Mother's Request
+### A Mother's Request
 
 On the heels of this aside, it reads almost like [[James]] and [[John]] walked back to their group and found their mom, told them about Jesus's death, and she - wanting the best for her kids - wanted to get Jesus's sign on to their authority in heaven before he left.
 
@@ -36,7 +33,7 @@ Jesus responds in context with the last section: that they don't know what they'
 
 He rounds off the conversation by clarifying that heirarchies are not the way of the Kingdom. He beats it again into the desciples that to be first, you must be humbled as a servant.
 
-# A "Random" Healing
+## A "Random" Healing
 
 This passage kind of funny to me. We just read an entire chapter and a half on making yourself as a child - humbling yourself - and discussions of how things will work in the Kingdom of Heaven. Then [[Yeshua|Jesus]] and the gang are walking out of Jericho, on their march toward death, and a few guys are shouting somethig over the crowd around Jesus. [[Yeshua|Jesus]] shouts back "WHAT?" and they respond "We're blind! Can you help a [[brother]] out?" and [[Yeshua|Jesus]] heals them.
 

@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-08T11:47:04-06:00
-date: 2025-03-07T19:37:39-06:00
+updated: 2025-09-06T01:08:17-05:00
+created: 2025-03-07T19:37:39-06:00
 ---
 In [[Numbers]] 9, we see a model set before us. If this world and life are our version of the wilderness, the pillar of cloud and fire is the role of the Holy Spirit in our lives; when he moves, we must move. The children of Israel, the Bible says, followed the cloud whether it moved after years or just a few hours,m and whether it moved during the day or at night. We, too, should have this willingness to follow God. We are to stay when he says to stay and move when he says to move. 
 

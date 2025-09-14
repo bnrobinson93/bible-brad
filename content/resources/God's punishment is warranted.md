@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:15-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[Ezekiel]] 14, God speaks of his judgement and how none except the righteous should be spared. However, he then discusses how he plans to leave a few so that we may see a witness as to how judge the judgement was (v23, "you will know that nothing was done without cause").
 

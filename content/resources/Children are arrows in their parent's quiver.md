@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:08-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 > [[[Psa]] 127:4 ESV] Like arrows in the hand of a warrior are the children of one’s youth.
 

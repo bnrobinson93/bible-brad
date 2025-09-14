@@ -1,6 +1,6 @@
 ---
 updated: 2025-01-23T21:55:33-06:00
-date: 2025-01-23T21:55:33-06:00
+created: 2025-01-23T21:55:33-06:00
 ---
 Also known as "Christophanies," many believe that several appearances of Jesus occurred prior to his earthly birth. As Jesus is seen as the voice of a silent God, he is often displayed as an angel or a voice. This is also backed up by what Jesus says in [[John]] 8:56-58 (that he was before Abraham was) Examples include:
 

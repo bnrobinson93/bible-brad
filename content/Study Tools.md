@@ -1,28 +1,32 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
 Created: 2021-12-16T23:23
-Updated: 2022-09-29T21:43
 Favorite: false
+Updated: 2022-09-29T21:43
 created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:00-05:00
-date: 2025-07-18T21:09:00-05:00
+title: Study Tools
+updated: 2025-09-06T00:58:10-05:00
 ---
-# Books
+
+# Study Tools
+
+## Books
 
 - One New Man Translation + Companion Glosssary
 - Archelogical Study Bibile
 - Chronological Gospels
 - JSP (vocally hebrew translators) vs NIV (vocally english translators)
 
-# Online
+## Online
 
 [Blue Letter Bilble](https://www.blueletterbible.org/)
 
 - Interlinear
-    - Word by word translation
-    - Strongs concordence
+  - Word by word translation
+  - Strongs concordence
 - Commentaries
 - Parallel view
 - Bible Compare

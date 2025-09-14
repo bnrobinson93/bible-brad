@@ -1,14 +1,18 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-date: 2022-10-13T17:59
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-10-13T17:59
+title: Feast of Tabernacles
+updated: 2025-09-06T01:08:15-05:00
 ---
 
-# Sukkot
+# Feast of Tabernacles
+
+## Sukkot
 
 - The Feast of Booths (סֻכָּה) — a thicket or booth (rude or temporary shelter)
 - This one actually has a ton of references in scripture!
@@ -59,7 +63,7 @@ updated: 2025-01-23T21:55:32-06:00
     - On day 8, he stands up in a crowd and proclaims that any who thirst can call on him
     - Then the Pharisees seek to kill him
 
-# New Testament
+## New Testament
 
 - Ok, so this feast is a big deal, but why?
 - Over the last few weeks, we’ve discussed how each feast has a “present” fulfilment and often has a “Jesus” fulfillment, and then will later have a “future” fulfillment
@@ -81,7 +85,7 @@ updated: 2025-01-23T21:55:32-06:00
   - This, all together, lends me to believe [[Yeshua|Jesus]] was born temporarily to this world in the very week that symbolizes temporary dwellings. A time that commemorates [[God]] being with us in the wilderness and guilding our path by a pillar of smoke and of fire
   - For more, see the [[Christmas]]
 
-# Future Fulfillment
+## Future Fulfillment
 
 - This lends itself to the verse back in [[Zechariah]]: we're required to celebrate [[Yeshua|Jesus]] birthday!
 - This also is thought to be the time that, once [[God|God's]] wrath is poured out, we will feast in heaven with him, at the marriage supper of the lamb, that with the martyrs and saints

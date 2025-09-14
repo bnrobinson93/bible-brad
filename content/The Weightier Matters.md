@@ -1,14 +1,22 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-date: 2020-05-12T18:41
 Favorite: true
-updated: 2025-01-23T21:55:32-06:00
+`<<<<<<<`
+created: 2020-05-12T18:41
+`=======`
+date: 2020-05-12T18:41
+`>>>>>>>`
+title: The Weightier Matters
+updated: 2025-09-06T00:29
 ---
 
-# What are the weightier matters
+# The Weightier Matters
+
+## What are the weightier matters
 
 What [[Yeshua|Jesus]] says is first:
 
@@ -24,7 +32,7 @@ What [[Yeshua|Jesus]] says is first:
 
 > Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone. Ye blind guides, which strain at a gnat, and swallow a camel. - Matt 23:23-24
 
-# Breaking it down
+## Breaking it down
 
 - Justice
   - Greek: `G2920` *krisis* (literally "for or against", meaning a trial or judgement)
@@ -38,7 +46,7 @@ What [[Yeshua|Jesus]] says is first:
   - Greek: `G4102` *pistis* (persuasion, credence, or moral conviction; abstractly: consistency in such a profession; that is, walking the walk)
   - Hebrew: `H530` *emunah* = faithfulness, truth, office, stability, steadfast
 
-# Q&A
+## Q&A
 
 - How do we live out these traits?
 - How have you done with these in the past? How about since becoming a Christian?

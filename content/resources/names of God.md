@@ -2,8 +2,12 @@
 id: names of God
 aliases: []
 tags: []
-updated: 2025-01-23T21:55:33-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:33-06:00
+`=======`
 date: 2025-01-23T21:55:33-06:00
+`>>>>>>>`
 ---
 
 YHVH (יְהוָה) = YaHWeH, JeHoVaH, or YaHoVaH - He who was, is, and will be ([[Exodus]] 3:14-15), meaning the one who exists because he exists; this is generally translated to "the LORD," "GOD," or "JEHOVAH" (all caps) in English

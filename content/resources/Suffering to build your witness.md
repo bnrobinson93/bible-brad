@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:14-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[2 Corinthians|2 Cor]] 1, Paul says that, despite thinking he would literally die, he counted all his persecution as a blessing: something given to him that he may further his witness and to increase his own faith.
 

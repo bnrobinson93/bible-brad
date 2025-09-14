@@ -1,21 +1,25 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-date: 2023-02-02T23:25
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2023-02-02T23:25
+title: Lessons from Haggai
+updated: 2025-09-06T01:16:55-05:00
 ---
 
-# Context
+# Lessons from Haggai
+
+## Context
 
 - Written 520 BCE, contemporary with [[Zechariah]], after the exile in 587 BCE, roughly 80 years before [[Nehemiah]]
 - Written during the same time as [[Ezra]] (Ez 5:1)
   > Now the prophets, **[[Haggai]]** and [[Zechariah]] the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem, in the name of the [[God]] of Israel who was over them.
 - Commanded the rebuilding of the temple
 
-# Overview
+## Overview
 
 - 1st day of the 6th month — you are rebuilding your homes but are neglecting the house of God
 - Notice how you haven’t received much of a harvest, the two are linked!
@@ -47,4 +51,3 @@ updated: 2025-01-23T21:55:32-06:00
 
 > [!important]  
 > Question: How do you apply this to your life?To me, the main thing is keeping focus on faithfulness.I think this book is very relatable in that sense: the people were just coming back to their land after 70 years in captivity. While they were gone, beasts took over and the land became wild again (Eze 14:21-23). They were focused on building a life but should have placed [[God]] first in all things.How easy is it for us to do the same thing! “Let me just get this week over with, so I can provide for myself, THEN I’ll spend time with God” or “Once I make it through this thing, THEN I’ll be able to truly focus on serving”God doesn’t call us to think of Him eventually, He asks that we exalt his name always. When we don’t [[God]] doesn’t always strike us down with lightening; rather, he may withhold blessings until we notice and come crawling back. He’d rather we just walk with him to start with. Again, this isn’t works-based salvation but, rather, our calling to be transformed.
-

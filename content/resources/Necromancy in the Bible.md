@@ -1,6 +1,6 @@
 ---
-updated: 2025-05-30T21:17:50-05:00
-date: 2025-05-20T18:37:16-05:00
+updated: 2025-07-13T08:32:00-05:00
+created: 2025-05-20T18:37:16-05:00
 ---
 Besides what could be said of Jesus, the Bible does speak of necromancers. I would separate Jesus's healings in two major ways: 
 

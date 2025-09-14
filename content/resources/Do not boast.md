@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:25:58-05:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[Isaiah]] 9, we see that God sets an example of righteous and just living. We should only boast in that we know him. Wisdom is his. Strength forms from the LORD. Wealth is borrowed and managed over, but it is God's.
 

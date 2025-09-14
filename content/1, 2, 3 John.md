@@ -1,21 +1,19 @@
 ---
-Favorite: false
-tags:
-  - bible
-created: 2024-07-13T14:44
-updated: 2025-07-18T21:09:02-05:00
-URL: 
-date: 2025-07-18T21:09:01-05:00
+aliases: []
+tags: []
+title: 1, 2, 3 John
+updated: 2025-09-06T16:54:55-05:00
+created: 2025-09-06T16:54:55-05:00
 ---
-# Context
 
-  
+# 1, 2, 3 John
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:
+

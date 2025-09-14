@@ -1,17 +1,14 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - Old-Testament
-Created: 2023-03-09T22:19
-Updated: 2023-03-16T21:48
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:02-05:00
-date: 2025-07-18T21:09:02-05:00
+aliases: []
+tags: []
+title: Purim 2
+updated: 2025-09-06T01:16:58-05:00
+created: 2025-09-06T01:16:58-05:00
 ---
 
-# Context
+# Purim 2
+
+## Context
 
 Written around the time that the Israelites were returning to the land after the Babylonian captivity
 
@@ -19,7 +16,7 @@ The book is written in a way that never mentions prayer nor God, but points to G
 
 Written as a chiastic (abccba) with the focal point of Mordecai's exaltation
 
-# Book Overview
+## Book Overview
 
 - The king (Ahasuerus - akh-ash-vay-rosh) throws a 6 month feast, culminating in a final week
 - The queen (Vashti) throws a separate feast for the women of the palace
@@ -62,7 +59,7 @@ Written as a chiastic (abccba) with the focal point of Mordecai's exaltation
 - The Jews do defend, and win over all who plotted against them
 - The feast is instated as a remembrance
 
-## Conclusion
+### Conclusion
 
 9:23-26, 29
 
@@ -72,7 +69,7 @@ Written as a chiastic (abccba) with the focal point of Mordecai's exaltation
 >
 > So Queen [[Esther]], the daughter of Abihail, and Mordecai the Jew wrote with full authority to confirm this second letter about Purim.
 
-# What does it mean?
+## What does it mean?
 
 - Well, the fact that [[God]] isn't mentioned gives us hope that, no matter how things look, [[God]] is working to save his people
 - Neither [[Esther]] nor Mordecai are exactly model Jews (skipping Passover 3:13, marrying a gentile Deut 7:2-3) but [[God]] still uses them

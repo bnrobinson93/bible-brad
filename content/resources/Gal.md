@@ -1,20 +1,21 @@
 ---
-Favorite: false
-updated: 2025-06-28T11:26:08-05:00
+aliases: []
 tags:
   - bible
-URL: 
-date: 2025-06-28T09:55:06-05:00
+Favorite: false
+created: 2025-06-28T09:55:06-05:00
+title: Gal
+updated: 2025-09-06T16:55:02-05:00
 ---
-# Context
 
-  
+# Gal
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:
+

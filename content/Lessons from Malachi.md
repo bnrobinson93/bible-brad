@@ -1,10 +1,15 @@
 ---
-date: 2023-02-02T22:34
+aliases: []
+tags: []
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2023-02-02T22:34
+title: Lessons from Malachi
+updated: 2025-09-06T01:16:55-05:00
 ---
 
-# Context
+# Lessons from Malachi
+
+## Context
 
 - Written during the same time as [[Ezra]] (Ez 5:1) somewhere between 538 and 515 BCE
 
@@ -12,7 +17,7 @@ updated: 2025-01-23T21:55:32-06:00
 
 - Little is known but [[Malachi]] is believed to have been a real person (vs an anonymous work)
 
-# Outline
+## Outline
 
 - [[God]] claims His [[Love]] for His children but hears back only that He loved other people more
 - [[God]] reminds them that He chose Israel
@@ -25,8 +30,6 @@ updated: 2025-01-23T21:55:32-06:00
   - You say “its too hard” and bring lame, blind, stolen, or sick animals as an offering when you had perfectly healthy animals to offer from your own flock (v13-14)
 - Judgement and curses are coming, that you will know that the covenant still stands
   - Deut 30:19-20, today I lay before you blessings and curses ... choose life! Live in the [[Love]] of God!
-
-## Sub One
 
 > [!important]  
 > Question:

@@ -1,16 +1,20 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
   - Old-Testament
-date: 2022-12-29T22:05
 Favorite: false
 URL: https://youtu.be/Y7z868kEl5s
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-12-29T22:05
+title: “I AM the Law of Moses”
+updated: 2025-09-06T01:08:13-05:00
 ---
 
-# Context
+# “I AM the Law of Moses”
+
+## Context
 
 If you haven’t seen it yet, _The Chosen_ is a Christian telling of the story of Christ as an online TV series, almost like a _Game of Thrones_ centered around [[Yeshua|Jesus]]
 
@@ -18,15 +22,15 @@ Back in October, the trailer for season three was dropped and a single line spar
 
 The scene is that a Pharasee was getting in [[Yeshua|Jesus]]’s face saying that if he didn’t renounce His teachings, that they would have to excercise the [[Law of Moses]] (Deut 12:32-13:5) As for that prophet or dreamer, he must be executed”). [[Yeshua|Jesus]] retorts with “I AM the [[Law of Moses]]”
 
-# Why the Controversy
+## Why the Controversy
 
-## The Book of Mormon
+### The Book of Mormon
 
 > _Behold, I am the law, and the light. Look unto me, and endure to the end, and ye shall live; for unto him that endureth to the end will I give eternal life._ _**- 3 Nephi 15:9**_
 
 - Dallas Jenkins, creator of The Chosen, is an evangelical Christian (his dad is Jerry B Jenkins, author of the Left Behind books) and has explicitly [denied that the shoe has any afiliation with any religious organization, including Mormonism](https://youtu.be/SZrZ4meAoOk), nor is it meant to replace or supplant scripture
 
-## Misunderstanding the I AM
+### Misunderstanding the I AM
 
 - Really, I think most are put off by the “I AM” and it tying [[Yeshua|Jesus]] to the Law directly. Other verses clearly come to mind separating the two:
   - Rom 10:4

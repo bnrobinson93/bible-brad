@@ -1,20 +1,21 @@
 ---
-Favorite: false
-updated: 2025-05-12T12:37:16-05:00
+aliases: []
 tags:
   - bible
-URL: 
-date: 2025-05-10T09:47:20-05:00
+Favorite: false
+created: 2025-05-10T09:47:20-05:00
+title: Seek God's Council
+updated: 2025-09-06T16:54:27-05:00
 ---
-# Context
 
-  
+# Seek God's Council
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:
+

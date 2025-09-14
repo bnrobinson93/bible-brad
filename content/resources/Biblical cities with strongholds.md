@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:13-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 > 2 Chron 11:5 Rehoboam lived in Jerusalem and built up towns for defense in Judah:
 [[Bethlehem]], [[Etam]], [[Tekoa]], [[Beth Zur]], [[Soko]], [[Adullam]], [[Gath]], [[Mareshah]], [[Ziph]],

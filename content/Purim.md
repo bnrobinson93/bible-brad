@@ -1,13 +1,13 @@
 ---
-Created: 2022-02-10T23:43
-Updated: 2022-09-29T21:43
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:46-05:00
-date: 2025-07-08T21:58:30-05:00
+aliases: []
+tags: []
+created: 2022-02-10T23:43
+favorite: false
+title: Purim
+updated: 2025-09-06T17:18:05-05:00
 ---
 
-# [[Esther]]
+# Purim
 
 ## Overview
 
@@ -25,7 +25,7 @@ date: 2025-07-08T21:58:30-05:00
 - [[Esther]] petitions the king that her and her people are all set to be slaughtered by Haman, at which the king flies into a rage and steps away. Haman throws himself onto the couch out of distress. The king, upon entering, accuses him of wishing to also rape [[Esther]]. He then hangs Haman on the gallows meant for Mordecai
 - The king enacts law to protect the Jews
 
-# [[John]] 5
+## [[John]] 5
 
 - “After this there was a Jewish feast and [[Yeshua|Jesus]] went up to Jerusalem”
 - Bethesda - Beth zatha = “House of Mercy”
@@ -40,3 +40,6 @@ date: 2025-07-08T21:58:30-05:00
 > [!important]  
 > [[Yeshua|Jesus]] calls for action. The initation is there but we must meet him where he is.[[Esther]] and the story in [[John]] happen at the same time of year and both stories push the idea of standing up to an oppressor.
 
+## Links
+
+[[Esther]]

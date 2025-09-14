@@ -1,13 +1,17 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
-date: 2023-02-09T20:44
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2023-02-09T20:44
+title: “Christian” Lies of the World
+updated: 2025-09-06T01:08:09-05:00
 ---
 
-# Context
+# “Christian” Lies of the World
+
+## Context
 
 - Over the last few weeks, there seems to be a whole slew of things referencing the lies of the world, particularly the idea of “wolves in sheep’s clothing” of religions like Mormonism or Charismatic Christianity
 - This week, let’s discuss a few of the common lies that we face
@@ -18,7 +22,7 @@ updated: 2025-01-23T21:55:32-06:00
   > “Everything that I command you, you shall be careful to do. You shall not add to it or take from it. —  
   > _**Deut 12:29-32**_
 
-# Mormonism
+## Mormonism
 
 1. Additions of scriptures to build new theology
 2. Making of use of things that cannot be known
@@ -27,7 +31,7 @@ updated: 2025-01-23T21:55:32-06:00
 3. Exploiting fear of excommunication
    - Those that questioned his narrative were publicly shamed
 
-# Charismatic Christianity
+## Charismatic Christianity
 
 1. Broad acceptance of everything as good (with the intent of reclaiming the counterfeit for Christ)
    1. Their logic:
@@ -35,9 +39,7 @@ updated: 2025-01-23T21:55:32-06:00
       - Therefore anything real is also faked
       - We should study the counterfeit that we may learn more about the truth of God
 2. Exploiting lack of biblical knowledge by twisting scripture
-
    1. Examples:
-
       - In the above example, they may twist something like 2 Tim 3:16-17
         > All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,   
         > so that the servant of God may be thoroughly equipped for every good work.
@@ -55,7 +57,7 @@ updated: 2025-01-23T21:55:32-06:00
 > [!important]  
 > Question: What are some other common things you hear or see of friends or family that is a twisting or distortion of God’s word? Share it so that we may all be guarded.
 
-# Combating the Snares
+## Combating the Snares
 
 Alright, so what do we do with all of that?
 

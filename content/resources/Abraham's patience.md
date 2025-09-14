@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:25:35-05:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[Genesis|Gen]]  16-18, we see the promise of Isaac questioned. Abram and Sarai grow weary of waiting and ultimately conceive through Hagar, Sarai's servant. While this child is blessed, God waits another 13 years before speaking again. 
 

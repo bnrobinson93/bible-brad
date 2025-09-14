@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:25:51-05:00
-date: 2025-05-23T08:13:30-05:00
+created: 2025-05-23T08:13:30-05:00
 ---
 Shortly after [[David]] becomes king, while the other tribes still follow Saul's line, [[Abner]] - who had been chief in command under Saul and constantly chased [[David]] along with him, called a meeting with David's men. A bloody battle ensued and [[Joab]], one of David's men, loses a brother. He chases Abner for miles before finally calling off the attack to end the battle.
 

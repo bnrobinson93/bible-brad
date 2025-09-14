@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:13-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[Job]] 12-14, Job responds to his friends, who have been reminding him of the wages of sin and that God may do as he seems fit with no answer or rebuttal. In his response, he responds acknowledges that, while this is true, he inquires of God because he knows he is blameless. He pities his life again and asks God why he is being judged for the acts of his youth, having nothing more recent he can think of as a sin.
 

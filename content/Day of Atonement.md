@@ -1,14 +1,18 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-date: 2022-10-06T21:51
-Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-10-06T21:51
+favorite: false
+title: Day of Atonement
+updated: 2025-09-06T17:16:51-05:00
 ---
 
-# Context - Yom Kippur
+# Day of Atonement
+
+## Context - Yom Kippur
 
 - Yom haKippurim literally translates to “Day of coverings [of ones mouth],” which a day to be reminded and cleansed of sin
 - One of God’s feasts (appointments)
@@ -17,7 +21,7 @@ updated: 2025-01-23T21:55:32-06:00
 - The ten days between the last feast (trumpets) and this one (atonement) are to serve as a reminder of our entire lives - a period of grace between God’s coming into this world as a servant and God’s second coming into this world as a righteous king, to judge
 - Yom Kippur marks the end of God’s wrath and judgement; the day heaven and earth are considered to be closest together
 
-# In the Bible
+## In the Bible
 
 - Lev 23:26-32
   > And the LORD spoke to Moses, saying,  
@@ -34,7 +38,7 @@ updated: 2025-01-23T21:55:32-06:00
   > a tenth for each of the seven lambs:  
   > also one male goat for a [[sin]] offering, besides the [[sin]] offering of atonement, and the regular burnt offering and its grain offering, and their drink offerings.
 
-# What is it to “Afflict yourself”?
+## What is it to “Afflict yourself”?
 
 - This is not any form of self-harm
 - The word is translated “afflict” or “fast” most commonly
@@ -53,10 +57,9 @@ updated: 2025-01-23T21:55:32-06:00
 - We see [[Luke]] (the author of [[Acts]]) refer to it in this way:
   > We sailed slowly for a number of days and arrived with difficulty off Cnidus, and as the wind did not allow us to go farther, we sailed under the lee of Crete off Salmone. Coasting along it with difficulty, we came to a place called Fair Havens, near which was the city of Lasea. Since much time had passed, and **the voyage was now dangerous because even** ==**the Fast**== **was already over**, Paul advised them, saying, "Sirs, I perceive that the voyage will be with injury and much loss, not only of the cargo and the ship, but also of our lives." But the centurion paid more attention to the pilot and to the owner of the ship than to what Paul said. And because the harbor was not suitable to spend the winter in, the majority decided to put out to sea from there, on the chance that somehow they could reach Phoenix, a harbor of Crete, facing both southwest and northwest, and spend the winter there.
 
-# Where is [[Yeshua|Jesus]] in all this?
+## Where is [[Yeshua|Jesus]] in all this?
 
 - While we don’t see a ton of direct fulfillment in Jesus’s first coming, he hits on the same concepts
-
   - [[James]] 4:9-10 - Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom. Humble yourselves before the Lord, and he will exalt you.
   - [[1 Peter]] 5:6-10 - Humble yourselves, therefore, under the mighty hand of [[God]] so that at the proper time he may exalt you … And after you have suffered a little while, the [[God]] of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you.
 
@@ -66,7 +69,7 @@ updated: 2025-01-23T21:55:32-06:00
 
 - In the future, I believe that we see Jesus’s wrath abated, the dragon and anti-christ already tossed into the lake of fire, we’ll emerge victorious, ready for the marriage supper of the lamb
 
-# What do we do?
+## What do we do?
 
 - In preparation for this study, I found this to be both challenging and inspiring. We read one verse from this chapter earlier
 

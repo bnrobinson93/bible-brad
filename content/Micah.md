@@ -1,28 +1,31 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Old-Testament
 Created: 2022-12-08T19:57
-Updated: 2022-12-15T22:22
 Favorite: false
+Updated: 2022-12-15T22:22
 created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:01-05:00
-date: 2025-07-18T21:09:01-05:00
+title: Micah
+updated: 2025-09-06T00:58:10-05:00
 ---
 
-# Context
+# Micah
+
+## Context
 
 - Lived and written around the same time as [[Isaiah]]
 
-# Overview
+## Overview
 
-## The Judge is coming (1)
+### The Judge is coming (1)
 
 - Pay attention!
 - God’s might is coming to judge the sins of Israel
 - Idolotry has spread even to the leaders
 
-## Land Robbers will Lose their Land (2)
+### Land Robbers will Lose their Land (2)
 
 - Those that plan out evil (theft of land, fraud, not sharing what was given freely) will be “as good as dead” (v2:1)
 - Prophets will be told not to prophesy, for “the LORD’s patience cannot be exhausted - he would never do such things” (v2:7)
@@ -30,7 +33,7 @@ date: 2025-07-18T21:09:01-05:00
 - You stole from the innocent, you sill be forced to leave by your own sin
 - That said, [[God]] will gather Israel
 
-## [[God]] will Judge the Leaders (3)
+### [[God]] will Judge the Leaders (3)
 
 - Rulers (and false prophets) should know what is good vs evil
 - You hate justice and pervert all that is right (v3:9)
@@ -39,26 +42,26 @@ date: 2025-07-18T21:09:01-05:00
 - verse 11: _**“Her leaders take bribes when they decide legal cases, her priests proclaim rulings for profit, and her prophets read omens for pay. Yet they claim to trust the LORD and say, "The LORD is among us. Disaster will not overtake us!"**_
 - “Because of you, […] Jjerusalem will become a heap” (v12)
 
-## Better Days Ahead (4)
+### Better Days Ahead (4)
 
 - The LORD’s temple will be supreme and people from all nations will stream to it “so He can teach us his commandments and we can live by his laws”
   - We will all see the goodness of [[God]] and God’s way
 - [[God]] will be judge over his people
 - Nations will no longer war and will all follow the LORD
 
-## Restoration to Come
+### Restoration to Come
 
 - In that day…
 - [[God]] will take the dejected and build a nation from them
 
-## The King and Remnant (5)
+### The King and Remnant (5)
 
 - “as for you, Bethlahem, seemingly insignificant among the clans, from you a king will emerge. One who’s origins are in the distant past” (Matt 2:6)
 - The LORD will hand over Israel to their enemies until Israel is reunited
 - God’s sent one will sepherd his people to safety and peace
 - [[God]] will cleanse the people of evil, sorcory, idolitry, and enfoce obedience
 
-## Justice, not Ritual (6)
+### Justice, not Ritual (6)
 
 - What did [[God]] do for you? Rescued you from slavery, Balak, Balaam
 - What does he want in return? “He has told you” (v8-11)
@@ -70,7 +73,7 @@ date: 2025-07-18T21:09:01-05:00
   - Treat men fairly
   - Don’t deceive
 
-## [[2-Areas/Bible/Teaching/Micah]]’s Lament
+### [[2-Areas/Bible/Teaching/Micah]]’s Lament
 
 - Faithful men are gone; none are godly
 - Men are now experts of doing evil

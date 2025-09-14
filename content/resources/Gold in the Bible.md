@@ -1,6 +1,6 @@
 ---
-updated: 2025-06-28T11:26:14-05:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:37-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 Gold is the first element mentioned in the bible ([[Genesis|Gen]] 2:11-12). God calls it 'good'
 

@@ -1,14 +1,18 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-date: 2020-05-12T18:41
 Favorite: true
-updated: 2025-01-23T21:55:32-06:00
+created: 2020-05-12T18:41
+title: Division and Unity - A letter to the Corinthians
+updated: 2025-09-06T17:16:55-05:00
 ---
 
-# High level of Corinthians
+# Division and Unity - A letter to the Corinthians
+
+## High level of Corinthians
 
 First Corinthians covers a TON. We're not going to cover it all today. I want to focus on 2-4 with maybe a hint of 5. Here's all of what's covered and I'd encourage everyone to read the full book. You can read it all in under an hour.
 
@@ -25,7 +29,7 @@ First Corinthians covers a TON. We're not going to cover it all today. I want to
 11. Reiterating the Gospel
 12. Final notes
 
-# Some focus points
+## Some focus points
 
 ### How we should behave
 
@@ -83,6 +87,6 @@ Paul is basically saying that those that say they are a Christian and at the sam
 
 1. What's one area that we, as a group can help hold you accountable to God? Or how can we help encourage you to fight the good fight?
 
-# Closing Thoughts
+## Closing Thoughts
 
 All of this can be boiled down pretty simply. First things first, [[Love]] [[God]] and [[Love]] people. Above all, [[Love]] God, even if that means sacrificing friends or pleasures. We [[Love]] people by, first accepting that the world is broken and in need of a savior. The world is going to be depraved. We are not to shrink away from it but approach it with [[Love]] and mercy, pointing toward the gift of salvation. Once a person is saved, we shift how we love. We move from accepting them as the broken, fallen man that we all are to clay in [[God|God's]] hands. It becomes our goal to help them to give up the flesh and conform to the power of [[God|God's]] transformation. We have to discern when it's best to encourage their faith and when a line needs to be drawn but our ultimate aim should be unity in the body of Christ and [[God|God's]] will for our life and the lives of others - namely salvation but also sanctification.

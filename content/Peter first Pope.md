@@ -1,8 +1,8 @@
 ---
-date: 2015-03-24T17:45
+created: 2015-03-24T17:45
 Favorite: false
 URL: chrome-extension://iooicodkiihhpojmmeghjclgihfjdjhj/front/in_isolation/reformat.html
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:21-05:00
 ---
 
 [http://www.catholic-pages.com/pope/hahn.asp](http://www.catholic-pages.com/pope/hahn.asp)

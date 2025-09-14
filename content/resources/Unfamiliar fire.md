@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-01T10:02:35-06:00
-date: 2025-02-20T18:01:17-06:00
+updated: 2025-07-13T08:33:22-05:00
+created: 2025-02-20T18:01:17-06:00
 ---
 In [[2-Areas/Bible/Books of Bible/Leviticus|Leviticus]] 9, we see the initial dedication of the tabernacle. The offerings are made for the first time in accordance with what Moses received from God. Once placed on the alter, fire blasts out of the holy of holies and consumes the offering laid before God. This was to be the fire used going forward. Nearly instantly, two of Aaron's sons -  Nadab and Abihu - bring fire that was different from this to light the lamp stands. Similarly, fire bellows from the most holy place and consumes the two brothers before all of the people. Aaron is left gobsmacked. Moses commands that they must remain presentable but may mourn and some of the mens cousins remove the bodies from the temple. 
 

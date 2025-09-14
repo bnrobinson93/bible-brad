@@ -1,21 +1,20 @@
 ---
-Favorite: false
+aliases: []
 tags:
   - bible
-created: 2024-07-13T14:44
-updated: 2025-07-09T00:25:33-05:00
-URL: 
-date: 2025-07-08T21:58:36-05:00
+Favorite: false
+created: 2025-07-08T21:58:36-05:00
+title: Context
+updated: 2025-09-06T17:18:35-05:00
 ---
-# Context
 
-  
+# Titus
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:

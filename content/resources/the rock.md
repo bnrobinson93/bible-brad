@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-15T12:43:35-05:00
-date: 2025-03-13T09:02:12-05:00
+updated: 2025-07-13T08:34:43-05:00
+created: 2025-03-13T09:02:12-05:00
 ---
 In [[Numbers]] 20, a story is recounted wherein the Israelites complain that they have no water. Previously, ([[Exodus]] 17) Moses was instructed to strike a rock so that water would be given to them. This time, God instructed Moses to speak to - or declare - the rock. Rather, Moses strikes the rock twice. Water still pours forth but God tells he and Aaron that this lack of trust would be punished by them no longer entering into the promised land.
 

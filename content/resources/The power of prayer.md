@@ -1,10 +1,16 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+aliases: []
+tags: []
+created: 2025-01-23T21:55:32-06:00
+title: Links:
+updated: 2025-09-06T01:14
 ---
+
 In [[james]] 5, Elijah is mentioned in the context of prayer, specifically mentioning the halted rain for 3.5 years as a result of his prayer. He encourages us to forgive one another, prayer for each other, be patient on the Lord, judge sparingly, and not to swear.
 
 # Links:
+
 [[Elijah halts the rain]]
 
 202411210826
+

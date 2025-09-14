@@ -1,9 +1,21 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+aliases: []
+tags: []
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
+title: Hold brothers accountable
+updated: 2025-09-06T00:13
 ---
+
 # Hold brothers accountable
+
 In [[Galatians|Gal]] 2:1-16, Paul speaks of how he was accepted among the apostles and even criticized some of the early leaders for hypocrisy. We are called to adhere to three standards: the highest for ourselves, high for Christians, and low for the world. We should call out brothers who live like the world, for they lead others astray. It should be done in love but not sheepishly, we must be bold, as souls are in the line.
-# Links:
+
+## Links:
+
 [[Accountability]]
 202409152122
+

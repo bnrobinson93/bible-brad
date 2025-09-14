@@ -1,6 +1,6 @@
 ---
-updated: 2025-04-19T13:55:41-05:00
-date: 2025-04-16T08:34:51-05:00
+updated: 2025-07-13T08:33:44-05:00
+created: 2025-04-16T08:34:51-05:00
 ---
 In [[Luke]] 18, Jesus gives a parable of a poor women seeking justice. She repeatedly approaches a wicked judge who ultimately sees to her case simply to get her off his back. Jesus then poses "how much more likely than a wicked judge is God to prioritize the case of a persistent righteous person." We have God's ear if only we remain in it.
 

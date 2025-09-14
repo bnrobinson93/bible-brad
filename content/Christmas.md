@@ -1,37 +1,40 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
 Created: 2021-12-16T23:36
-Updated: 2023-12-17T09:34
 Favorite: true
+Updated: 2023-12-17T09:34
 created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:01-05:00
-date: 2025-07-18T21:09:00-05:00
+title: Christmas
+updated: 2025-09-06T00:58:10-05:00
 ---
 
-# When was [[Yeshua|Jesus]] Born
+# Christmas
 
-## [[John]] the Baptist
+## When was [[Yeshua|Jesus]] Born
+
+### [[John]] the Baptist
 
 - [[Luke]] 1
   > In the days of Herod, king of Judea, there was a priest named [[Zechariah]],[fn] of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years. Now while he was serving as priest before [[God]] when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord standing on the right side of the altar of incense.
 
-## Mary and Joseph
+### Mary and Joseph
 
 - [[Luke]] 1:26-38
   > And i**n the sixth month** the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name *was* Mary. And the angel came in unto her, and said, Hail, *thou that art* highly favoured, the Lord *is* with thee: blessed *art* thou among women. And when she saw *him*, she was troubled at his saying, and cast in her mind what manner of salutation this should be. And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. ... Then said Mary unto the angel, How shall this be, seeing I know not a man? And the angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born[fn] will be called holy—the Son of God. And behold, your relative Elizabeth in her old age has also conceived a son, and **this is the sixth month with her who was called barren**. For nothing will be impossible with God.”
 
 So this is the six month of Elizabeth’s pregenancy, not the sixth month of the year. That would place this in December
 
-## Mary and Elizabeth Meet
+### Mary and Elizabeth Meet
 
 - [[Luke]] 1:39-45, 56
   > And, behold, thy cousin Elizabeth, she hath also conceived a son in her old age: **and this is the sixth month with her**, who was called barren. For with God nothing shall be impossible.  
   > ...  
   > And Mary remained with her about three months and returned to her home.
 
-## Ok, so, when did this take place?
+### Ok, so, when did this take place?
 
 - “The course of Abia” ... “According to the custom of the priests office”
 - [[1 Chronicles]] 24:1-19. v10: “the eight to Abijah.” This order was set up by David as a rotation across 24 divisions. Starting in post-biblical traditions, this was identified to be a weekly rotation. Each would attend the temple twice a year, one week at a time
@@ -41,7 +44,7 @@ So this is the six month of Elizabeth’s pregenancy, not the sixth month of the
 - We know that Jesus’s birth was announced in the sixth month of Elizabeth’s pregnancy, and that she would have become pregnant around the third month of the year
 - With a nine month pregnancy, Elizabeth would have had [[John]] within days of Passover and Mary would have conceived somewhere in the second half of 9th month (otherwise Elizabeth would have only been 5 months pregnant) and given birth in the 6th month of the following year, right around the time of the feast of Tabernacles ([[John]] 1:14, And the Word became flesh and _Tabernacled_ among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.)
 
-# Jesus’ Birth
+## Jesus’ Birth
 
 - A decree from Caesar Augustus is announced for a censorship
 
@@ -57,7 +60,7 @@ So this is the six month of Elizabeth’s pregenancy, not the sixth month of the
 - ‭‭[[Luke]]‬ ‭2:21‬ And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.
 - ‭‭[[Leviticus]]‬ ‭23:39‬ ‭ESV‬‬ “On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the Lord seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
 
-# Herod & the astronomers
+## Herod & the astronomers
 
 - [https://en.m.wikipedia.org/wiki/Jewish_astrology#:~:text=The%20names%20of%20these%20planets,and%20the%20Sun%20(%E1%B8%A5amah)](<https://en.m.wikipedia.org/wiki/Jewish_astrology#:~:text=The%20names%20of%20these%20planets,and%20the%20Sun%20(%E1%B8%A5amah)>)
 - Looking back through NASA software, we can see what the night sky would have looked like on any night of the year, any year in history. On Sept 12, 3 BCE, jupiter (tzedek, righteous in Hebrew) comes into conjunction with venus (nogah, means “bright,” also named queen of heaven and light-bearer in ancient languages such as Babylonian - neither are good things in the Bible) as it moves toward regulus (melek, king in hebrew), between the feed of Leo (Ariyeh, the lion, the symbol of Judah). This aligns with the day of trumpets that year, two weeks before Jesus’s birth.

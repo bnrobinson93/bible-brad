@@ -2,10 +2,10 @@
 tags:
   - Leadership-Breakfast
   - Men
-date: 2022-10-27T20:08
+created: 2022-10-27T20:08
 Favorite: false
 URL: https://youtu.be/WJSFU1sEvFA
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:16-05:00
 ---
 
 # Traits

@@ -1,19 +1,20 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-Created: 2020-05-12T18:41
-Updated: 2022-09-29T21:45
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:03-05:00
-date: 2025-07-08T21:58:05-05:00
+  - basics
+  - bible
+created: 2020-05-12T18:41
+favorite: false
+title: 2 Peter
+updated: 2025-09-06T17:16:31-05:00
 ---
 
-Bible Study - 2 Peter
+# 2 Peter
 
-# Prayer Requests
+## Prayer Requests
 
 - (Heath) Beth - positive for COVID; still has it; made it through
 - Wedding about to move from Aug? Heath
@@ -21,13 +22,13 @@ Bible Study - 2 Peter
 - (Ryan) Zoey - 107 fever, unknown; not cancer!
 - (Ryan) bro in law’s toe
 
-# Source Text
+## Source Text
 
 - II Peter
 
-# Outline, in the vernacular
+## Outline, in the vernacular
 
-## Chapter 1
+### Chapter 1
 
 - We have been granted a power that leads to godliness and an abundant life, for God’s glory
 - This power grants us a way to escape sinful desire
@@ -57,7 +58,7 @@ Bible Study - 2 Peter
    - This message is not his own but rather that of Jesus, and Jesus’s authority and glory was seen by him first-hand
    - A warning that scripture interprets itself by offering of the Holy Spirit
 
-### Discussion Points
+#### Discussion Points
 
 1. How do we walk out these things?
    - Ben: faith the size of mustard seed
@@ -66,24 +67,22 @@ Bible Study - 2 Peter
 2. What are some ways that we can keep [[Love]] at the center of our lives?
 3. Should we stop the whole “here’s what that means to me” way of studying or is that the spirit speaking through our own lives? Is there a way to know both personally or in a group setting?
 
-## Chapter 2
+### Chapter 2
 
 - False prophets do the opposite of what chapter 1 discussed: they interpret scripture freely, speaking “sensual” heresy (meaning it sounds nice) and, thus, deny [[God]] and his Truth
 - [[God]] didn’t spare such people in the past, why would he stop now? (the flood, Sodom & Gomorrah) However, he always spares those that seek His face to the point that they feel hurt seeing other’s behave contrary to God’s plan (Noah, Lot)
 - They are proud of leading people after themselves and enjoy their own sins, which draws in those that need God’s healing power the most
 - For the false prophet, it would be better that they had never known [[God]] than to know and then deliberately disobey
 
-### Discussion Points
+#### Discussion Points
 
 1. It’s easy to dismiss this saying things like “I’m not a false prophet, this isn’t talking about me” or “I don’t listen to the property gospel so I’m doing great!” but this is a warning against anyone who has a popular message that, though it sounds reasonable and beautiful, is contrary to God’s word. Are there other teachings or beliefs you’ve seen or been a part of that are less well known? How do we test things?
 
-## Chapter 3
+### Chapter 3
 
 - I’m writing again so that you remember the prophets and commandments and to equip you to avoid false teachers and doubters
 - Though [[God]] seems to be taking his time, remember that [[God]] is outside of time. He is patiently waiting, giving the world every opportunity to turn toward him
 - When time is up, it’ll be up for good. Prepare, daily to greet [[God]] (Matt 25:1-13, the parable of the 10 virgins). Practice for the world that is to come: the new heaven and new earth, which will house the righteous on it
 - Don’t be carried away by the world but study the scripture and dig for truth. Grow in grace and knowledge
 
-### Discussion Points
-
-Tags: 2020, basics, bible, leadership, men’s, study
+#### Discussion Points

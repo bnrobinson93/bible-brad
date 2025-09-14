@@ -1,6 +1,6 @@
 ---
-updated: 2025-04-28T22:56:54-05:00
-date: 2025-04-27T09:56:06-05:00
+updated: 2025-07-13T08:34:39-05:00
+created: 2025-04-27T09:56:06-05:00
 ---
 At the cross, Jesus is surrounded by two thieves, one on each side of him. One mocks him, asking why he doesn't set them all free if he's the son of God. The other berates the first, reminding him that they were being crucified for their own sins, yet Jesus was blameless. He asks the Jesus remember him when His kingdom comes - a plea of faith - to which Jesus responds "today you will join me in paradise."
 

@@ -1,19 +1,23 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
-date: 2022-12-15T22:25
-Favorite: true
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-12-15T22:25
+favorite: true
+title: Christmas (2022)
+updated: 2025-09-06T17:16:45-05:00
 ---
 
-# Context
+# Christmas (2022)
+
+## Context
 
 - Last year, we covered the same topic from a different angle. In [[Christmas]], we touched on the chronology of [[John]] the Baptist’s birth and tied that to Jesus’s birth landing somewhere in the October timeframe. We also touche breifly on that in our [[Feast of Tabernacles]], so we won’t broach that further.
 - This year, let’s explore some of the things that people often site to call Christmas is completely pagan
 - From there, we’ll discuss some of the origins we see in modern, Christian Christmas celebration
 - And we’ll conclude with what that all means for us
 
-## My Own Story
+### My Own Story
 
 - I was raised in a Christian home and spent years going to my grandmother’s house in Texas for Chrstimas every year
 - At home, we’d decorate a tree, make cookies, fudge, and all other goodies
@@ -30,7 +34,7 @@ updated: 2025-01-23T21:55:32-06:00
     > He hath shewed thee, O man, what *is* good; and what doth the Lord require of thee, but to do justly, and to [[Love]] mercy, and to walk humbly with thy God? — [[2-Areas/Bible/Teaching/Micah]] 6:8
   - The question I’ve griped with is: while doing Christmas “right” could certainly fall into “obedience” that [[2-Areas/Bible/Teaching/Micah]] speaks of in some translations, how does that balance with justice and mercy? Where is the line in faith vs truth?
 
-# Pagan Roots
+## Pagan Roots
 
 - The most prevalent argument against Christ, primarily from that film are that [[Yeshua|Jesus]] and several other, pagan deities seem awful similar:
 - The items mentioned:
@@ -64,7 +68,7 @@ updated: 2025-01-23T21:55:32-06:00
   - In England, the ban was lifted in 1660 by Charles II (16 years) and was not a legal holiday until 1856. Some schools continued to hold class until 1870 (200 years after the ban)
   - Remeber: America has only been independent for 246 years — about 20 years longer than some areas of England had Christmas. That’s a long time!
 
-# Christmas Traditions
+## Christmas Traditions
 
 - Christmas Tree
   - Jer 10:1-5
@@ -79,7 +83,7 @@ updated: 2025-01-23T21:55:32-06:00
   - In the 1800s, poems were written (”The Children’s Friend” as well as “The Night before Christmas”) which ascribed the characteristics of a sleigh and Santa being a “chubbiy, plup, jolly old elf,” as well as listing names for the reigndeer
   - Coca-Cola - Coke took Santa and made him a mascot, dressing him in red and white, their colors, and making hiim the commercial symbol he is today
 
-# What it means to us
+## What it means to us
 
 - Overall, Christmas has a loong history but doesn’t appear to have direct ties to Paganism
 - The closest thing we see to paganism is the “Sol Invictus” ceremony, which is mentioned in the same document as one that outlines that Christmas was already being celebrated on the same day. We have coins but know very little about what it actually was

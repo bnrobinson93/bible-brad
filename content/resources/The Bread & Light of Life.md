@@ -1,7 +1,7 @@
 ---
-updated: 2025-01-23T21:55:33-06:00
+updated: 2025-09-06T01:08:21-05:00
 URL: https://www.youtube.com/watch?v=QaQHj4wIx8A
-date: 2025-01-23T21:55:33-06:00
+created: 2025-01-23T21:55:33-06:00
 ---
 Part 1: [[From the Garden to Golgotha]]
 

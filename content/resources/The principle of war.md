@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-29T09:04:20-05:00
-date: 2025-03-20T19:23:17-05:00
+updated: 2025-07-13T08:32:30-05:00
+created: 2025-03-20T19:23:17-05:00
 ---
 I'm [[Numbers]] 31, we see a pattern set forth, the last contribution of Moses. The spoils were to be split 50/50 between those who did the actual fighting and the rest of the community. Of the half that was given to the "doers," 0.2% was given to God directly and of the remainder of the community, 2% was given to the Levites. All of the metal was to be melted and purified. All of the items which couldn't be melted were purified with water. Those who had been in war were separated, according to the normal laws of death, for 7 days.
 

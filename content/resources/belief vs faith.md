@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 Belief is trust that something exists. The common example is that you *believe* a chair will support you before you sit in it. The important distinction here is that the trust you show the chair is **not** faith. Faith incorporates belief, that is, belief is one facet of faith, but faith is so much more.
 

@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:26:39-05:00
-date: 2025-03-15T10:28:49-05:00
+created: 2025-03-15T10:28:49-05:00
 ---
 John the Baptist, or John, son of Zechariah. His father was a priest in the temple and had grown old with his wife. They had no children and he had never had the opportunity to serve on a feast, something each priest looked forward to. Regardless, they remained blameless in the sight of God.
 

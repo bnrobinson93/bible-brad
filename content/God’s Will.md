@@ -1,16 +1,15 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
   - Old-Testament
-Created: 2022-07-14T18:32
-Updated: 2023-08-27T09:07
-Favorite: true
 URL: https://www.youtube.com/watch?v=8DzoRz0hU3E
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:24:46-05:00
-date: 2025-07-08T21:58:19-05:00
+created: 2022-07-14T18:32
+favorite: true
+title: God’s Plan
+updated: 2025-09-06T17:17:28-05:00
 ---
 
 # God’s Plan
@@ -51,14 +50,12 @@ Verses:
 Some of the biggies to tell if you’re in God’s will:
 
 1. Are you saved?
-
    - [[2 Peter]] 3:9
      The Lord is not slow concerning his promise, as some regard slowness, but is being patient toward you, because H**e does not wish for any to perish but for all to come to repentance**
    - [[God]] doesn’t want to lose anyone. He wants all to be inside of His will
    - **Part of God’s will is simply that He know you and you know Him**
 
 2. Are you lazy?
-
    - Col 3:17
      And whatever you do in word or deed, do it all in the name of the Lord Jesus, giving thanks to [[God]] the Father through him.
    - [[God]] calls us to do everything unto him. If you live a life marked by laziness or taking advantage of those around you, consider this something you should work on in order to better know [[God]] and, therefore, better know His will for your life

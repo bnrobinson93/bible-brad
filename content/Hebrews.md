@@ -1,22 +1,26 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-date: 2023-02-16T22:36
 Favorite: false
-updated: 2025-08-09T11:41:32-05:00
+created: 2023-02-16T22:36
+title: Hebrews
+updated: 2025-09-06T01:08:41-05:00
 ---
+
+# Hebrews
 
 [[2-Areas/Bible/Teaching/Hebrews]]
 
-# Context
+## Context
 
 - Anonymous letter but knew the disciples, thought to be Paul or Barnabas (from [[Acts]])
 - Audience is unknown but they clearly knew the old testament, specifically the Abraham, Moses, and wilderness stories (therefore, likely Jewish, likely written initially in Hebrew)
 - Ch 10, they were associated with [[Yeshua|Jesus]] and facing persecution
 
-# Overview
+## Overview
 
 - Introduction
 - Elevating [[Yeshua|Jesus]] (Compare/Contrast) - [[Yeshua|Jesus]] is superior to all, remain faithful!
@@ -26,9 +30,9 @@ updated: 2025-08-09T11:41:32-05:00
   - Sacrifice & covenant (8-10) — Jesus’ death is superior to all animal sacrifices — Same as before, don’t reject your shot at the best [[God]] has to offer
 - Hall of Faith (11-13)
 
-# Slowing Down
+## Slowing Down
 
-## 1. By the Grace of [[God]] (1-2)
+### 1. By the Grace of [[God]] (1-2)
 
 - There is a death penalty owed = sacrifices (v3)
 - [[Yeshua|Jesus]] paid this price and sat at God’s right hand (v3) (Ps 110)
@@ -72,7 +76,7 @@ updated: 2025-08-09T11:41:32-05:00
   - This is truly a grace that surpasses understanding — we no longer have to die, the law of [[sin]] and death is conquered and our covenant is free to be renewed
 - It is because of him (Jesus) that many our brought to glory, making the captain of their salvation perfect, through his grace (v10)
 
-## 2. The Captain of Salvation (2-4)
+### 2. The Captain of Salvation (2-4)
 
 - 2:10 - [[God]] made the captain of our salvation perfect (”complete”) through suffering
 - [[Yeshua|Jesus]] declared God’s name (pushed to make his name Holy)
@@ -99,9 +103,9 @@ updated: 2025-08-09T11:41:32-05:00
 > [!important]  
 > What do you think? Is this a question of once saved always saved? Is this just an encouragement to remain with Him
 
-## 3. Our High Priest (5)
+### 3. Our High Priest (5)
 
-### Intro
+#### Intro
 
 - Previously, we recounted the prophecies of David regarding his descendant, who would also be the son of [[God]] ([[Matthew]] 22:45, if he comes from David, why is he called “Lord” by David)
 - [[2-Areas/Bible/Teaching/Hebrews]] is written to Messianic Jews prior to the destruction of the temple
@@ -110,7 +114,7 @@ updated: 2025-08-09T11:41:32-05:00
   - [[Yeshua|Jesus]] was called this by [[Isaiah]] ([[Isaiah]] 11:1-5)
     > There shall come forth a **shoot (H5342)** from the stump of Jesse, and a branch from his roots shall bear fruit. And the Spirit of the LORD shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the LORD. And his delight shall be in the fear of the LORD. He shall not judge by what his eyes see, or decide disputes by what his ears hear, but with righteousness he shall judge the poor, and decide with equity for the meek of the earth; and he shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked. Righteousness shall be the belt of his waist, and faithfulness the belt of his loins.
 
-### The Text
+#### The Text
 
 - v1, **For** every …
   - Go back to the previous — “we have a great high priest … that is perfect despite temptation. Let us go to the [_true_] throne of grace” (not just the ark)
@@ -135,7 +139,7 @@ updated: 2025-08-09T11:41:32-05:00
       > The following night the Lord stood near Paul and said, "Have courage, for just as you have testified about me in Jerusalem, so you must also testify in Rome." When morning came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink anything until they had killed Paul. There were more than forty of them who formed this conspiracy.
 - What happens to those that conspire: Ps 63:9 - Ps 64:10
 
-## 4. Hope before us (6)
+### 4. Hope before us (6)
 
 - This builds up to the last four chapters
 - Recall this was written to Hebrew-speaking, Jews that were familiar with the Old Testament
@@ -173,7 +177,7 @@ updated: 2025-08-09T11:41:32-05:00
   - Consider the greatness of [[Melchizedek]] that Abraham tithed to him
   - [[Melchizedek]] precedes Levi, so too does [[Yeshua|Jesus]] precede the high priesthood
 
-## 5. Change in the Law? (7)
+### 5. Change in the Law? (7)
 
 Context
 
@@ -204,7 +208,7 @@ Getting into it
 > [!important]  
 > This week was a bit more uplifting than last week. What do you take from this? For me, it is an assurance that God’s plan has been in the foundations of the world prior to any of the law, the prophets, or writings. [[God]] has truly ordained it from the beginning and has had our salvation in the fold for all time.
 
-## 6. Mediator of a Better Covenant (8)
+### 6. Mediator of a Better Covenant (8)
 
 - Read v1-6
   - v1: Now of the things which we have spoken *this is* the sum: that we have a high priest set at the right hand of [[God]] (Ps 98)
@@ -237,7 +241,7 @@ Getting into it
     - I’ll send a **comforter** to abide with you
   - Being a part of God’s renewed covenant receive the power of the holy spirit as a mark and gift
 
-## 7. Last will and Testament (9)
+### 7. Last will and Testament (9)
 
 - First word: “then”
 - As a refresher of where we’re coming from, Heb 8:7
@@ -273,7 +277,7 @@ Getting into it
   - This is speaking in a sense of “last will and **testament**”, which requires death
   - Similar to our discussion of Abraham and his thigh, this is not just an oath, but a will
 
-## 8. Torah’s Shadow Pictures (9-10)
+### 8. Torah’s Shadow Pictures (9-10)
 
 - v11, Context: [[Yeshua|Jesus]] is a high priest of the better things that were to come by his own blood
 - The day of atonement was the model of what we would one all have access to but was not yet available
@@ -310,7 +314,6 @@ What died for the testament to be enacted?
 _No chapter markings in Greek, keep going…_
 
 - 10:1 - the law has shadows of good things to come but can never make things perfect
-
   - Again, it just shows the deficit to be paid (v3)
   - If an animal could fix it, it would have been once, not constant — if you get the death penalty, handing over your dog doesn’t fix anything
   - Prayers and alms giving does NOT replace the temple sacrifices (as some modern Jews think). It’s simply not needed any more; [[Yeshua|Jesus]] finished it
@@ -322,7 +325,7 @@ _No chapter markings in Greek, keep going…_
 - v7-10 - the sacrifices are set aside once we [[Yeshua|Jesus]] died, which released God’s final will and testament
 - Recall, Heb 6:4-6 - It is IMPOSSIBLE to find something better; rejecting [[Yeshua|Jesus]] and accepting sacrifices scorns God
 
-## 9. Who Draw back to Perdition (10)
+### 9. Who Draw back to Perdition (10)
 
 - v12-14 - having offered one sacrifice …. expecting til his enemies be made the footstool of his feet (again, Ps 110)
   > The LORD said unto my Lord, sit at my right hand until I make your enemies your footstool … you are a priest forever after the order of [[Melchizedek]]
@@ -343,7 +346,7 @@ _No chapter markings in Greek, keep going…_
 - v38-39 - The just live by faith, do not draw back!
   - Perdition = G684 = apoleia = ruin, loss, destruction
 
-## 10. Cloud of Witnesses (11)
+### 10. Cloud of Witnesses (11)
 
 - _Immediately go to 12_
   - _v1 - Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the [[sin]] which doth so easily beset us, and let us run with patience the race that is set before us_
@@ -371,9 +374,9 @@ Back to Chapter 11
 - BUT NOW **HE** HAS COME
 - It is time for us to live our faith, push for Christ, and [[Love]] those he loved as if it were our last life
 
-## 11. [[God]] a Consuming Fire (12)
+### 11. [[God]] a Consuming Fire (12)
 
-## 12. Entertaining Angels Unaware (13)
+### 12. Entertaining Angels Unaware (13)
 
 > [!important]  
 > Question:

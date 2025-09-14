@@ -1,14 +1,9 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - New-Testament
-Created: 2021-03-02T23:07
-Updated: 2022-01-20T17:18
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:00-05:00
-date: 2025-07-18T21:08:59-05:00
+aliases: []
+tags: []
+title: If a Brother Sins Against You (v. 15-20)
+updated: 2025-09-06T01:16:57-05:00
+created: 2025-09-06T01:16:57-05:00
 ---
 
 > [!important]  

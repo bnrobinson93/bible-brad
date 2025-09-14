@@ -1,8 +1,19 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+aliases: []
+tags: []
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
+title: Shadow Pictures of Joshua vs Revelation
+updated: 2025-09-06T00:14
 ---
-# Book of Joshua vs Revelation
+
+# Shadow Pictures of Joshua vs Revelation
+
+## Book of Joshua vs Revelation
+
 If there's one thing we see all the time "Be strong and courageous!" [[Deuteronomy|Deut]] 31:6, 7, 2; [[Joshua]] 1:9
 
 > [[Deuteronomy|Deut]] 31:6-7, 23
@@ -21,6 +32,7 @@ If there's one thing we see all the time "Be strong and courageous!" [[Deuterono
 | War against Hazor            | Day of Judgement                 |
 | Inheritance of the land      | New Heaven, earth, and Jerusalem |
 
-# Links:
+## Links:
 
 202410051217
+

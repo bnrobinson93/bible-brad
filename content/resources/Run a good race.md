@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 In [[1 Corinthians|1 Cor]] 9 and 10, Paul says we should run a race like someone training to win. Don't run aimlessly. Don't get hit and then sit down. Run like you want to get the crown we get to actually keep: the one in heaven!
 

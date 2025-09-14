@@ -1,6 +1,6 @@
 ---
-updated: 2025-04-28T22:56:55-05:00
-date: 2025-04-25T11:43:36-05:00
+updated: 2025-07-13T08:33:20-05:00
+created: 2025-04-25T11:43:36-05:00
 ---
 In [[Judges]] 4, the story of Deborah is unfolded. As a judge of Israel, she arose to defend the people from occupation. She prophecies that the victor will not be the man she speaks with, for he was hesitant and only wanted to fight if she came along with him, but rather a woman. She did not speak of herself but a descendant of Moses's brother-in-law, who - to them - appeared traitorous. She welcomed the leader in when he fled the battle and then brutally murders him while he slept. God, ultimately, still achieved his purpose but rewarded the one who acted faithfully by giving her the claim of victor, not the one who led the big battle.
 

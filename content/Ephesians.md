@@ -1,23 +1,24 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-Created: 2022-08-04T22:04
-Updated: 2022-08-26
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:00-05:00
-date: 2025-07-18T21:09:00-05:00
+created: 2022-08-04T22:04
+favorite: false
+title: Ephesians
+updated: 2025-09-06T17:17:07-05:00
 ---
 
-# Context
+# Ephesians
+
+## Context
 
 - [[Ephesians]] was written while Paul was in Roman prison around 60AD
 - [[Ephesians]] was a coastal town that Paul had visited - and stayed for anywhere from three months to about two years - earlier in his ministry (see [[Acts]] 19)
 - This was written to the church in Ephesus, several of which members Paul would have known well
 
-# The Gospel Story
+## The Gospel Story
 
 **Who** and **what** we are in Christ, **where** we’re going **when** it’s all over, and **why** we’re going there
 
@@ -65,7 +66,7 @@ date: 2025-07-18T21:09:00-05:00
 > [!important]  
 > Question: Does Paul’s description of his mission or the Gospel change how you view them? Would you share the gospel in the same way?
 
-# Our Story (Therefore…)
+## Our Story (Therefore…)
 
 ### The Unity of the Body (4)
 

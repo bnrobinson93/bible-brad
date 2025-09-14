@@ -1,7 +1,7 @@
 ---
 updated: 2025-06-28T11:25:51-05:00
 URL: https://youtu.be/yqyBtqGs8YI?si=J51i_jhEBFVVAuls
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 [[Circumcision]]
 [[The Shadow Picture of Jericho]]

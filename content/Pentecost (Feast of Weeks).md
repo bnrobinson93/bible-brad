@@ -1,24 +1,27 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
   - Old-Testament
-date: 2022-06-16T23:00
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-06-16T23:00
+title: Pentecost (Feast of Weeks)
+updated: 2025-09-06T01:16:55-05:00
 ---
+
+# Pentecost (Feast of Weeks)
 
 **πεντηκοστῆς** = _pentēkostē =_ Pentecost, _50th_
 
 _ḥāḡ šāḇûaʿ =_ **חַג שָׁבֻעוֹת** = Feast of Weeks (7 weeks - 49 days - then feast is the next day)
 
-# Historical Fulfillment
+## Historical Fulfillment
 
 - Mt Sinai
 
 - Giving of the ten commandments
-
   - [[Exodus]] 19-20:
   - _On the On the first day of the third month after the Israelites left Egypt—on that very day—they came to the Desert of Sinai after the Israelites left Egypt—on that very day—they came to the Desert of Sinai … v11 and be ready by the third day, because on that day the Lord will come down on Mount Sinai in the sight of all the people. … v16 On the morning of the third day there was_ **_thunder and lightning_**_, with a thick cloud over the mountain, and a_ **_very loud trumpet blast_**_. Everyone in the camp trembled. … 20:18_ When the people saw the **thunder and lightning and heard the trumpet** and saw the mountain in smoke, they trembled with fear. They stayed at a distance and said to Moses, “Speak to us yourself and we will listen. But do not have [[God]] speak to us or we will die.” Moses said to the people, “Do not be afraid. [[God]] has come to test you, so that the fear of [[God]] will be with you to keep you from sinning.” The people remained at a distance, while Moses approached the thick darkness where [[God]] was.
   - 24:3-4: _When Moses went and told the people all the Lord’s words and laws, they responded with one voice, “Everything the Lord has said we will do.” Moses then wrote down everything the Lord had said._
@@ -28,19 +31,18 @@ _ḥāḡ šāḇûaʿ =_ **חַג שָׁבֻעוֹת** = Feast of Weeks (7 week
 - So the laws were called out to all of the people with God’s voice, in a language that the people understood. There was fire upon the mountain and the people responded with fear, but Moses drew near (this is when he literally sees God)
 
 - Deut 16:9-12:
-
   - _Count off_ **_seven weeks from the time you begin to put the sickle to the standing grain_**_. [First fruits = somewhere around 16-22 day of first month]_ **_Then_** _celebrate the_ **_Festival of Weeks_** _to the Lord your [[God]] by giving a freewill offering in proportion to the blessings the Lord your [[God]] has given you. And rejoice before the Lord your [[God]] at the place he will choose as a dwelling for his Name—you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, the fatherless and the widows living among you. Remember that you were slaves in Egypt, and follow carefully these decrees._
 
 - This works out to about 8 weeks after Passover, or just shy of two months. When was Mt Sinai? The first day of the third month after they left Egypt (Passover). The same day!
 
-# Jesus’s Fulfillment
+## Jesus’s Fulfillment
 
 - Giving of the Holy Spirit
 
 - [[Acts]] 2:1-13
   _When the day of Pentecost came, they were all together in one place. Suddenly a sound like the_ **_blowing of a violent wind_** _came from heaven and filled the whole house where they were sitting. They saw what seemed to be_ **_tongues of fire_** _that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to_ **_speak in other tongues as the Spirit enabled them_**_._
 
-# Future Fulfillment
+## Future Fulfillment
 
 - [[Joel]] 2:28-29
   _And it shall come to pass afterward_ (after the day of the LORD)_, that I will pour out my Spirit on all flesh; your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions._

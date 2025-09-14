@@ -1,12 +1,9 @@
 ---
-tags:
-  - Men
-Created: 2020-05-12T18:41
-Updated: 2020-12-04T01:09
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:01-05:00
-date: 2025-07-18T21:09:01-05:00
+aliases: []
+tags: []
+title: Brad’s thoughts
+updated: 2025-09-06T01:16:57-05:00
+created: 2025-09-06T01:16:57-05:00
 ---
 
 Bible study

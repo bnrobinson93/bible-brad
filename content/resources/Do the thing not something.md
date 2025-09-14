@@ -1,6 +1,6 @@
 ---
-updated: 2025-05-18T22:44:51-05:00
-date: 2025-05-14T19:22:27-05:00
+updated: 2025-09-06T01:08:18-05:00
+created: 2025-05-14T19:22:27-05:00
 ---
 > [!quote]
 >  The important thing is not that we have done something for God, but that we have done what God wanted us to do!

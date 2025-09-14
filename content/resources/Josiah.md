@@ -1,6 +1,6 @@
 ---
-updated: 2025-06-28T11:26:34-05:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:09:14-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 After [[Manasseh]]'s son, Amon, was assassinated (2 years after taking the thrown), Josiah was made king. He was only 8 at the time of his inauguration. 
 

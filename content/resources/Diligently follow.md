@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:25:57-05:00
-date: 2025-04-23T08:38:17-05:00
+created: 2025-04-23T08:38:17-05:00
 ---
 In [[judges]] 1 and 2, we see that Israel did not fully drive out the Canaanites from among them. God sends an angel to remind them that they were given the whole land and that these remaining people would cause them to falter in their obedience. Though they wept, nothing was done about it. We know now that this lead to idolatry, child sacrifice, and ultimately the captivity of Israel. 
 

@@ -1,16 +1,14 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-Created: 2022-11-03T22:08
-Updated: 2022-11-04T06:55
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-08-09T09:21:58-05:00
-date: 2025-07-08T21:58:25-05:00
+aliases: []
+tags: []
+title: Melchizedek
+updated: 2025-09-06T01:16:57-05:00
+created: 2025-09-06T01:16:57-05:00
 ---
 
-# Context
+# Melchizedek
+
+## Context
 
 - In reading this past week, a few topics kind of bubbled to the top and certain words stuck in my head, two of them were
   - Judgement (insofar as obeying the Law)
@@ -62,7 +60,7 @@ date: 2025-07-08T21:58:25-05:00
     >
     > So if perfection had in fact been possible through the Levitical priesthood - for on that basis the people received the law - what further need would there have been for another priest to arise, said to be in the order of [[Melchizedek]] and not in Aaron's order? For when the priesthood changes, a change in the law must come as well. Yet the one these things are spoken about belongs to a different tribe, and no one from that tribe has ever officiated at the altar. For it is clear that our Lord is descended from Judah, yet Moses said nothing about priests in connection with that tribe. And this is even clearer if another priest arises in the likeness of [[Melchizedek]], who has become a priest not by a legal regulation about physical descent but by the power of an indestructible life. For here is the testimony about him: "_**You are a priest forever in the order of [[Melchizedek]]**_." On the one hand a former command is set aside because it is weak and useless, for the law made nothing perfect. On the other hand a better hope is introduced, through which we draw near to God. And since this was not done without a sworn affirmation - for the others have become priests without a sworn affirmation, but [[Yeshua|Jesus]] did so with a sworn affirmation by the one who said to him, "_**The Lord has sworn and will not change his mind**\_\_,_ _**You are a priest forever**_'" - accordingly [[Yeshua|Jesus]] has become the guarantee of a better covenant. And the others who became priests were numerous, because death prevented them from continuing in office, but he holds his priesthood permanently since he lives forever. So he is able to save completely those who come to [[God]] through him, because he always lives to intercede for them. For it is indeed fitting for us to have such a high priest: holy, innocent, undefiled, separate from sinners, and exalted above the heavens. He has no need to do every day what those priests do, to offer sacrifices first for their own sins and then for the sins of the people, since he did this in offering himself once for all. For the law appoints as high priests men subject to weakness, but the word of solemn affirmation that came after the law appoints a son made perfect forever.
 
-# The High Level
+## The High Level
 
 - First, what on earth? So random!
 - [[Melchizedek]] was both a person and a priestly order outside of the Levitical one
@@ -75,7 +73,7 @@ date: 2025-07-08T21:58:25-05:00
 - Abram, now focused on God, rejects any plunder from the king, opting instead to break even and move on, trusting in [[God]] for his reward
 - [[God]] does reward Abram’s righteousness in chapter 15 with the promise of Isaac
 
-# Tying that back to Jesus
+## Tying that back to Jesus
 
 - The author of [[2-Areas/Bible/Teaching/Hebrews]] does most of the leg work here
 - Citing [[Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
@@ -85,7 +83,7 @@ date: 2025-07-08T21:58:25-05:00
   - [[Yeshua|Jesus]] was not a Levite - he was of Judah - so could not be a “real” high priest, but he DOES serve as a fulfillment of the shadow picture set forth by [[Melchizedek]]
   - As Abram understood that [[Melchizedek]] was greater than he was, so too should we recognize the role of [[Yeshua|Jesus]] as THE high priest - the one that offers intercession on our behalf to God
 
-# Some Application
+## Some Application
 
 - We are called to respond in the same way that Abram responded
 - Recognize Jesus’s role in our lives through our response to Him: tithing and keeping our eyes fixed on the heavenly instead of the earthly

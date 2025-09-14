@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:26:02-05:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 > [[2 Chronicles]] 14:11
  Then Asa called to the LORD his God and said, "LORD, there is no one like you to help the powerless against the mighty. Help us, LORD our God, for we rely on you, and in your name we have come against this vast army. LORD, you are our God: do not let mere mortals prevail against you."

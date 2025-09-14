@@ -1,10 +1,15 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+aliases: []
+tags: []
+created: 2025-01-23T21:55:32-06:00
+title: Links:
+updated: 2025-09-06T01:15
 ---
- Right after finishing discussion of the spiritual gifts, in [[1 Corinthians|1 Cor]] 12, Paul says that you could have all of the gifts in the world but without Love, they are meaningless. Of the three most important attributes of a Christian (faith, hope, and love), love is the greatest.
- 
+
+Right after finishing discussion of the spiritual gifts, in [[1 Corinthians|1 Cor]] 12, Paul says that you could have all of the gifts in the world but without Love, they are meaningless. Of the three most important attributes of a Christian (faith, hope, and love), love is the greatest.
+
 Love is:
+
 - patient
 - kind
 - does not envy
@@ -19,6 +24,8 @@ Love is:
 - always trusts
 - always hopes
 - Always perseveres
+
 # Links:
 
 202408201815
+

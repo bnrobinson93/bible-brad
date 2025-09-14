@@ -1,23 +1,24 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-Created: 2020-12-17T19:53
-Updated: 2022-01-20T17:18
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:06-05:00
-date: 2025-07-08T21:58:21-05:00
+created: 2020-12-17T19:53
+favorite: false
+title: Matt 17
+updated: 2025-09-06T17:17:48-05:00
 ---
 
-# The Transfiguration
+# Matt 17
+
+## The Transfiguration
 
 - Timeline puts this right around mid-Oct (let's build tabernacles"
 
 ---
 
-# The Spirit of Elijah
+## The Spirit of Elijah
 
 - This gets brought up on the way down the mountainside, right after the deciples "met" Elijah
 - Not reincarnation but rather the "essenence" of something (nephesh)
@@ -25,7 +26,7 @@ date: 2025-07-08T21:58:21-05:00
 
 ---
 
-# End of the Chapter
+## End of the Chapter
 
 More father-son type of stories, which ties back to the start of the chapter
 
@@ -35,12 +36,12 @@ More father-son type of stories, which ties back to the start of the chapter
 
 This pattern continues in chapter 18 where [[Yeshua|Jesus]] says that those that are "like little children" are the ones that enter the kingdom
 
-## A father approaches [[Yeshua|Jesus]] to heal his son
+### A father approaches [[Yeshua|Jesus]] to heal his son
 
 - v.21 does not appear in the text until the 5th century; some translations do not include this verse. I would never claim to have authority over scripture but it's interesting. If that means [[Yeshua|Jesus]] didn't say this but, rather, a scholar would have added it as a footnote and it eventually made it's way into the canon, then [[Yeshua|Jesus]] simply leaves it at "nothing will be impossible for you." This verse is one example of how our theology can put [[God]] in a box
 - v.15: asking for mercy was an idiom meaning to ask for forgiveness. The people would have understood that the sickness was caused by sin
 
-## "Do kings tax their sons or foreigners?" ... "the sons are free"
+### "Do kings tax their sons or foreigners?" ... "the sons are free"
 
 - Aside: Capurnaum means "town of comfort" or "village of consolation" in Hebrew
 - This tax was taken out of context - this is the type of "commandment" that [[Yeshua|Jesus]] abhors!

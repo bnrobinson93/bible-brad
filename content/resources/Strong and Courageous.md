@@ -1,7 +1,11 @@
 ---
-updated: 2025-01-23T21:55:33-06:00
+updated: 2025-07-12T14:21:41-05:00
 url: https://www.youtube.com/watch?v=RBOqG81tZ9g
+`<<<<<<<`
+created: 2025-01-23T21:55:33-06:00
+`=======`
 date: 2025-01-23T21:55:33-06:00
+`>>>>>>>`
 ---
 Being strong and courageous is a theme echoed all throughout scripture. We see it in:
 1. [[Deuteronomy|Deut]] 31:6-7

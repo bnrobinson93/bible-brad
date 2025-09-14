@@ -1,6 +1,6 @@
 ---
-updated: 2025-06-28T11:25:30-05:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:35-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[1 Thessalonians]] 5 all calls the people to put on the breastplate of faith and love and to wear the helmet of the hope of salvation, which is reminiscent of [[The armor of God]] that is spoken about in [[2-Areas/Bible/Teaching/Ephesians|Ephesians]] it calls into question whether these are the two most important parts of armor for Paul. I believe that that may be the case as he makes the case that love is above all things and salvation was a topic spoken of in the prior chapter specifically around the process of [[sanctification]].
 

@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:26:49-05:00
-date: 2025-03-12T23:26:53-05:00
+created: 2025-03-12T23:26:53-05:00
 ---
 In [[Numbers]] 16, immediately following the incident of the spies bringing the bad report and the people saying "nevermind! We'll go into the land! We trust God now," only after hearing that God was going to kill them in the wilderness for their lack of faith, we find that Korah - a leader from among the tribe of Reuben, attempts an insurrection against Moses. In response, God swallows them all up in a pit that opens under their tents: taking them down, alive.
 

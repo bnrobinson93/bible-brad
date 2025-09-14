@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 ## Free Will
 These are used to express gratitude. They are a sweet aroma to God. Today, they are not animals but if it's something you give to God, he receives it and loves it

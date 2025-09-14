@@ -4,9 +4,9 @@ tags:
   - Men
   - New-Testament
   - Old-Testament
-date: 2022-06-03T06:10
+created: 2022-06-03T06:10
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:20-05:00
 ---
 
 - Source: [[James]] 1:6

@@ -1,13 +1,17 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
-date: 2022-10-20T23:36
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-10-20T23:36
+title: Predestination (Calvinism)
+updated: 2025-09-06T01:16:55-05:00
 ---
 
-# Overview
+# Predestination (Calvinism)
+
+## Overview
 
 - Predestination is used to refer to God’s unchanging plan for the world extending particularly to salvation
 - Predestination allows for all people to fall in either "unconditional election" or "reprobation"
@@ -110,7 +114,7 @@ updated: 2025-01-23T21:55:32-06:00
 
 ---
 
-# History
+## History
 
 - Predestination of the elect and non-elect was taught by the Jewish Essene sect, Gnosticism, and Manichaeism
 - In Christianity, it originated with Augustine of Hippo during the Pelagian controversy in 412 AD
@@ -126,13 +130,13 @@ updated: 2025-01-23T21:55:32-06:00
 
 ---
 
-# Arguments For
+## Arguments For
 
 - This removes man from the equation, which gives [[God]] all the credit for salvation — versus saying man has anything to do with it
 - [[God]] is believed to work in all things, in all ways, all the time
 - Parable of the sower: sometimes the word lands on dry ground
 
-# Arguments Against
+## Arguments Against
 
 Let’s start with the three passages that are used most often:
 

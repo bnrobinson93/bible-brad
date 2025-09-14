@@ -1,13 +1,21 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
-date: 2020-05-12T18:41
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+`<<<<<<<`
+created: 2020-05-12T18:41
+`=======`
+date: 2020-05-12T18:41
+`>>>>>>>`
+title: Priorities and How We can Side-Tracked even when we're doing Everything Right
+updated: 2025-09-06T00:23
 ---
 
-# What [[Yeshua|Jesus]] says our priorities should be
+# Priorities and How We can Side-Tracked even when we're doing Everything Right
+
+## What [[Yeshua|Jesus]] says our priorities should be
 
 > Matt 6:33 "[speaking against anxiety about food, drink, cloth]: Seek first the kingdom of [[God]] and his righteousness and all these things will be added to you"
 
@@ -15,9 +23,9 @@ updated: 2025-01-23T21:55:32-06:00
 
 > [[John]] 4:24 "God is Spirit and it is necessary for those who worship him to worship in spirit and in truth."
 
-# How we can mess up
+## How we can mess up
 
-## Ask the group
+### Ask the group
 
 - Putting ourselves or others before God
 - Letting the world choke us out (parable of the seeds)
@@ -27,7 +35,7 @@ updated: 2025-01-23T21:55:32-06:00
 - relationships
 - others plans
 
-## Awesome, I've got all that figured out (Lk 18:21)
+### Awesome, I've got all that figured out (Lk 18:21)
 
 First off, no you, we, I don't. If you think otherwise, that's pride. But, let's humor and look at your, our, my walk then, shall we?
 

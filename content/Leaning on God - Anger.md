@@ -1,14 +1,18 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
-date: 2023-01-05T23:05
 Favorite: true
 URL: https://www.gotquestions.org/Bible-anger.html
-updated: 2025-01-23T21:55:32-06:00
+created: 2023-01-05T23:05
+title: Leaning on God - Anger
+updated: 2025-09-06T01:16:55-05:00
 ---
 
-# Context
+# Leaning on God - Anger
+
+## Context
 
 - Over the last couple of weeks, my sister has been sending a few texts updating me on their current situation. Each one more pessemistic than the last
 - In the past, I have tried to offer as much help as possible: monetary, a shoulder to cry on, or offering time to help them find solutions to problems
@@ -19,7 +23,7 @@ updated: 2025-01-23T21:55:32-06:00
 - I think we can all see where I could have done better here
 - That said, in the day-to-day, should we pray for God’s help in these moments? Let’s talk about where we stop and the Holy Spirit starts
 
-# Anger
+## Anger
 
 - What is anger? The common description is a warning flag that others are attempting to violate our boundaries; it’s an emotion that tells you to push back against that, whether for yourself or for someone else
 - That said, our boundaries can be triggered because of pride, not “valid” reasons (i.e. abuse)
@@ -49,18 +53,16 @@ updated: 2025-01-23T21:55:32-06:00
     > _God is a righteous judge, and a [[God]] who feels indignation every day. If a person does not repent, [[God]] sharpens his sword and prepares to shoot his bow._
   - Additionally, there’s of course the Jesus-whipping-people event (Matt 21:12, [[Mark]] 11:15-16)
 
-# Praying for God’s Help
+## Praying for God’s Help
 
 - [[God]] has already given us the Holy Spirit
 - While it’s perfectly ok to ask [[God]] for help, we need to remember that He already is
 - We are to lean on the Holy Spirit - which is tomato/tomato - but how we respond is up to us
 
-## Setting Ourselves up to Fail
+### Setting Ourselves up to Fail
 
 - Perhaps the two biggest shortcomings of ONLY leaning on God:
-
   1. If [[God]] doesn’t respond by saving us from ourselves, our faith is lessened and our witness can be damaged
-
      - [[Mark]] 9:17-29
        > _A member of the crowd said to [Jesus], “Teacher, I brought you my son, who is possessed by a spirit that makes him mute. Whenever it seizes him, it throws him down, and he foams at the mouth, grinds his teeth, and becomes rigid._ **_I asked your disciples to cast it out, but they were not able to do so._**_” He answered them, “You unbelieving generation! How much longer must I be with you? How much longer must I endure you? Bring him to me.” So they brought the boy to him. When the spirit saw him, it immediately threw the boy into a convulsion. He fell on the ground and rolled around, foaming at the mouth. [[Yeshua|Jesus]] asked his father, “How long has this been happening to him?” And he said, “From childhood. It has often thrown him into fire or water to destroy him. But if you are able to do anything, have compassion on us and help us.”_ _Then [[Yeshua|Jesus]] said to him,_ **_“‘If you are able?’ All things are possible for the one who believes.”_** _Immediately the father of the boy cried out and said, “I believe; help my unbelief!” Now when [[Yeshua|Jesus]] saw that a crowd was quickly gathering, he rebuked the unclean spirit, saying to it, “Mute and deaf spirit, I command you, come out of him and never enter him again.” It shrieked, threw him into terrible convulsions, and came out. The boy looked so much like a corpse that many said, “He is dead!” But [[Yeshua|Jesus]] gently took his hand and raised him to his feet, and he stood up. Then, after he went into the house, his disciples asked him privately,_ **_“Why couldn’t we cast it out?” He told them, “This kind can come out only by prayer.”_**
      - What do we learn here?
@@ -72,7 +74,7 @@ updated: 2025-01-23T21:55:32-06:00
      - [[Jude]] 1:4
        > _… ungodly men who have turned the grace of our [[God]] into a license for evil and who deny our only Master and Lord, [[Yeshua|Jesus]] Christ_
 
-## What else to do?
+### What else to do?
 
 - [[James]] 1:2-4 — we should take the opportunity as a blessing and a challenge to overcome, being reminded that [[God]] intends all things for our good (Rom 8:28-29)
 - Kill them with kindness (Gen 50:21, Rom 12:21) — Joseph demonstrates this (kinda) when he rescues the family that left him for dead and sold him into slavery

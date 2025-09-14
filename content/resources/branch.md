@@ -1,20 +1,16 @@
 ---
-Favorite: false
-updated: 2025-01-23T21:55:31-06:00
-tags:
-  - bible
-URL: 
-date: 2025-01-23T21:55:31-06:00
+aliases: []
+tags: []
+title: Context
+updated: 2025-09-06T00:58:15-05:00
+created: 2025-09-06T00:58:15-05:00
 ---
+
 # Context
 
-  
+## One
 
-# One
-
-## Sub One
-
-  
+### Sub One
 
 > [!important]  
 > Question:

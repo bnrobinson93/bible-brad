@@ -1,15 +1,19 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-date: 2022-08-04T22:04
 Favorite: false
 URL: https://www.preceptaustin.org/judges_19_commentary
-updated: 2025-03-01T10:16:25-06:00
+created: 2022-08-04T22:04
+title: Human Depravity
+updated: 2025-09-06T01:16:55-05:00
 ---
 
-# Intro
+# Human Depravity
+
+## Intro
 
 - In preparation for this week, I stumbled across a frankly jarring story
 - To preface this, some scholars actually recommend **against** reading these chapters because they’re really summed up in “we are a depraved flesh” and “don’t do as you desire, let [[God]] rule your life”
@@ -20,9 +24,9 @@ HOWEVER
 - This is a good reminder to our depravity passed down from Adam (Rom 5:12). We can choose to water the seeds of desctruction or [[Choose life]]
 - Paul reminds us that Israel’s past failures were done so that we can have an example. They are in the bible that we might not crave evil as they did. Now that we have these examples, we should not be imoral as some of them were (1 Cor 10:1, Num 25:1-9)
 
-# [[Judges]] 19
+## [[Judges]] 19
 
-## Context
+### Context
 
 - In chapters 17-18, we follow the story of a man named [[2-Areas/Bible/Teaching/Micah]] who steals silver and builds himself a little mini cult. The tribe of Dan eventually comes across him and steals out his priest and his idols so that they can “carry the gods” with them while they invaded a territory near by to settle in
 - [[Judges]] 19 settles into a store of immorality rather than idolitry
@@ -30,7 +34,7 @@ HOWEVER
 - These chapters come after Moses delivers the law so these highlight Israel’s indifference toward [[God]] and his law, preferring independence instead
 - Recall that the book of [[Judges]] shows us the consequences for these behaviors as well, and later [[God]] establishes a physical king as a response to the people cold heartedness. These passages are not meant to encourage this behavior
 
-## The passage
+### The passage
 
 - [[Judges]] 19
 

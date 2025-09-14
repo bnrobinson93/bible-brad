@@ -3,10 +3,10 @@ tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-date: 2023-08-27T09:10
+created: 2023-08-27T09:10
 Favorite: true
 URL: https://youtu.be/H0rVBxf0lok
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:08-05:00
 ---
 
 Deut 10:17-18,20 - God, who is great, cares for them. We should emulate him. Remember how it felt in Egypt

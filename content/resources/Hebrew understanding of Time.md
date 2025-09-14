@@ -1,6 +1,6 @@
 ---
 updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 Days were understood to start at sundown instead of midnight.
 

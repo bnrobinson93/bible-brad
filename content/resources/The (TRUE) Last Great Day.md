@@ -1,6 +1,6 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:21-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[John]] 7, [[Jesus]] proclaims *on the Last Great Day* that he was the living water from whom, if we drink, we will never thirst again and that rivers of life will flow from our hearts. This would have been during the water libation ceremony. This speaks of the [[holy spirit]] coming upon us.
 

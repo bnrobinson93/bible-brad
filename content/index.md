@@ -1,5 +1,7 @@
 ---
 title: BibleBrad Home
+created: 2025-07-12T14:21:41-05:00
+updated: 2025-07-13T08:35:00-05:00
 ---
 
 # Welcome to Bible Brad

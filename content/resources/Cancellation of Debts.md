@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:25:40-05:00
-date: 2025-03-30T12:37:00-05:00
+created: 2025-03-30T12:37:00-05:00
 ---
 In [[Deuteronomy]] 15, laws are laid out for the forgiveness of Debts, including indentured servitude. The law essentially offered a reset every seven years. At that time, all was forgiven and all servants (who wished to) were set free. 
 

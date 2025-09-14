@@ -1,10 +1,20 @@
 ---
-updated: 2025-06-28T11:26:09-05:00
+aliases: []
+tags: []
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
+title: God is our king
+updated: 2025-09-06T00:14
 ---
 
 # God is our king
+
 [[Isaiah|Isa]] 23 states how God angrily gave us an earthly king, despite him being our king. In [[Revelation|Rev]], he alone reigns.
-# Links:
+
+## Links:
 
 202409170824
+

@@ -1,40 +1,41 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-Created: 2020-12-04T01:08
-Updated: 2022-01-20T17:18
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:13-05:00
-date: 2025-07-08T21:58:21-05:00
+created: 2020-12-04T01:08
+favorite: false
+title: Matt 16
+updated: 2025-09-06T17:17:42-05:00
 ---
+
+# Matt 16
 
 - For context: Matt 17 is The Transfiguration (around the time of the feast of Tabernacles = roughly October) and takes place "…after six days…" from these events \*\*
 
-# 1. The Pharisees and Sadducees Demand Signs
+## 1. The Pharisees and Sadducees Demand Signs
 
 - We have signs but they require interpretation that can only come from discernment (comes from the Holy Spirit) or experience
 - What is the sign of [[Jonah]]? Three days and three nights in the belly of a whale:
 
 > For just as [[Jonah]] was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earthMatt 12:40
 
-# 2. The Leaven of the Pharisees and Sadducees
+## 2. The Leaven of the Pharisees and Sadducees
 
 - Pharisees = legalism (more merciful than Sadducees but opulent observers of man-made laws)
 - Sadducees = Hellenism (a blending of Judaism and Greek religion and politics; essentially luke-warm Christians that think they are more righteous than those they run with)
 - We are told to beware religious doctrine as it can cloud [[God|God's]] word in our life. Rather we should lean on the spirit as a source of truth
 - [[Yeshua|Jesus]] immediately calls them faithless - reminding them that he's got them covered physically. He is talking in metaphor and of spiritual matters
 
-# Application and Questions
+## Application and Questions
 
 - Beware the doctrine
 - How do you apply this?
 
 ---
 
-# 3. Peter Confesses [[Yeshua|Jesus]] as the Christ
+## 3. Peter Confesses [[Yeshua|Jesus]] as the Christ
 
 Context: some time seems to have passed. Not clear entirely how much
 
@@ -50,7 +51,7 @@ Context: some time seems to have passed. Not clear entirely how much
 
 ---
 
-# 4. [[Yeshua|Jesus]] Foretells His Death and Resurrection
+## 4. [[Yeshua|Jesus]] Foretells His Death and Resurrection
 
 - See first point
 - Peter stands up for [[Yeshua|Jesus]] but [[Yeshua|Jesus]] understands what needs to happen. That is, that he be taken and inspected by the religious elites, found to be without blemish, and killed for our transgressions

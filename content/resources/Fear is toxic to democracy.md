@@ -1,7 +1,7 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:18-05:00
 URL: https://pca.st/episode/cc2f8bcf-f25d-489b-bf9d-897b76189f32
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In an episode of Philosiphize This, the views of Martha Nussbaum are shared. This was a follow-up to her previous podcast episode in which the topic of shame versus guilt was shared in the previous podcast. It was highlighted that guilt focused on how a wrong impacts the rights of others while shame was the result of a broken image of perfection within yourself. More succinctly, guilt is others focused while shame is self-focused.
 

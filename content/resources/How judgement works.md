@@ -1,6 +1,6 @@
 ---
 updated: 2025-06-28T11:26:20-05:00
-date: 2025-01-23T21:55:32-06:00
+created: 2025-01-23T21:55:32-06:00
 ---
 In [[Ezekiel]] 18, God lays out how his judgement works. To him, it's not how you start, it's how you finish. You can live a horrible life and repent at the end and you are credited righteous. You can live an amazing, upright life and sin at the end and your righteousness will be forgotten (v24). Only for the sins the individual has committed are they judged.
 

@@ -1,6 +1,6 @@
 ---
-updated: 2025-03-15T12:43:34-05:00
-date: 2025-03-09T13:03:36-05:00
+updated: 2025-09-06T01:08:12-05:00
+created: 2025-03-09T13:03:36-05:00
 ---
 In [[Numbers]] 13, we get the story of Caleb and Joshua (Hosea), son of Nun, bringing a good report while 10 deliver a bad report. They're mission was to go before the children of Israel, out of the wilderness, and to scope out the promised land. They did exactly that and brought back incredible fruit, reported amazing soil, and great cities; however, they saw giants and nephelim in the land and were fearful that they would be killed in battle. Caleb, of Judah, was the only one to speak up, trusting that God could deliver them.
 

@@ -1,6 +1,10 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-07-12T14:21:41-05:00
+`<<<<<<<`
+created: 2025-01-23T21:55:32-06:00
+`=======`
 date: 2025-01-23T21:55:32-06:00
+`>>>>>>>`
 ---
 Exodus 25 describes what the arc should look like and what it should contain. Made of acacia wood and wrapped in gold, it stands about 4.5 feet tall. It contains
 

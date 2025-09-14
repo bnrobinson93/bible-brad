@@ -1,6 +1,6 @@
 ---
-updated: 2025-06-28T11:25:29-05:00
-date: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:08:45-05:00
+created: 2025-01-23T21:55:32-06:00
 ---
 The number 7 is very substantial in the bible. It is generally considered to represent "perfection" or "completion," largely coming from the idea that on the 7th day of creation, God considered all creation to be completed.
 

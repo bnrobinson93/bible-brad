@@ -1,25 +1,26 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
   - Old-Testament
-Created: 2022-06-30T22:17
-Updated: 2023-08-27T09:12
 Favorite: false
 URL: https://www.gotquestions.org/Bible-busyness.html
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:24:50-05:00
-date: 2025-07-08T21:57:58-05:00
+created: 2022-06-30T22:17
+title: Being Busy
+updated: 2025-09-06T17:16:39-05:00
 ---
 
-# Context
+# Being Busy
+
+## Context
 
 - It was hard to find time to do anything outside of just work, eating, and sleeping
 - All of us have been in a similar situation
   - This has been a busy week!
 
-# What does the bible say about being busy?
+## What does the bible say about being busy?
 
 - Rom 12:2
   Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of [[God]] - what is good and well-pleasing and perfect.

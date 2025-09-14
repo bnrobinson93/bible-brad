@@ -1,20 +1,20 @@
 ---
-Favorite: false
-updated: 2025-06-28T11:26:08-05:00
+aliases: []
 tags:
   - bible
-URL: 
-date: 2025-06-28T11:05:15-05:00
+Favorite: false
+created: 2025-06-28T11:05:15-05:00
+title: Feasts of the LORD
+updated: 2025-09-06T01:16:57-05:00
 ---
-# Context
 
-  
+# Feasts of the LORD
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:

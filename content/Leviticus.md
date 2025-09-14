@@ -1,26 +1,21 @@
 ---
-tags:
-  - Leadership-Breakfast
-  - Men
-  - Old-Testament
-Created: 2020-11-21T12:21
-Updated: 2022-09-29T21:44
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:02-05:00
-date: 2025-07-18T21:09:01-05:00
+aliases: []
+tags: []
+title: Leviticus
+updated: 2025-09-06T01:16:57-05:00
+created: 2025-09-06T01:16:57-05:00
 ---
 
-# Chapter Overview
+# Leviticus
+
+## Chapter Overview
 
 - Chapters 1-9 are about how to make certain sacrifices for certain things that may happen in daily life
-
   1. Laws of the burnt offerings
   2. Laws for grain offerings
   3. Laws for peace offerings
   4. Laws for [[sin]] offerings
   5. Specific examples of things that require [[sin]] offerings:
-
      - If someone witnesses a [[sin]] and does nothing, bears iniquity (wickedness)
      - If anyone touches something unclean (pigs, vultures, roaches, dead bodies), and they do not realize that they are unclean, they are only unclean once they realize what they've done
      - A careless oath, regardless of what it is, is sinful once the swearer realizes what has been done
@@ -29,11 +24,9 @@ date: 2025-07-18T21:09:01-05:00
      Laws for Guild offerings
 
   6. Specific examples of things that require guilt offerings:
-
      - The deciet, oppression, or robbery (including something found and then lied about) of a neighbor. In addition to the guilt offering, that which was taken is to be restored, plus 20%
 
      The Priests and the Offerings
-
      - Outlines requirements for the preistly duties
        - Burnt offerings should stay on the fire all night. In the morning, the priest should put on clean garments to gather the ashes and place them by the altar of God. Then they should change into normal clothing to carry the ashes to a clean place, outside of the camp. For us, our sins are delivered by The clean Man (Jesus) unto the presence of [[God]] and removed, far away, from us
        - The fires of the altar should go day/night
@@ -56,7 +49,6 @@ date: 2025-07-18T21:09:01-05:00
      - Self-quarentine for 7 days to fully be "ordained" (consecrated = dedicated or a dedecatory sacrifice)
        - Similar root words? You may not leave until the seven days of your **consecration** (מִלֻּאֵיכֶ֑ם **Mil-loo**-ie-chem; root: millu = installation) are **fulfilled** (מְלֹ֔את Miluchat; root: **ma-lay** = to be full)
   9. Continuation of chapter 8, now after the ordination time period:
-
   - Sin offering for self
   - Peace offering for the congregation
   - Grain offering on top of normal, daily burnt offering
@@ -204,7 +196,7 @@ date: 2025-07-18T21:09:01-05:00
 
 Final word: these are the words that [[God]] gave Moses at Mount Sinai
 
-# Making Sense of Some Weird Stuff
+## Making Sense of Some Weird Stuff
 
 References taken from Salon as "verses Christians [[Love]] to ignore." It's got some definite "you are all a bunch of mean hypocrytes" vibes to it but lets discuss the verses themselves (limiting just to [[Leviticus]] for now).
 
@@ -239,7 +231,7 @@ And from
 - The priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot ([[Leviticus]] 14:14).> [!important]
   > The point their making in the article is how some of the bible just sounds crazy specific, odd, or is biggotted and lamenting that Christians try to prevent abortion from being readily available, so we should call them on their BS and tell them we're doing it anyway because the Bible is silly. So I'm not a fan of where they're even coming from but let's do this.This is specifically to be done as a part of a purification ritual for someone now proclaimed to be clean after a serious illness like leprosy or open sores. First they are to shave their head and beard, wash their clothes, and bathe. Then they are to live alone for 7 days shave, wash their clothes, and bathe, again. The next day, they are to go to the temple. That's where you see this verse. First they put blood of a [[sin]] offering on the ear, thumb, and toe. Then the priest offers olive oil to [[God]] and puts that olive oil in the same places. This is to symbolize the mixing of that which has died and that which is made holy - almost like baptism (but bloodier). It represents the death to the old and the renewal in holiness. After all of this, there is a [[sin]] and burnt offering to [[God]] to atone for any sins. Remember that this person has been in isolation for potentially quite a while and could not make either offering while in quarentine. Is it still weird? Honestly, yes. But at least there's about as much logic as there is to a baptism. While it may seem foreign, it's a similar idea.
 
-# Is it all done away with?
+## Is it all done away with?
 
 - [[Colossians]] 2:14 = Nailed to the Cross
   _And_ _==you, being dead in your trespasses==_ _and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all_ _==trespasses==\_\_, having wiped out the_ _==handwriting of requirements that was against us==\_\_, which was contrary to us. And_ _==He has taken it out of the way, having nailed it to the cross==\_\_” (Colossians 2:13-14)_

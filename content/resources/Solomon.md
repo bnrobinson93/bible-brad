@@ -1,6 +1,6 @@
 ---
-updated: 2025-06-14T09:57:51-05:00
-date: 2025-06-08T09:06:06-05:00
+updated: 2025-07-12T14:21:41-05:00
+created: 2025-06-08T09:06:06-05:00
 ---
 Solomon was the third king of [[Israel]], after [[King Saul]] and [[King David]]. He was the son of David, through Bathsheba, whom he had lusted after and took her despite her marriage. Solomon was not the child of this sin but a later child.
 

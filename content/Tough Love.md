@@ -1,23 +1,26 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
 Created: 2022-09-29T21:58
-Updated: 2022-09-30T06:08
 Favorite: false
 URL: https://www.gotquestions.org/tough-love.html; https://www.redletterchristians.org/3-reasons-tough-love-rarely-works/
+Updated: 2022-09-30T06:08
 created: 2024-07-15T22:22
-updated: 2025-07-18T21:09:02-05:00
-date: 2025-07-18T21:09:01-05:00
+title: Tough Love
+updated: 2025-09-06T00:58:10-05:00
 ---
 
-# Context
+# Tough Love
+
+## Context
 
 - Over the last several years, one of the big things I’ve grappled with personally has been the fine line between [[Love]] and “tough love” - acting stern with the end goal of steering someone away from a path of destruction (a [[Love]] heart, not a malicious one)
 - Verses like “He who spares the rod hates his son, but he who loves him is careful to discipline him” (Prov 13:24) seem to blatantly contradict other verses like “Give to the one who begs from you, and do not refuse the one who would borrow from you.” (Matt 5:42)
 - What does the bible have to say on “tough love”
 
-# The Case for Tough Love
+## The Case for Tough Love
 
 - The Devil prowls like a hungry lion (1 Pet 5:8)
   > Be sober and alert. Your enemy the devil, *like a roaring lion,*  
@@ -39,7 +42,7 @@ date: 2025-07-18T21:09:01-05:00
   - Example: Paul on the road to Damascus ([[Acts]] 9)
 - Keeping that in mind, the easy answer is tough [[Love]] every time!
 
-# The Case Against
+## The Case Against
 
 - Is there ever a time when we shouldn’t use tough love?
 
@@ -66,7 +69,7 @@ date: 2025-07-18T21:09:01-05:00
      1. Tough [[Love]] can truly be a power grab: forcing someone to do something the way that the person “in power” would like it done
      2. It can assume that an outcome will be quick, clean, and easy if only they stay strict
 
-# Closing Thoughts
+## Closing Thoughts
 
 - Love needs to get tough at times, otherwise silence leads to negligence, which - to the recipient - means acceptance
 - However, we have to rely on wisdom to know when to walk along someone for a time and when to show tough love

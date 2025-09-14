@@ -1,20 +1,21 @@
 ---
-Favorite: false
-updated: 2025-05-18T22:44:52-05:00
+aliases: []
 tags:
   - bible
-URL: 
-date: 2025-05-12T19:35:33-05:00
+Favorite: false
+created: 2025-05-12T19:35:33-05:00
+title: Waiting on the LORD
+updated: 2025-09-06T16:54:24-05:00
 ---
-# Context
 
-  
+# Waiting on the LORD
 
-# One
+## Context
 
-## Sub One
+## One
 
-  
+### Sub One
 
 > [!important]  
 > Question:
+

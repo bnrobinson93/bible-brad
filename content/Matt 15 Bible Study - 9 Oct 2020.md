@@ -1,14 +1,18 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - New-Testament
-date: 2020-12-04T01:07
-Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2020-12-04T01:07
+favorite: false
+title: Matt 15 Bible Study
+updated: 2025-09-06T17:17:36-05:00
 ---
 
-# Man-made vs [[God|God's]] Law
+# Matt 15 Bible Study
+
+## Man-made vs [[God|God's]] Law
 
 Elijah prophecies that men will claim to be close to [[God]] but truly only teach their own **doctrines**. This is the role of religion and is not what we should seek. We should seek closeness with [[God]] through relationship to him alone.
 
@@ -26,9 +30,9 @@ Washing hands isn't the issue, nor is food - eating unclean food won't kill you 
 
 > The heart is deceitful above all things and beyond cure. Who can understand it?[[Jeremiah]] 17:9
 
-> 13 And after they had held their peace, [[James]] answered, saying, Men and brethren, hearken unto me: 14 Simeon hath declared how [[God]] at the first did visit the Gentiles, to take out of them a people for his name. 15 And to this agree the words of the prophets; as it is written, 16 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up: 17 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things. 18 Known unto [[God]] are all his works from the beginning of the world. 19 Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God: 20 But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood. 21 For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day. 22 Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas […][[Acts]] 15:13-22
+> 13 And after they had held their peace, [[James]] answered, saying, Men and brethren, hearken unto me: 14 Simeon hath declared how [[God]] at the first did visit the Gentiles, to take out of them a people for his name. 15 And to this agree the words of the prophets; as it is written, 16 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up: 17 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things. 18 Known unto [[God]] are all his works from the beginning of the world. 19 Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God: 20 But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood. 21 For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day. 22 Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas […][Acts]] 15:13-22
 
-# Questions
+## Questions
 
 1. What are ways to keep ourselves from slipping into the trap of building our own fences and elevating them above [[God|God's]] word
    - Religious manifesto to traditions (cred Radamez Servera, thanks be to Ryan for showing this tool)
@@ -41,6 +45,6 @@ Washing hands isn't the issue, nor is food - eating unclean food won't kill you 
 
 ---
 
-# Why the reluctance to heal
+## Why the reluctance to heal
 
 Despite not being a part of his "current mission" (expanded in [[Acts]] 1,12), a gentile woman still has faith enough that [[God]] moves in her. [[God]] is the same yesterday, today, and tomorrow. His first calling is to his own but a show of faith reveals exactly who is his.

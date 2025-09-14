@@ -1,14 +1,13 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Men
   - Old-Testament
-Created: 2022-07-21T22:08
-Updated: 2022-08-04T22:03
-Favorite: false
-created: 2024-07-15T22:22
-updated: 2025-07-09T00:25:28-05:00
-date: 2025-07-08T21:58:05-05:00
+created: 2022-07-21T22:08
+favorite: false
+title: Gideon
+updated: 2025-09-06T17:17:23-05:00
 ---
 
 # Gideon
@@ -52,4 +51,3 @@ date: 2025-07-08T21:58:05-05:00
 
 > [!important]  
 > Question: How does this apply to our lives?1. Note Gideon’s response isn’t considered “bad”. It’s ok to ask [[God]] for clarity and affermation of what we think He is asking. In fact, [[God]] even impowers him again right before the fight by allowing him to overhear the dream. [[God]] doesn’t mind us being nervous or unsure, so long as we act when called to do so.2. Stay vigilent! God’s criteria for Gideon’s men was that they didn’t thrust their entire head into the stream, instead staying upright and ready, drinking more slowly. So too should we always be on guard for attacks from the Enemy3. Trust God’s plan. The whole thing started with Gideon’s trust in God’s ask to destroy the idols. Then the narrowing of his soldiers. Finally, blowing trumpets and smashing glass may not sound like much but [[God]] was with them and gave them victory over their oppressors
-

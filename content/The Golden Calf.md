@@ -1,13 +1,17 @@
 ---
+aliases: []
 tags:
   - Leadership-Breakfast
   - Old-Testament
-date: 2022-09-08T22:40
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+created: 2022-09-08T22:40
+title: The Golden Calf
+updated: 2025-09-06T17:18:12-05:00
 ---
 
-# Question
+# The Golden Calf
+
+## Question
 
 Is it ok to do “just anything” unto God?
 
@@ -17,7 +21,7 @@ For example:
 - Is it ok be “spiritual” and a Christian?
 - Is there anything wrong with studying other religions?
 
-# Thoughts
+## Thoughts
 
 The answer: kinda…
 
@@ -73,9 +77,10 @@ The answer: kinda…
   - From the outpouring of His [[Love]] for us and ours for Him, [[Love]] others
     > _Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt [[Love]] thy neighbor as thyself; I [am] the LORD._ -**Lev 19:18** > _Therefore in the resurrection, whose wife shall she be of the seven? for they all had her. Jesus answered and said to them, Ye do err, not knowing the scriptures, nor the power of God. -_**Matt 22:28-39** > _We [[Love]] him, because he first loved us. If a man sayeth, I [[Love]] God, and hateth his brother, he is a liar. For he that loveth not his brother, whom he hath seen, how can he [[Love]] God, whom he hath not seen? And this commandment have we from him, That he who loveth God, [[Love]] his [[brother]] also._ -**1 [[John]] 4:19-21**
   - Look for those that are not valued in society - paying special attention to the poor, widows, orphans, and church leaders and welcome them in as a part of your family for celebrations
-    > When thou .. forget something … leave it for those that are forgotten in society, it belongs to them now -**Deut 24:19-22** 
+    > When thou .. forget something … leave it for those that are forgotten in society, it belongs to them now -**Deut 24:19-22**
+    >
     > > _[At the feasts] thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that [is] within thy gates, and the stranger, and the fatherless, and the widow, that [are] among you, in the place which the LORD thy [[God]] hath chosen to place his name there_ -**Deut 16:11**
   - Live righteously, by grace through faith
     > _I call heaven and earth to record this day against you, [that] I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:_ -**Deut 30:19**
-    >  _For by grace are ye saved, through faith; and that not of yourselves: [it is] the gift of God_ \**Eph 2:8\*\*
-    >   _But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness._ **-1 Tim 6:11**
+    > _For by grace are ye saved, through faith; and that not of yourselves: [it is] the gift of God_ \*\*Eph 2:8\*\*
+    > _But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness._ **-1 Tim 6:11**

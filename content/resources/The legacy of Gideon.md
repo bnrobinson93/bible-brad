@@ -1,6 +1,6 @@
 ---
-updated: 2025-05-04T10:41:52-05:00
-date: 2025-04-28T22:56:56-05:00
+updated: 2025-07-13T08:32:29-05:00
+created: 2025-04-28T22:56:56-05:00
 ---
 [[Gideon]], having killed the Midianite leaders, was asking to become a leader, to which he declined, saying God was their ruler. He did, however, ask for a small amount of gold from each person. He took this gold and fashioned what ultimately became an idol.
 After Gideon's death, we are told he had many concubines and children, 70 sons total. One of them, [[Abimelek]], spoke with those in [[Shechem]] and Beth Millo and became their king, despite the wishes of [[Gideon]] that none should rule but God. Upon their agreement, [[Abimelek]] kills all of his brothers except one who escapes, [[Jotham]]. [[Jotham]] wishes over the people that they either be happy or be consumed by their choices and then flees to Beer for fear of [[Abimelek]].
