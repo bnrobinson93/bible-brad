@@ -3,13 +3,9 @@ aliases:
   - dust
 tags: []
 URL: https://www.youtube.com/watch?v=XuW1DX7Cr4E
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Temple of the Living God
-updated: 2025-09-06T00:13
+updated: 2025-09-14T17:05:52-05:00
 ---
 
 # Temple of the Living God
@@ -40,4 +36,3 @@ This is a fulfillment of the [[Bronze Basin]] in the [[temple]]. Therein, you mu
 [[A Rood Awakening]]
 
 202408240948
-

@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Hold brothers accountable
-updated: 2025-09-06T00:13
+updated: 2025-09-14T17:05:06-05:00
 ---
 
 # Hold brothers accountable
@@ -18,4 +14,3 @@ In [[Galatians|Gal]] 2:1-16, Paul speaks of how he was accepted among the apostl
 
 [[Accountability]]
 202409152122
-

@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: First Wednesday - Nov 2024
-updated: 2025-09-06T00:12
+updated: 2025-09-14T17:09:50-05:00
 ---
 
 # First Wednesday - Nov 2024
@@ -49,4 +45,3 @@ Three decisions:
 ## Links:
 
 202411061919
-

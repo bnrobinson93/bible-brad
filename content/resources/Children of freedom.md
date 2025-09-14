@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Children of freedom
-updated: 2025-09-06T00:13
+updated: 2025-09-14T17:05:08-05:00
 ---
 
 # Children of freedom
@@ -17,4 +13,3 @@ In [[Galatians]] 3, Paul speaks of Isaac and Ishmael and likens them to the two 
 ## Links:
 
 202409180804
-

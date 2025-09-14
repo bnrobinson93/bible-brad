@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: The armor of God
-updated: 2025-09-06T00:12
+updated: 2025-09-14T17:04:59-05:00
 ---
 
 # The armor of God
@@ -28,4 +24,3 @@ These consist of:
 ## Links:
 
 202409281244
-

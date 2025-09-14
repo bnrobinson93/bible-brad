@@ -3,13 +3,9 @@ aliases:
   - Do infants go to heaven?
   - If you never hear of God, are you saved?
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:33-06:00
-`=======`
-date: 2025-01-23T21:55:33-06:00
-`>>>>>>>`
 title: Book of life
-updated: 2025-09-06T00:15
+updated: 2025-09-14T17:10:16-05:00
 ---
 
 # Book of life
@@ -22,4 +18,3 @@ In [[Psalms]] 69, we see David ask God to remove horrible people from the book o
 [[Wages of sin]]
 
 202409271222
-

@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: All are welcome
-updated: 2025-09-06T00:14
+updated: 2025-09-14T17:07:19-05:00
 ---
 
 # All are welcome
@@ -20,4 +16,3 @@ updated: 2025-09-06T00:14
 [[Mixed mutlitude]]
 
 202409281301
-

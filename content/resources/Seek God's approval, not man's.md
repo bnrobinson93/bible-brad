@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Seek God's approval, not man's
-updated: 2025-09-06T00:16
+updated: 2025-09-14T17:05:23-05:00
 ---
 
 # Seek God's approval, not man's
@@ -20,4 +16,3 @@ In [[Gal]] 1, Paul rhetorically asks whether he seeks the approval of man or of 
 [[Run a good race]]
 
 202409141732
-

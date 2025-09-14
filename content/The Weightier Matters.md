@@ -5,13 +5,9 @@ tags:
   - Men
   - New-Testament
 Favorite: true
-`<<<<<<<`
 created: 2020-05-12T18:41
-`=======`
-date: 2020-05-12T18:41
-`>>>>>>>`
 title: The Weightier Matters
-updated: 2025-09-06T00:29
+updated: 2025-09-14T17:05:04-05:00
 ---
 
 # The Weightier Matters

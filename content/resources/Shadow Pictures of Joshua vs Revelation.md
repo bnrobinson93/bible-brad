@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Shadow Pictures of Joshua vs Revelation
-updated: 2025-09-06T00:14
+updated: 2025-09-14T17:06:24-05:00
 ---
 
 # Shadow Pictures of Joshua vs Revelation
@@ -35,4 +31,3 @@ If there's one thing we see all the time "Be strong and courageous!" [[Deuterono
 ## Links:
 
 202410051217
-

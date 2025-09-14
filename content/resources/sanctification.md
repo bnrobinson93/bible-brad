@@ -1,11 +1,11 @@
 ---
-updated: 2025-07-12T14:21:41-05:00
-`<<<<<<<`
+aliases: []
+tags: []
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
+title: Links:
+updated: 2025-09-14T17:05
 ---
+
 The idea is to progress through each of these steps. We should see God as...
 
 1. A father - someone that we look up to, learn from, and ask for forgiveness from while we grow in our faith
@@ -14,6 +14,8 @@ The idea is to progress through each of these steps. We should see God as...
 4. A groom - At this point, we rule and reign with God in the [[New heaven and new earth]]
 
 # Links:
+
 [[Sanctification - Never stop improving]]
 
 202410291047
+

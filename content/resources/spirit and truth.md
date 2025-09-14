@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-05-05T19:46:48-05:00
-`=======`
-date: 2025-05-05T19:46:48-05:00
-`>>>>>>>`
 title: Spirit and Truth
-updated: 2025-09-06T00:15
+updated: 2025-09-14T17:09:54-05:00
 ---
 
 # Spirit and Truth
@@ -27,4 +23,3 @@ Just as David understood that the showbread was holy, yet ate of it when he was 
 [[The woman at the well]]
 
 202505051946
-

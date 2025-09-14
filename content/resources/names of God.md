@@ -1,14 +1,12 @@
 ---
-id: names of God
 aliases: []
 tags: []
-updated: 2025-07-12T14:21:41-05:00
-`<<<<<<<`
 created: 2025-01-23T21:55:33-06:00
-`=======`
-date: 2025-01-23T21:55:33-06:00
-`>>>>>>>`
+title: Names of God
+updated: 2025-09-14T17:11:24-05:00
 ---
+
+# Names of God
 
 YHVH (יְהוָה) = YaHWeH, JeHoVaH, or YaHoVaH - He who was, is, and will be ([[Exodus]] 3:14-15), meaning the one who exists because he exists; this is generally translated to "the LORD," "GOD," or "JEHOVAH" (all caps) in English
 
@@ -23,6 +21,6 @@ YHVH (יְהוָה) = YaHWeH, JeHoVaH, or YaHoVaH - He who was, is, and will be 
 
 Ya - shortened form of YHVH
 
-# Links:
+## Links:
 
 202410051141

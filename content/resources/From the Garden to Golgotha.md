@@ -4,13 +4,9 @@ tags:
   - bible
 Favorite: false
 URL: https://youtu.be/B8lenwN-rLA?si=oCOKJvp4u3J591dh
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: From the Garden to Golgotha
-updated: 2025-09-06T00:16
+updated: 2025-09-14T17:05:30-05:00
 ---
 
 # From the Garden to Golgotha
@@ -76,4 +72,3 @@ The curtain is torn in half when Jesus dies. There is no longer separation from 
 [[A Rood Awakening]]
 
 202407270955
-

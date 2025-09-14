@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Do not envy sinners
-updated: 2025-09-06T00:15
+updated: 2025-09-14T17:09:18-05:00
 ---
 
 # Do not envy sinners
@@ -28,4 +24,3 @@ In [[Psalms]] 73, David shows a moment of weakness that I can relate to: the env
 [[New heaven and new earth]]
 
 202410011750
-

@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: Works and law
-updated: 2025-09-06T00:16
+updated: 2025-09-14T17:05:32-05:00
 ---
 
 # Works and law
@@ -17,4 +13,3 @@ In [[Galatians|Gal]] 2, Paul asks how a God that saves us from our flesh, the la
 ## Links:
 
 202409160822
-

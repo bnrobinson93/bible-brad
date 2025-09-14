@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:33-06:00
-`=======`
-date: 2025-01-23T21:55:33-06:00
-`>>>>>>>`
 title: Hezekiah and prayer
-updated: 2025-09-06T00:15
+updated: 2025-09-14T17:10:12-05:00
 ---
 
 # Hezekiah and prayer
@@ -17,4 +13,3 @@ In [[Isaiah|Isa]] 37 and 38, we find two stories of Hezekiah. One where he is th
 ## Links:
 
 202409210729
-

@@ -2,13 +2,9 @@
 aliases:
   - Paul's Plight
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: What it looks like to follow Christ
-updated: 2025-09-06T00:14
+updated: 2025-09-14T17:07:37-05:00
 ---
 
 # What it looks like to follow Christ
@@ -40,4 +36,3 @@ In [[2 Corinthians|2 Cor]] 11, Paul outlines what boasting really looks like as 
 ## Links:
 
 202409101742
-
