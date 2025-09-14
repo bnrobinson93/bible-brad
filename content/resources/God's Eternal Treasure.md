@@ -2,13 +2,9 @@
 aliases: []
 tags: []
 URL: https://www.youtube.com/watch?v=87Vm9R6p1Bs
-`<<<<<<<`
 created: 2025-01-23T21:55:32-06:00
-`=======`
-date: 2025-01-23T21:55:32-06:00
-`>>>>>>>`
 title: "Israel: God's Eternal Treasure"
-updated: 2025-09-06T00:12
+updated: 2025-09-14T17:13:38-05:00
 ---
 
 # Israel: God's Eternal Treasure
@@ -62,4 +58,3 @@ Part 4: [[The Throne of the Most High]]
 Part 5: [[Temple of the Living God]]
 
 202408311017
-

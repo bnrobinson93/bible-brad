@@ -1,13 +1,9 @@
 ---
 aliases: []
 tags: []
-`<<<<<<<`
 created: 2025-01-23T21:55:33-06:00
-`=======`
-date: 2025-01-23T21:55:33-06:00
-`>>>>>>>`
 title: Isaiah's prophecy of Jesus
-updated: 2025-09-06T00:15
+updated: 2025-09-14T17:13:49-05:00
 ---
 
 # Isaiah's prophecy of Jesus
@@ -19,4 +15,3 @@ updated: 2025-09-06T00:15
 [[Wages of sin]]
 
 202409271155
-
