@@ -4,7 +4,7 @@ tags:
   - bible/bible-study
 created: 2025-09-06T01:16:57-05:00
 title: YP - Discipleship
-updated: 2025-10-03T11:13:12-05:00
+updated: 2025-10-03T12:34:31-05:00
 date: 2025-09-24T16:01:52-05:00
 ---
 
