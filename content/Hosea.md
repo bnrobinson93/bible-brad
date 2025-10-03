@@ -1,8 +1,11 @@
 ---
 aliases: []
-tags: []
-updated: 2025-09-06T01:16:58-05:00
+tags:
+  - bible/books-of-the-bible/hosea
+  - bible/bible-study
 created: 2025-09-06T01:16:58-05:00
+updated: 2025-09-24T16:03:28-05:00
+date: 2025-09-24T16:03:28-05:00
 ---
 
 ## Intro

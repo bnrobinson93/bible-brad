@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 created: 2025-01-23T21:55:33-06:00
 title: Strong and Courageous
-updated: 2025-09-14T17:09:44-05:00
+updated: 2025-09-26T08:53:32-05:00
 url: https://www.youtube.com/watch?v=RBOqG81tZ9g
+date: 2025-09-24T16:28:29-05:00
 ---
 
 # Strong and Courageous

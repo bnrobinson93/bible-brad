@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:31-06:00
 title: Everything is Meaningless
-updated: 2025-09-06T17:15:11-05:00
+updated: 2025-09-24T15:54:15-05:00
+date: 2025-09-24T15:54:15-05:00
 ---
 
 # Everything is Meaningless

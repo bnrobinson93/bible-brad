@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:31-06:00
 title: The sacrificial alter
-updated: 2025-09-14T17:24:19-05:00
+updated: 2025-09-26T08:53:32-05:00
+date: 2025-09-24T16:06:49-05:00
 ---
 
 # The sacrificial alter

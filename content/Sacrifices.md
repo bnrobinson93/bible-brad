@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
-title: Sacrifices
-updated: 2025-09-06T01:16:57-05:00
+tags:
+  - bible/bible-study
 created: 2025-09-06T01:16:57-05:00
+title: Sacrifices
+updated: 2025-09-24T16:04:34-05:00
+date: 2025-09-24T16:04:34-05:00
 ---
 
 # Sacrifices

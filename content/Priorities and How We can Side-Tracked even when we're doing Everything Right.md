@@ -7,6 +7,10 @@ Favorite: false
 created: 2020-05-12T18:41
 title: Priorities and How We can Side-Tracked even when we're doing Everything Right
 updated: 2025-09-14T17:13:29-05:00
+`<<<<<<<`
+`=======`
+date: 2025-09-14T17:13:29-05:00
+`>>>>>>>`
 ---
 
 # Priorities and How We can Side-Tracked even when we're doing Everything Right

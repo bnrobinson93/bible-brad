@@ -7,7 +7,8 @@ tags:
 Favorite: false
 created: 2023-02-16T22:36
 title: Hebrews
-updated: 2025-09-14T17:08:13-05:00
+updated: 2025-09-28T17:34:51-05:00
+date: 2025-09-28T17:34:51-05:00
 ---
 
 # Hebrews

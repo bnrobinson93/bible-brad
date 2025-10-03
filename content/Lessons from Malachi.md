@@ -1,10 +1,13 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/books-of-the-bible/malachi
+  - bible/bible-study
 Favorite: false
 created: 2023-02-02T22:34
 title: Lessons from Malachi
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-24T16:03:24-05:00
+date: 2025-09-24T16:03:24-05:00
 ---
 
 # Lessons from Malachi

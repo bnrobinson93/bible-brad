@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:33-06:00
 title: Names of God
-updated: 2025-09-14T17:11:24-05:00
+updated: 2025-09-26T08:53:44-05:00
+date: 2025-09-24T16:30:36-05:00
 ---
 
 # Names of God

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Abomination of Desolation
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-25T11:10:09-05:00
+date: 2025-09-24T15:42:39-05:00
 ---
 
 # Abomination of Desolation

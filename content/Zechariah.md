@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
-title: Zechariah
-updated: 2025-09-06T00:58:10-05:00
+tags:
+  - bible/books-of-the-bible/zechariah
 created: 2025-09-06T00:58:10-05:00
+title: Zechariah
+updated: 2025-09-24T16:04:46-05:00
+date: 2025-09-24T16:04:46-05:00
 ---
 
 # Zechariah

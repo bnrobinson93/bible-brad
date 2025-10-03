@@ -1,5 +1,5 @@
 ---
-updated: 2025-09-06T01:08:49-05:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-02-26T22:25:49-06:00
 aliases:
   - choose life

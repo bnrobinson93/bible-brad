@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Peter's Reminder
-updated: 2025-09-14T17:15:43-05:00
+updated: 2025-09-24T16:31:57-05:00
+date: 2025-09-24T16:31:57-05:00
 ---
 
 # Peter's Reminder

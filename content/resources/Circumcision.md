@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Circumcision
-updated: 2025-09-14T17:23:31-05:00
+updated: 2025-09-25T11:11:04-05:00
+date: 2025-09-24T16:32:05-05:00
 ---
 
 # Circumcision

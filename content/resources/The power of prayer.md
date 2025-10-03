@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: The power of prayer
-updated: 2025-09-14T17:24:01-05:00
+updated: 2025-09-26T08:53:35-05:00
+date: 2025-09-24T16:06:47-05:00
 ---
 
 # The power of prayer

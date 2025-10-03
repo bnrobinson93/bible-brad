@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Jeremiah's Almond Branch Vision
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-24T15:55:18-05:00
+date: 2025-09-24T15:55:18-05:00
 ---
 
 # Jeremiah's Almond Branch Vision

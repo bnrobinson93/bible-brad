@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Christ's ambassadors
-updated: 2025-09-06T01:08:30-05:00
+updated: 2025-09-25T11:11:03-05:00
+date: 2025-09-24T15:53:52-05:00
 ---
 
 # Christ's ambassadors
@@ -13,4 +15,3 @@ updated: 2025-09-06T01:08:30-05:00
 ## Links:
 
 202409011343
-

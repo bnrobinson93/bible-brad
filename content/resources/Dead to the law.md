@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Dead to the law
-updated: 2025-09-06T01:16:58-05:00
+updated: 2025-09-24T15:53:57-05:00
+date: 2025-09-24T15:53:57-05:00
 ---
 
 # Dead to the law

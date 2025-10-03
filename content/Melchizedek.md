@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
-title: Melchizedek
-updated: 2025-09-06T01:16:57-05:00
+tags:
+  - bible/bible-study
 created: 2025-09-06T01:16:57-05:00
+title: Melchizedek
+updated: 2025-09-24T16:03:45-05:00
+date: 2025-09-24T16:03:45-05:00
 ---
 
 # Melchizedek

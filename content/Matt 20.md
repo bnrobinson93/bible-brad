@@ -1,9 +1,12 @@
 ---
 aliases: []
-tags: []
-title: Matt 20
-updated: 2025-09-06T01:16:58-05:00
+tags:
+  - bible/bible-study
+  - bible/books-of-the-bible/matthew
 created: 2025-09-06T01:16:58-05:00
+title: Matt 20
+updated: 2025-09-24T16:40:35-05:00
+date: 2025-09-24T16:40:35-05:00
 ---
 
 # Matt 20

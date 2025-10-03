@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:33-06:00
 title: Be Careful when Speaking for God
-updated: 2025-09-06T17:13:45-05:00
+updated: 2025-09-25T11:10:21-05:00
+date: 2025-09-24T15:43:31-05:00
 ---
 
 # Be Careful when Speaking for God

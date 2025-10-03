@@ -2,10 +2,12 @@
 aliases: []
 tags:
   - Leadership-Breakfast
+  - bible/bible-study
 created: 2022-12-15T22:25
 favorite: true
 title: Christmas (2022)
-updated: 2025-09-06T17:16:45-05:00
+updated: 2025-10-02T15:31:22-05:00
+date: 2025-09-06T17:29:10-05:00
 ---
 
 # Christmas (2022)

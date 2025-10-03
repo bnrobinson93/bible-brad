@@ -1,12 +1,14 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/word-study
 created: 2025-01-23T21:55:32-06:00
 title: cowardly
-updated: 2025-09-14T17:24:11-05:00
+updated: 2025-09-24T16:33:22-05:00
+date: 2025-09-24T16:33:22-05:00
 ---
 
-# cowardly
+# Cowardly
 
 [[Revelation]] 21:8 mentions a list of people that will not inherit the kingdom of the earth. The first listed is the cowardly and they are listed amung murderes, the sexually immoral, and magicians; idolaters and liars.
 

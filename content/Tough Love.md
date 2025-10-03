@@ -2,14 +2,14 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Created: 2022-09-29T21:58
 Favorite: false
 URL: https://www.gotquestions.org/tough-love.html; https://www.redletterchristians.org/3-reasons-tough-love-rarely-works/
 Updated: 2022-09-30T06:08
 created: 2024-07-15T22:22
 title: Tough Love
-updated: 2025-09-06T00:58:10-05:00
+updated: 2025-10-02T15:56:55-05:00
+date: 2025-09-06T01:20:50-05:00
 ---
 
 # Tough Love

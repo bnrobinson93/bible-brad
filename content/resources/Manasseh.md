@@ -5,7 +5,8 @@ tags:
 Favorite: false
 created: 2025-01-23T21:55:31-06:00
 title: Manasseh
-updated: 2025-09-14T17:24:28-05:00
+updated: 2025-09-26T08:53:46-05:00
+date: 2025-09-14T17:30:29-05:00
 ---
 
 # Manasseh

@@ -2,11 +2,11 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Favorite: false
 created: 2022-10-20T23:36
 title: Predestination (Calvinism)
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-10-02T15:56:46-05:00
+date: 2025-09-06T01:20:38-05:00
 ---
 
 # Predestination (Calvinism)

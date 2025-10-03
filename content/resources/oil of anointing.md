@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:31-06:00
 title: oil of anointing
-updated: 2025-09-14T17:23:15-05:00
+updated: 2025-09-24T16:31:58-05:00
+date: 2025-09-24T16:31:58-05:00
 ---
 
 # Oil of Anointing

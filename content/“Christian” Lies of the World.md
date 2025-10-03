@@ -2,11 +2,11 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Favorite: false
 created: 2023-02-09T20:44
 title: “Christian” Lies of the World
-updated: 2025-09-06T01:08:09-05:00
+updated: 2025-10-02T15:56:39-05:00
+date: 2025-09-06T01:20:36-05:00
 ---
 
 # “Christian” Lies of the World

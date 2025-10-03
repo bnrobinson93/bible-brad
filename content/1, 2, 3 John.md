@@ -1,9 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/books-of-the-bible
+  - refine
 created: 2022-09-15T22:16:55-05:00
 title: 1, 2, 3 John
-updated: 2025-09-14T17:36:23-05:00
+updated: 2025-09-24T16:00:42-05:00
+date: 2025-09-24T16:00:42-05:00
 ---
 
 # 1, 2, 3 John

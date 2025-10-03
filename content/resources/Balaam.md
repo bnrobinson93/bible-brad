@@ -1,5 +1,5 @@
 ---
-updated: 2025-09-06T01:09:14-05:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-01-23T21:55:32-06:00
 ---
 > [[Rev]] 2:14 ESV - But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality.

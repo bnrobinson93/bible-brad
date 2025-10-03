@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Saved by Faith
-updated: 2025-09-14T17:18:15-05:00
+updated: 2025-09-24T16:32:02-05:00
+date: 2025-09-24T16:32:02-05:00
 ---
 
 # Saved by Faith

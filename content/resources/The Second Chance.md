@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://www.youtube.com/watch?v=lrcYHafXtYU
 created: 2025-01-23T21:55:32-06:00
 title: The Second Chance
-updated: 2025-09-14T17:23:47-05:00
+updated: 2025-09-24T16:06:28-05:00
+date: 2025-09-24T16:06:28-05:00
 ---
 
 # The Second Chance

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Do not envy sinners
-updated: 2025-09-14T17:09:18-05:00
+updated: 2025-09-26T08:53:34-05:00
+date: 2025-09-24T16:30:26-05:00
 ---
 
 # Do not envy sinners

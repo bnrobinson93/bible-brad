@@ -1,5 +1,5 @@
 ---
-updated: 2025-06-28T11:25:46-05:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-01-23T21:55:32-06:00
 ---
 In Hebrew, Brit, meaning a pledge or alliance and had the root of "cutting," like "cutting a deal," though animals were literally split in half and it was stated "let me be as these animals if I break this deal."

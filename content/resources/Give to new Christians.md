@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Give to new Christians
-updated: 2025-09-06T01:08:26-05:00
+updated: 2025-09-24T15:54:39-05:00
+date: 2025-09-24T15:54:39-05:00
 ---
 
 # Give to new Christians
@@ -13,4 +15,3 @@ In [[2 Corinthians|2 Cor]] 11, Paul mentions that kids should not save for their
 ## Links:
 
 202409122310
-

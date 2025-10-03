@@ -1,5 +1,5 @@
 ---
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-01-23T21:55:32-06:00
 ---
 According to [[Nehemiah]] 7-9, after Nehemiah and company rebuild the temple and the wall, they came to the seventh month of the year. On the first day of the 7th month ([[Day of Trumpets]]) they celebrated by reading the entirety of the [[book of the law]]. The people mourned and were then cheered up by those who had read it saying that they should rejoice, and celebrate with feasts, as they now understood that which God wanted for them.

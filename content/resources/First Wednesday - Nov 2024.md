@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/highlands
 created: 2025-01-23T21:55:32-06:00
 title: First Wednesday - Nov 2024
-updated: 2025-09-14T17:09:50-05:00
+updated: 2025-09-26T08:53:27-05:00
+date: 2025-09-24T16:30:20-05:00
 ---
 
 # First Wednesday - Nov 2024

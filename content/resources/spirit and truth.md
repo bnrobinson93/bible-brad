@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-05-05T19:46:48-05:00
 title: Spirit and Truth
-updated: 2025-09-14T17:09:54-05:00
+updated: 2025-09-26T08:53:39-05:00
+date: 2025-09-24T16:30:37-05:00
 ---
 
 # Spirit and Truth

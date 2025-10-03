@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
-title: Purim 2
-updated: 2025-09-06T01:16:58-05:00
+tags:
+  - bible/feasts
 created: 2025-09-06T01:16:58-05:00
+title: Purim 2
+updated: 2025-09-24T16:03:56-05:00
+date: 2025-09-24T16:03:56-05:00
 ---
 
 # Purim 2

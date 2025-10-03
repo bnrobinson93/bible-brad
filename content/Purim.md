@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/feasts
 created: 2022-02-10T23:43
 favorite: false
 title: Purim
-updated: 2025-09-06T17:18:05-05:00
+updated: 2025-09-24T16:04:00-05:00
+date: 2025-09-24T16:04:00-05:00
 ---
 
 # Purim

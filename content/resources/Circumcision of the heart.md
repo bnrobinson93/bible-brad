@@ -4,7 +4,8 @@ tags:
   - refine
 created: 2025-01-23T21:55:32-06:00
 title: Circumcision of the heart
-updated: 2025-09-14T17:27:43-05:00
+updated: 2025-09-25T11:11:24-05:00
+date: 2025-09-14T17:30:22-05:00
 ---
 
 # Circumcision of the heart

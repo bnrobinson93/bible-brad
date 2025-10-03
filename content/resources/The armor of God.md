@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: The armor of God
-updated: 2025-09-14T17:04:59-05:00
+updated: 2025-09-26T08:53:39-05:00
+date: 2025-09-24T16:30:33-05:00
 ---
 
 # The armor of God

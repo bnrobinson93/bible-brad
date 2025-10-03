@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Trust ancient wisdom
-updated: 2025-09-14T17:23:37-05:00
+updated: 2025-09-26T08:53:34-05:00
+date: 2025-09-24T16:07:05-05:00
 ---
 
 # Trust ancient wisdom

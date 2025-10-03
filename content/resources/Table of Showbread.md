@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
-title: Table of Showbread
-updated: 2025-09-14T17:07:51-05:00
+tags:
+  - bible/bible-study
 created: 2025-09-14T17:07:51-05:00
+title: Table of Showbread
+updated: 2025-09-28T17:35:02-05:00
+date: 2025-09-28T17:35:02-05:00
 ---
 
 # Table of Showbread
@@ -25,4 +27,3 @@ There are 12 stacks of bread - 2 stacks of 6, one per tribe of Israel, and is ne
 [[the temple]]
 
 202408040748
-

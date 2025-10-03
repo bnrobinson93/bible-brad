@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Do not call dark light
-updated: 2025-09-06T01:08:25-05:00
+updated: 2025-09-24T15:54:00-05:00
+date: 2025-09-24T15:54:00-05:00
 ---
 
 # Do not call dark light
@@ -19,4 +21,3 @@ Don't be a servant to Satan! He only ever accuses!
 ## Links:
 
 202409092112
-

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: The writing on the wall
-updated: 2025-09-14T17:08:42-05:00
+updated: 2025-09-26T08:53:30-05:00
+date: 2025-09-24T16:30:35-05:00
 ---
 
 # The writing on the wall

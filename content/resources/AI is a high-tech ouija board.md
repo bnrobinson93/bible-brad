@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://www.youtube.com/watch?v=oixw1QMfwPA
 created: 2025-01-23T21:55:32-06:00
 title: AI is a High-Tech Ouija Board
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-25T11:10:08-05:00
+date: 2025-09-24T15:42:16-05:00
 ---
 
 # AI is a High-Tech Ouija Board

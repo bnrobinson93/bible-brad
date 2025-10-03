@@ -7,7 +7,8 @@ tags:
 Favorite: true
 created: 2020-05-12T18:41
 title: The Weightier Matters
-updated: 2025-09-14T17:05:04-05:00
+updated: 2025-09-28T17:35:09-05:00
+date: 2025-09-28T17:35:09-05:00
 ---
 
 # The Weightier Matters

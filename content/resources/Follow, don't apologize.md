@@ -1,11 +1,14 @@
 ---
 Favorite: false
-updated: 2025-09-06T01:08:24-05:00
+updated: 2025-10-02T16:33:58-05:00
 tags:
   - bible
 URL:
 created: 2025-01-23T21:55:32-06:00
+date: 2025-09-06T01:20:43-05:00
+title: Follow, don't apologize
 ---
+# Follow, don't apologize
 In [[Isaiah|Isa]] 66, God tells Isaiah how he favors those who listen and act while those who ask for forgiveness are all the worst kind of sinner. In his eyes, sin is sin and it is all repulsive. 
 
  > “These are the ones I look on with favor:
@@ -28,7 +31,7 @@ In [[Isaiah|Isa]] 66, God tells Isaiah how he favors those who listen and act wh
  They did evil in my sight
  	and chose what displeases me.”
 
-# Links:
+## Links:
 [[broken and contrite heart]]
 [[Praise not sacrifice]]
 

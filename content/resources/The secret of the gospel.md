@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:31-06:00
 title: The secret of the gospel
-updated: 2025-09-06T17:18:53-05:00
+updated: 2025-09-26T08:53:29-05:00
+date: 2025-09-24T16:06:56-05:00
 ---
 
 # The secret of the gospel

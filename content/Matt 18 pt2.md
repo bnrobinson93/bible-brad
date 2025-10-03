@@ -1,9 +1,12 @@
 ---
 aliases: []
-tags: []
-title: If a Brother Sins Against You (v. 15-20)
-updated: 2025-09-06T01:16:57-05:00
+tags:
+  - bible/bible-study
+  - bible/books-of-the-bible/matthew
 created: 2025-09-06T01:16:57-05:00
+title: If a Brother Sins Against You (v. 15-20)
+updated: 2025-09-24T16:40:30-05:00
+date: 2025-09-24T16:40:30-05:00
 ---
 
 > [!important]  

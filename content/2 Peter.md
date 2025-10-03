@@ -2,29 +2,16 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
   - New-Testament
-  - basics
-  - bible
+  - bible/books-of-the-bible/2-peter
 created: 2020-05-12T18:41
 favorite: false
 title: 2 Peter
-updated: 2025-09-06T17:16:31-05:00
+updated: 2025-10-02T15:59:28-05:00
+date: 2025-09-06T17:29:35-05:00
 ---
 
 # 2 Peter
-
-## Prayer Requests
-
-- (Heath) Beth - positive for COVID; still has it; made it through
-- Wedding about to move from Aug? Heath
-- (Ryan) Jeffrey & Michelle - potential COVID; good to go
-- (Ryan) Zoey - 107 fever, unknown; not cancer!
-- (Ryan) bro in law’s toe
-
-## Source Text
-
-- II Peter
 
 ## Outline, in the vernacular
 

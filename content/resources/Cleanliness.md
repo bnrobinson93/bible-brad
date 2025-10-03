@@ -1,5 +1,5 @@
 ---
-updated: 2025-09-06T01:08:50-05:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-02-21T15:49:40-06:00
 ---
 Out the gate, it must be stated that being unclean does not equate to being a sinner. Things such as taking care of your deceased family members, a menstrual cycle, birth, and removing an animal carcass from a drinking source are not something that God considers sin. They are, however, things that separate us from him temporarily. In that sense, it can feel or come across a bit like a sun but there is definitely a distinction.

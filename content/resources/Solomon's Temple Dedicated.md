@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-06-11T09:15:54-05:00
 title: Solomon's Temple Dedicated
-updated: 2025-09-14T17:19:18-05:00
+updated: 2025-09-24T16:31:39-05:00
+date: 2025-09-24T16:31:39-05:00
 ---
 
 # Solomon's Temple Dedicated

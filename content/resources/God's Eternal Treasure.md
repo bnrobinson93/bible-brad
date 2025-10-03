@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://www.youtube.com/watch?v=87Vm9R6p1Bs
 created: 2025-01-23T21:55:32-06:00
 title: "Israel: God's Eternal Treasure"
-updated: 2025-09-14T17:13:38-05:00
+updated: 2025-09-26T08:53:31-05:00
+date: 2025-09-24T16:30:27-05:00
 ---
 
 # Israel: God's Eternal Treasure

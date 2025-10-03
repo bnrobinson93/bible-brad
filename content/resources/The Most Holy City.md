@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://www.youtube.com/watch?v=LJxhaFTZKBc
 created: 2025-01-23T21:55:32-06:00
 title: The Most Holy City
-updated: 2025-09-06T01:16:58-05:00
+updated: 2025-09-24T16:06:16-05:00
+date: 2025-09-24T16:06:16-05:00
 ---
 
 # The Most Holy City

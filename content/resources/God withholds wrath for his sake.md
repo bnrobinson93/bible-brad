@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: God withholds wrath for his own sake
-updated: 2025-09-06T17:15:19-05:00
+updated: 2025-09-24T15:54:47-05:00
+date: 2025-09-24T15:54:47-05:00
 ---
 
 # God withholds wrath for his own sake

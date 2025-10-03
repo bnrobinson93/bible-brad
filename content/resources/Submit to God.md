@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bile-study
 created: 2025-01-23T21:55:32-06:00
 title: Submit to God
-updated: 2025-09-14T17:20:57-05:00
+updated: 2025-09-24T16:32:03-05:00
+date: 2025-09-24T16:32:03-05:00
 ---
 
 # Submit to God

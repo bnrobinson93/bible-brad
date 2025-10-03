@@ -3,7 +3,8 @@ aliases: []
 tags: []
 created: 2025-05-08T23:09:16-05:00
 title: Choose God over All
-updated: 2025-09-14T17:09:31-05:00
+updated: 2025-09-25T11:11:24-05:00
+date: 2025-09-24T16:21:39-05:00
 ---
 
 # Choose God over All

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Hold brothers accountable
-updated: 2025-09-14T17:05:06-05:00
+updated: 2025-09-26T08:53:28-05:00
+date: 2025-09-24T16:28:29-05:00
 ---
 
 # Hold brothers accountable

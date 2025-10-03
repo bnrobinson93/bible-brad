@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: The Arc of the Covenant
-updated: 2025-09-14T17:06:02-05:00
+updated: 2025-09-26T08:53:29-05:00
+date: 2025-09-25T19:10:48-05:00
 ---
 
 # The Arc of the Covenant

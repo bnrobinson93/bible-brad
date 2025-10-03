@@ -2,29 +2,26 @@
 aliases:
   - Bereshit
 tags:
-  - old testament
+  - bible/old-testament
+  - bible/bro-bible
 created: 2025-07-31T20:11:54-0600
+date: 2025-09-14T19:35:27-05:00
 title: Genesis 1:1-6:8
-updated: 2025-09-14T16:37:16-05:00
+updated: 2025-09-28T17:13:00-05:00
 ---
 
 # Bereshit
 
 ## Genesis 1:1-6:8
 
-### Creation
+### In the beginning God...
 
-This is the very first [[7 in the Bible]] and describes how God creates the earth in 7 days. Before time and space, God existed - his name meaning "I exist because I exist" or "the self-existing one" (haya aser haya, literally "I am because I am" or "to become that which is to become"). That is, God is the only being who needs nothing else in order to exist: no air, no food, no water, no physical space, no passage of time to grow or develop within, nothing. He just _is_, he always _has been_, and he always _will be_. Since before time began, he was. Before the space to exist within could be found, he was. When all of time and space ends, still, He will be. This is partly why God, the Father, is considered to be silent and invisible: he exists beyond the concept of noise or sight. He is simultaneously everywhere and nowhere. He inhabits every moment, in all places, forever. Jesus, conversely, gives God his voice, through the Spirit that they share, and makes God's will, reality. Jesus is the bridge between God and man, the spirit allows us the same level of deep connection with God as Jesus had and has. More on that in [[the Trinity]] or [[blaspheming the Holy Spirit]].
+The start of the Bible begins with God hovering over "the waters." While no one can claim to know what this truly means, we know that this is the start of the very first [[7 in the Bible]]. Before time and space, God existed - his name meaning "I exist because I exist" or "the self-existing one" (haya aser haya, literally "I am because I am" or "to become that which is to become"). That is, God is the only being who needs nothing else in order to exist: no air, no food, no water, no physical space, no passage of time to grow or develop within, nothing. He just _is_, he always _has been_, and he always _will be_. Since before time began, he was. Before the space to exist within could be found, he was. When all of time and space ends, still, He will be. This is partly why God, the Father, is considered to be silent and invisible: he exists beyond the concept of noise or sight. He is simultaneously everywhere and nowhere. He inhabits every moment, in all places, forever. Jesus, conversely, gives God his voice, through the Spirit that they share, and makes God's will, reality. Jesus is the bridge between God and man, the spirit allows us the same level of deep connection with God as Jesus had and has. More on that in [[the Trinity]] or [[blaspheming the Holy Spirit]].
 
-The days are firstly 3 days of separation then days of creation 3. Finally, God rests.
+> Colossians 1:15 (NIV)
+> The Son is the image of the invisible God, the firstborn Over all creation.
 
-1. **Separation** of light and darkness
-2. **Separation** of water and sky
-3. **Separation** of earth and sea then creation of plants
-4. **Creation** of the sun and moon
-5. **Creation** of birds and fish
-6. **Creation** of beasts, cattle, and man
-7. Sabbath; God rests
+![[Creation]]
 
 There are a few things to call out in this.
 

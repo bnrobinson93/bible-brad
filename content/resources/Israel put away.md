@@ -4,7 +4,8 @@ tags:
   - refine
 created: 2025-06-30T21:54:46-05:00
 title: Israel put away
-updated: 2025-09-14T17:27:27-05:00
+updated: 2025-09-26T08:53:41-05:00
+date: 2025-09-14T17:30:26-05:00
 ---
 
 # Israel put away

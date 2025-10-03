@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:33-06:00
 title: Valley of Dry Bones
-updated: 2025-09-14T17:11:09-05:00
+updated: 2025-09-26T08:53:35-05:00
+date: 2025-09-24T16:28:31-05:00
 ---
 
 # Valley of Dry Bones
@@ -13,4 +15,3 @@ In [[Ezekiel|Ezek]] 37, we see God bring Ezekiel to a valley full of the bones o
 ## Links:
 
 202411180821
-

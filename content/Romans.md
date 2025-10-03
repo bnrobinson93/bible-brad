@@ -1,9 +1,12 @@
 ---
 aliases: []
-tags: []
-title: Romans
-updated: 2025-09-06T01:16:58-05:00
+tags:
+  - bible/books-of-the-bible/romans
+  - bible/bible-study
 created: 2025-09-06T01:16:58-05:00
+title: Romans
+updated: 2025-09-24T16:04:22-05:00
+date: 2025-09-24T16:04:22-05:00
 ---
 
 # Romans

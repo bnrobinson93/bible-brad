@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:33-06:00
 title: Manasseh is the reason for the judgement
-updated: 2025-09-14T17:10:38-05:00
+updated: 2025-09-26T08:53:25-05:00
+date: 2025-09-24T16:28:30-05:00
 ---
 
 # Manasseh is the reason for the judgement

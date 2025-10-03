@@ -6,7 +6,8 @@ tags:
   - refine
 created: 2025-01-23T21:55:33-06:00
 title: Book of life
-updated: 2025-09-14T17:27:10-05:00
+updated: 2025-09-25T11:10:29-05:00
+date: 2025-09-14T17:30:20-05:00
 ---
 
 # Book of life

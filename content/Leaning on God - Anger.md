@@ -2,12 +2,12 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Favorite: true
 URL: https://www.gotquestions.org/Bible-anger.html
 created: 2023-01-05T23:05
 title: Leaning on God - Anger
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-10-02T15:56:44-05:00
+date: 2025-09-06T01:20:39-05:00
 ---
 
 # Leaning on God - Anger

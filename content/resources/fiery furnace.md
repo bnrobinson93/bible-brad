@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: fiery furnace
-updated: 2025-09-14T17:23:59-05:00
+updated: 2025-09-24T16:32:04-05:00
+date: 2025-09-24T16:32:04-05:00
 ---
 
 # fiery furnace

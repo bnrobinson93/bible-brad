@@ -1,10 +1,12 @@
 ---
 aliases:
   - Day of Atonement
-tags: []
+tags:
+  - bible/feasts
 created: 2025-01-23T21:55:32-06:00
 title: Yom Kippur
-updated: 2025-09-14T17:23:57-05:00
+updated: 2025-09-24T16:32:27-05:00
+date: 2025-09-24T16:32:27-05:00
 ---
 
 # Yom Kippur

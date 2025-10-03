@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Acceptable year of the LORD
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-25T11:10:12-05:00
+date: 2025-09-24T15:42:50-05:00
 ---
 
 # Acceptable year of the LORD

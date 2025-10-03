@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://youtu.be/FxxojBadma4?si=v8GAGeWpkhOkPR7k
 created: 2025-01-23T21:55:32-06:00
 title: Return of the King
-updated: 2025-09-14T16:45:16-05:00
+updated: 2025-09-26T08:53:35-05:00
+date: 2025-09-24T16:30:31-05:00
 ---
 
 # Return of the King

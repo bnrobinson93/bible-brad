@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 created: 2025-01-23T21:55:32-06:00
 title: Shadow Pictures of Joshua vs Revelation
-updated: 2025-09-14T17:06:24-05:00
+updated: 2025-09-26T08:53:25-05:00
+date: 2025-09-24T16:30:31-05:00
 ---
 
 # Shadow Pictures of Joshua vs Revelation

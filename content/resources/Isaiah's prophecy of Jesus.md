@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:33-06:00
 title: Isaiah's prophecy of Jesus
-updated: 2025-09-14T17:13:49-05:00
+updated: 2025-09-26T08:53:27-05:00
+date: 2025-09-24T16:28:29-05:00
 ---
 
 # Isaiah's prophecy of Jesus

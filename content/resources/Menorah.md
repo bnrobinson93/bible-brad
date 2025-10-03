@@ -1,10 +1,12 @@
 ---
 aliases:
   - lampstand
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 created: 2025-01-23T21:55:32-06:00
 title: Menorah
-updated: 2025-09-14T17:24:08-05:00
+updated: 2025-09-24T16:32:30-05:00
+date: 2025-09-24T16:32:30-05:00
 ---
 
 # Menorah

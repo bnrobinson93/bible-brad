@@ -4,7 +4,8 @@ tags:
   - refine
 created: 2025-01-23T21:55:32-06:00
 title: Laziness sneakily leads to poverty
-updated: 2025-09-14T17:28:02-05:00
+updated: 2025-09-26T08:53:26-05:00
+date: 2025-09-14T17:30:27-05:00
 ---
 
 # Laziness sneakily leads to poverty

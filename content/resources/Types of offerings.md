@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Types of Offerings
-updated: 2025-09-14T17:07:32-05:00
+updated: 2025-09-26T08:53:37-05:00
+date: 2025-09-24T16:30:14-05:00
 ---
 
 # Types of Offerings
@@ -28,4 +30,3 @@ These are required. Neither were instituted to remove intentional sin, only unin
 [[The Weightier Matters]]
 
 202408101106
-

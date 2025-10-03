@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Be a servant
-updated: 2025-09-06T01:16:59-05:00
+updated: 2025-09-25T11:10:23-05:00
+date: 2025-09-24T15:43:34-05:00
 ---
 
 # Be a servant

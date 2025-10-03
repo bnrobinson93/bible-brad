@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Lot vs Abraham
-updated: 2025-09-14T17:09:08-05:00
+updated: 2025-09-26T08:53:42-05:00
+date: 2025-09-24T16:30:30-05:00
 ---
 
 # Lot vs Abraham

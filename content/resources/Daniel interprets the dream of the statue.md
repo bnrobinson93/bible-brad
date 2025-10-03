@@ -1,5 +1,5 @@
 ---
-updated: 2025-09-06T01:08:08-05:00
+updated: 2025-09-25T11:11:24-05:00
 created: 2025-01-23T21:55:33-06:00
 ---
 In [[Daniel]] 2, King Nebuchadnezzar has a dream and demands that it be not only explained to him, but also told back to him. He wanted proof that the interpretation was true. When it was not found possible, he turned to kill all wise men. Daniel, however, prayed to God and was given insight into the dream. He approached the king and explained the dream was one of the future. A statue was made with its body made of various components. A rock was cut out by God himself and hurled at the feet of the rock, smashing it to bits. Then that rock grew and took over the entire world.

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Give as you'd like to receive
-updated: 2025-09-06T17:15:15-05:00
+updated: 2025-09-24T15:54:37-05:00
+date: 2025-09-24T15:54:37-05:00
 ---
 
 # Give as you'd like to receive

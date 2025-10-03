@@ -4,7 +4,8 @@ tags:
   - refine
 created: 2025-01-23T21:55:32-06:00
 title: Immanuel
-updated: 2025-09-14T17:25:53-05:00
+updated: 2025-09-26T08:53:46-05:00
+date: 2025-09-14T17:30:25-05:00
 ---
 
 # Immanuel

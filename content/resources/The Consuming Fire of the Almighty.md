@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://www.youtube.com/watch?v=tp0F8IQLj4g
 created: 2025-07-08T21:56:06-05:00
 title: The Consuming Fire of the Almighty
-updated: 2025-09-06T17:24:43-05:00
+updated: 2025-09-24T16:05:59-05:00
+date: 2025-09-24T16:05:59-05:00
 ---
 
 Part 1: [[From the Garden to Golgotha]]
@@ -25,4 +27,3 @@ Anyone looking to seek God's face must make a sacrifice. When Jesus speaks of th
 [[A Rood Awakening]]
 
 202408100956
-

@@ -1,15 +1,14 @@
 ---
 aliases: []
 tags:
-  - april
   - bible
   - Leadership-Breakfast
-  - Men
   - New-Testament
 Favorite: false
 created: 2020-05-12T18:41
 title: The Lord's Prayer
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-25T09:55:41-05:00
+date: 2025-09-06T01:20:41-05:00
 ---
 
 # The Lord's Prayer

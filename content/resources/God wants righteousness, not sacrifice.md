@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: God wants righteousness, not sacrifice
-updated: 2025-09-06T01:16:55-05:00
+updated: 2025-09-24T15:54:43-05:00
+date: 2025-09-24T15:54:43-05:00
 ---
 
 # God wants righteousness, not sacrifice

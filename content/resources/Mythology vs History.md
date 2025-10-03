@@ -1,10 +1,12 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study/a-rood-awakening
 URL: https://youtu.be/WDhQgVuMikg?si=p_-fFgGqNSQ5WP3j
 created: 2025-01-23T21:55:31-06:00
 title: Mythology vs History
-updated: 2025-09-06T16:55:32-05:00
+updated: 2025-09-24T15:58:06-05:00
+date: 2025-09-24T15:58:06-05:00
 ---
 
 # Mythology vs History

@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Paul, a slave to all
-updated: 2025-09-14T17:08:09-05:00
+updated: 2025-09-26T08:53:33-05:00
+date: 2025-09-24T16:28:30-05:00
 ---
 
 # Paul, a slave to all

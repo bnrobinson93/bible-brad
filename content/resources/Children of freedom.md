@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Children of freedom
-updated: 2025-09-14T17:05:08-05:00
+updated: 2025-09-25T11:11:02-05:00
+date: 2025-09-24T16:28:29-05:00
 ---
 
 # Children of freedom

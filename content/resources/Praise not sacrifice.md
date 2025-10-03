@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: []
+tags:
+  - bible/bible-study
 created: 2025-01-23T21:55:32-06:00
 title: Praise not sacrifice
-updated: 2025-09-06T01:16:57-05:00
+updated: 2025-09-24T15:58:24-05:00
+date: 2025-09-24T15:58:24-05:00
 ---
 
 # Praise not sacrifice

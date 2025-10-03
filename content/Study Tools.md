@@ -2,13 +2,13 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Created: 2021-12-16T23:23
 Favorite: false
 Updated: 2022-09-29T21:43
 created: 2024-07-15T22:22
 title: Study Tools
-updated: 2025-09-06T00:58:10-05:00
+updated: 2025-10-02T15:56:53-05:00
+date: 2025-09-06T01:20:49-05:00
 ---
 
 # Study Tools

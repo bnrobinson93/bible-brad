@@ -2,13 +2,13 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 Created: 2021-12-16T23:36
 Favorite: true
 Updated: 2023-12-17T09:34
 created: 2024-07-15T22:22
 title: Christmas
-updated: 2025-09-06T00:58:10-05:00
+updated: 2025-10-02T15:56:42-05:00
+date: 2025-09-06T01:20:52-05:00
 ---
 
 # Christmas

@@ -2,11 +2,11 @@
 aliases: []
 tags:
   - Leadership-Breakfast
-  - Men
 created: 2020-05-12T18:41
 favorite: false
 title: The Wilderness
-updated: 2025-09-06T17:18:18-05:00
+updated: 2025-10-02T15:56:51-05:00
+date: 2025-09-06T17:22:02-05:00
 ---
 
 # The Wilderness
