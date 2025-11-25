@@ -4,7 +4,7 @@ tags:
   - Old-Testament
 created: 2022-12-02T05:39
 Favorite: false
-updated: 2025-01-23T21:55:32-06:00
+updated: 2025-09-06T01:05:01-05:00
 ---
 
 ## Context

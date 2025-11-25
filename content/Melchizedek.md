@@ -4,7 +4,7 @@ tags:
   - bible/bible-study
 created: 2025-09-06T01:16:57-05:00
 title: Melchizedek
-updated: 2025-09-24T16:03:45-05:00
+updated: 2025-10-17T18:59:15-05:00
 date: 2025-09-24T16:03:45-05:00
 ---
 
@@ -78,7 +78,7 @@ date: 2025-09-24T16:03:45-05:00
 ## Tying that back to Jesus
 
 - The author of [[2-Areas/Bible/Teaching/Hebrews]] does most of the leg work here
-- Citing [[Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
+- Citing [[2-Areas/Bible/Books of Bible/Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
   - The LORD said to my lord — that is [[God]] said to Jesus
   - Just as [[Melchizedek]]’s back story is unknown, only that he was called by God, so was Jesus
   - Just how [[Melchizedek]] pointed toward the Father, so did Jesus

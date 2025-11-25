@@ -2,7 +2,8 @@
 created: 2015-03-24T17:45
 Favorite: false
 URL: chrome-extension://iooicodkiihhpojmmeghjclgihfjdjhj/front/in_isolation/reformat.html
-updated: 2025-09-06T01:08:21-05:00
+updated: 2025-10-17T18:59:15-05:00
+date: 2025-10-17T18:59:15-05:00
 ---
 
 [http://www.catholic-pages.com/pope/hahn.asp](http://www.catholic-pages.com/pope/hahn.asp)
@@ -70,7 +71,7 @@ In two of these hand washings, water is poured out over one's hands with the aid
 
 It's very interesting and important because Peter stands up with the eleven in the Upper Room, verse 15, and He speaks about Judas' death and He says, "It was known beforehand and had even been prophesied in the Old Testament" and so what should we do now?
 
-Notice that Peter -- and by the way, notice that it is Peter who stands up. He's not just contributing an opinion. When Peter declares an opinion it is binding and immediately following, exactly what he advises. And what is it he advises? He quotes the [[Psalms]], "Let his habitation become desolate and let there be no one to live in it." But then he doesn't say, "Hey, guys, we're from twelve down to eleven. We better hang together now or we might end up hanging separately. No we're just down to eleven and it's going to be us from now on." He doesn't say that.
+Notice that Peter -- and by the way, notice that it is Peter who stands up. He's not just contributing an opinion. When Peter declares an opinion it is binding and immediately following, exactly what he advises. And what is it he advises? He quotes the [[2-Areas/Bible/Books of Bible/Psalms]], "Let his habitation become desolate and let there be no one to live in it." But then he doesn't say, "Hey, guys, we're from twelve down to eleven. We better hang together now or we might end up hanging separately. No we're just down to eleven and it's going to be us from now on." He doesn't say that.
 
 He says, "His office, let another take." Or as the King [[James]] version says, "His bishopric, let other men take." The word there is episcopae, where we get the word episcopacy or episcopal. It's the word for bishop. In other words, there's an epioscopal office that is now empty and vacant. Peter stands up and says, "Well obviously, automatically, in line with the Old Testament tradition, in line with this Old Testament practice of patriarchal succession at every level in [[God|God's]] family, not just at top with Moses and his seed and his successors, but even the seventy elders, when they died, they left empty offices that must be filled," Peter is just obviously appealing to this Old Testament precedent is saying, "Let another man his bishopric, his office, take."
 

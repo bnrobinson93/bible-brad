@@ -3,14 +3,14 @@ aliases:
   - Bereshit
 tags:
   - bible/old-testament
-  - bible/bro-bible
 created: 2025-07-31T20:11:54-0600
 date: 2025-09-14T19:35:27-05:00
 title: Genesis 1:1-6:8
-updated: 2025-09-28T17:13:00-05:00
+updated: 2025-10-17T18:57:05-05:00
+up: "[[The Bro Bible]]"
 ---
 
-# Bereshit
+# Bereshit - Genesis 1:1-6:8
 
 ## Genesis 1:1-6:8
 

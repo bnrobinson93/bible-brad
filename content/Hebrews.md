@@ -7,7 +7,8 @@ tags:
 Favorite: false
 created: 2023-02-16T22:36
 title: Hebrews
-updated: 2025-09-06T01:08:41-05:00
+updated: 2025-10-17T18:59:15-05:00
+date: 2025-10-17T18:59:15-05:00
 ---
 
 # Hebrews
@@ -92,7 +93,7 @@ updated: 2025-09-06T01:08:41-05:00
 - 3:1,2 - **therefore** “partakers of the heavenly calling,” consider him as the high priest and the “sent one” (Deut 18)
 - He was similar to Moses (faithful) but was better — if we hold to him, we can hope
   - Hope is a reality in the future
-- 3:7-13 - **Do not be like Israel in the wilderness. [[God]] wants faithfulness not sin+offering ([[Psalms]] 51:16-17)**
+- 3:7-13 - **Do not be like Israel in the wilderness. [[God]] wants faithfulness not sin+offering ([[2-Areas/Bible/Books of Bible/Psalms]] 51:16-17)**
 - 3:14 - **we must endure to the end, vs just being saved and then living whatever life we want**
 - 4:1, 11 - take it as a warning that you do not fall short before the end, **lean into him, run the good race**, that you may enter rest (Jesus’s rest)
 - v12-13, God’s word is sharper than any sword, dividing the soul from spirit and joint from marrow; it cuts to the heart and our intentions
