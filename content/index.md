@@ -12,11 +12,11 @@ This site collects the messages I've given at our men's group and the short stud
 
 ---
 
-## [[Teachings]]
+## [Teachings](Teachings)
 
 Prepared messages given at our men's leadership breakfast and young professionals group. These are topical studies and book walk-throughs, usually built around what I was already digging into that week.
 
-## [[Notes]]
+## [Notes](Notes)
 
 Short studies on specific words, concepts, or passages — the kind of thing I jot down while reading and keep coming back to.
 
