@@ -3,7 +3,8 @@ created: 2025-10-02T18:58:04-0600
 updated: 2025-11-11T13:33:05-06:00
 date: 2025-10-03T19:21:53-05:00
 categories:
-  - "[[Teaching]]"tags: []tags: []
+  - "[[Teaching]]"
+tags: []
 publish: true
 ---
 
