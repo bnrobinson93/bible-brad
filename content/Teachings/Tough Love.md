@@ -79,3 +79,6 @@ publish: true
 
 > [!important]  
 > Question: Do you have any experience in showing tough love?Are there any general rules of thumbs to apply? (i.e. is the line “sin” or something else)Do you have anyone in your life where you’ve needed to show tough love? Did it work out?
+
+## Links
+[[Love]]
