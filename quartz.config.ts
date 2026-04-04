@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "biblebrad.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "*.sync-conflict-*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
