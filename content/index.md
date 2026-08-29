@@ -1,15 +1,25 @@
 ---
 title: BibleBrad Home
+created: 2025-07-12T14:21:41-05:00
+updated: 2026-04-03T00:00:00-05:00
 ---
 
 # Welcome to Bible Brad
 
-## What is this?
+I'm not a pastor, scholar, or Bible expert — just someone trying to take God's word seriously and share what I'm learning along the way.
 
-Bible Brad is a personal website that I use to store my Bible study notes, Bible quotes, and other personal notes. It's built with [Obsidian](https://obsidian.md/) and [Quartz](https://quartz.jzhao.xyz/) an designed to be an accountability tool for myself as well as a source of inspiration for others.
+This site collects the messages I've given at our men's group and the short studies I keep returning to. If something here is useful to you, I'm glad.
 
-The mission here is to encourage people to read the Bible and to share their thoughts and insights with others. I am in no means a bible expert, scholar, or even pastor, but I hope that this site can serve as an inspiration to others to follow in my foosteps so that the entire body of Christ grows stronger and more connected.
+---
 
-## For the Nerds amung us
+## [Teachings](Teachings)
 
-If you find anything of interest, feel free to [submit a pull request](https://github.com/bnrobinson93/bible-brad) or [open an issue](https://github.com/bnrobinson93/bible-brad/issues).
+Prepared messages given at our men's leadership breakfast and young professionals group. These are topical studies and book walk-throughs, usually built around what I was already digging into that week.
+
+## [Notes](Notes)
+
+Short studies on specific words, concepts, or passages — the kind of thing I jot down while reading and keep coming back to.
+
+---
+
+If you find anything worth discussing, feel free to [open an issue](https://github.com/bnrobinson93/bible-brad/issues) or [submit a pull request](https://github.com/bnrobinson93/bible-brad).
