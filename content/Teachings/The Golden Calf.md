@@ -87,6 +87,6 @@ The answer: kinda…
     > _For by grace are ye saved, through faith; and that not of yourselves: [it is] the gift of God_ \*\*Eph 2:8\*\*
     > _But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness._ **-1 Tim 6:11**
 
-## Related Reading
+## Links
 
 - [[Old Testament]]

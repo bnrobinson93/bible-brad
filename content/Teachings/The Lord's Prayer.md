@@ -45,6 +45,6 @@ This word literally only appears in the Bible - and only in two places. From con
 2. Does the One New Man reading feel different to you? How?
 3. If we break things down into a modern prayer, what should prayer look like
 
-## Related Reading
+## Links
 
 - [[New Testament]]

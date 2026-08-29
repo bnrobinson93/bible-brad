@@ -20,3 +20,7 @@ The spirits are mentioned in both [[Isaiah|Isa]] 11:1-5 and (soft reference) [[R
 5. Spirit of [[Knowledge]]
 6. Spirit of [[Reverence]]
 7. Spirit of the delight in the fear of the [[LORD]]
+
+# Links:
+
+202408040925

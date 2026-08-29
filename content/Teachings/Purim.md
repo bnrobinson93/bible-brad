@@ -43,6 +43,6 @@ tags:
 > [!important]  
 > [[Yeshua|Jesus]] calls for action. The initation is there but we must meet him where he is.[[Esther]] and the story in [[John]] happen at the same time of year and both stories push the idea of standing up to an oppressor.
 
-## Related Reading
+## Links
 
 [[Esther]]

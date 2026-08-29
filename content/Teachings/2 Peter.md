@@ -75,6 +75,6 @@ publish: true
 
 #### Discussion Points
 
-## Related Reading
+## Links
 
 - [[New Testament]]

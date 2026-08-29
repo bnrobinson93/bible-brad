@@ -17,7 +17,9 @@ While I'm not one to disagree with Jesus, I don't think he was talking about the
 
 Not to discount grace and mercy but I don't think "don't cut yourself" is something I just can't help but do. To me, all sin is this way. Think for a moment: how long can you go without telling a lie? Can you make it 10 minutes? How about 30? An hour? If you can expertise self control for a short while, why is sin excused as something we simply can't help but do? While I do agree with that sentiment, I do think most sin can be avoided with prayer and self control. To say that we're powerless sells the work of the cross short, as well as ourselves. We have been given a spirit of power so that we CAN do things that make us righteous, including everything listed there in Leviticus. Did Jesus not frequently heal people only to say: "Go forth and sin no more?" Why don't we take that advice and choose life instead of settling for sin.
 
-## Related Reading
+# Links:
 
 [[Choose life]]
 [[sin]]
+
+202502262215
