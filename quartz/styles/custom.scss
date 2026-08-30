@@ -34,6 +34,19 @@ body {
   line-height: 1.6;
 }
 
+// base.scss fades a hovered link to --tertiary, which is a line colour in both
+// themes and drops the text to a few hundredths of the contrast it had.
+a:hover {
+  color: var(--accent);
+}
+
+// Quartz styles no focus ring, so the browser's own bright blue one lands on
+// bordered links like the "Latest" bar and reads as part of the design.
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
 // ---- shell ----------------------------------------------------------------
 
 .page {
@@ -418,7 +431,8 @@ body {
 // ---- article header -------------------------------------------------------
 
 // The crumb, the title and the meta row are siblings in one slot; order them.
-.page > #quartz-body .center > .page-header > .popover-hint {
+// Link previews clone this same block, so the selector matches there too.
+.popover-hint:has(> .article-title) {
   display: flex;
   flex-direction: column;
 
@@ -487,7 +501,8 @@ body {
 // Every teaching opens with an h1 repeating its own title; the article header
 // already renders that, so drop the duplicate. The home page has no article
 // header, so its opening h1 — the lede — is left alone.
-.page > #quartz-body .center:has(.article-title) .markdown-preview-view > h1:first-child {
+.page > #quartz-body .center:has(.article-title) .markdown-preview-view > h1:first-child,
+.popover-inner:has(.article-title) .markdown-preview-view > h1:first-child {
   display: none;
 }
 
@@ -537,6 +552,40 @@ body {
   & a {
     text-underline-offset: 2px;
   }
+
+  // Wikilinks come through as .internal, which base.scss gives a filled chip.
+  // At the density these notes link at, the page turns into a field of blocks.
+  & a.internal {
+    background-color: transparent;
+    padding: 0;
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--accent-line);
+    text-underline-offset: 3px;
+
+    &:hover {
+      color: var(--accent);
+      text-decoration-color: var(--accent);
+    }
+  }
+
+  // A link to a note that was never published goes nowhere, and hovering it
+  // pops up the 404 page. Read it as prose instead.
+  & a.internal.broken {
+    color: inherit;
+    opacity: 1;
+    font-weight: inherit;
+    text-decoration: none;
+    pointer-events: none;
+    cursor: text;
+  }
+}
+
+// Link previews: match the panels used elsewhere in the layout.
+.popover > .popover-inner {
+  border-color: var(--rule);
+  border-radius: 12px;
+  background-color: var(--panel);
 }
 
 // The home page's index is full-width; only prose is held to a reading measure.

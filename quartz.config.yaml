@@ -97,6 +97,9 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      # Most vault wikilinks point at notes that were never published. Marking
+      # them lets custom.scss render them as plain text instead of links to 404.
+      disableBrokenWikilinks: true
     order: 60
   - source: "@quartz-community/description"
     enabled: true
