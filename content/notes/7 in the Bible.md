@@ -29,7 +29,3 @@ A few places where we see this number:
 - 7 Plagues of wrath ([[Revelation|Rev]] 15:1, 8, 16:1-21)
 - 7 Mountains ([[Revelation|Rev]] 17:9)
 - 7 days, priests, and marches around Jericho ([[Joshua|Josh]] 6)
-
-# Links:
-
-202408040901

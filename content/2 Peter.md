@@ -74,7 +74,3 @@ publish: true
 - Don’t be carried away by the world but study the scripture and dig for truth. Grow in grace and knowledge
 
 #### Discussion Points
-
-## Links
-
-- [[New Testament]]

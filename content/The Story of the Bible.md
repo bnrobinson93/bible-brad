@@ -26,7 +26,3 @@ From here, the road ahead is hazy. Some say this and some say that about Revelat
 > 3. The Law
 > 4. [[The Weightier Matters]]
 > 5. Faith and Works
-
-## Links
-
-[[2026-07-19]]

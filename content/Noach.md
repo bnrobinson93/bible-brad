@@ -97,7 +97,3 @@ One last genealogy to round things off though this one isn't as neat as previous
 | Nahor      | Snort / strong breath      |
 | Terah      | Wanderer / loiterer        |
 | Abram      | Exalted father             |
-
-## Links:
-
-202510031802

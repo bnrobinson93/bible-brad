@@ -48,4 +48,8 @@ print(f"Synced {len(published)} notes")
 PYEOF
 
 echo ""
+echo "==> Tidying link footers..."
+"$(dirname "$0")/tidy-related-reading.py"
+
+echo ""
 echo "Done. Run 'npx quartz build --serve' to preview."

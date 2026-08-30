@@ -86,7 +86,3 @@ The answer: kinda…
     > _I call heaven and earth to record this day against you, [that] I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:_ -**Deut 30:19**
     > _For by grace are ye saved, through faith; and that not of yourselves: [it is] the gift of God_ \*\*Eph 2:8\*\*
     > _But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness._ **-1 Tim 6:11**
-
-## Links
-
-- [[Old Testament]]

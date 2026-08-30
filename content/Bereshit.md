@@ -124,8 +124,3 @@ However, the very last verse of this portion ends with hope:
 
 >**_But_** Noah found favor in the eyes of the LORD.
 >**Gen 6:8**
-
-## Links
-
-- [[Old Testament]]
-202507312011

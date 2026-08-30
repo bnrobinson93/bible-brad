@@ -19,7 +19,3 @@ Goats are generally associated with the nations or those far from God, as in the
 Lambs are generally seen as a gift of mercy and accepted by faith, primarily in Jesus being our passover lamb, who takes away the sin of the world. The first passover lamb was given as a token of faith to spare ones firstborn. The life was not paid for as we see in Numbers that God later asks for the price to be paid separately. Rather, the lamb was a symbol of trust that God would be true to his word. In Jesus, we trust that the Messiah is who God promised and our ultimate answer to the sin problem.
 
 Grain, oil, and bird offerings are also seen but generally seem to be associated with a bridge for those experiencing poverty that wish to draw near to God, as well as a portion of all that God gives us, akin to a tithe being proportional, based on the blessings that God gives you, and being doable for everyone - just as God's grace is available to all.
-## Links:
-
-202510021858
-

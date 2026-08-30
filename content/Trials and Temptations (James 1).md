@@ -54,7 +54,3 @@ publish: true
 
 > [!important]  
 > Question:What do you take from this?In my own life, areas like pride, lust, and anger can rear as areas of temptation. Keeping my eyes fixed on the end goal can help. Does it help you?
-
-## Links
-
-- [[New Testament]]

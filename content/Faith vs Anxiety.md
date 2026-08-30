@@ -29,6 +29,3 @@ Related verses:
 - What is something that you need to trust [[God]] more in? To start: what is something that causes anxiety in your life?
 - Trust (H982. batach = בָּטח, careless or confident) is linked with Faith (H530. emunah = אֱמוּנָה, to be firm or steadfast) as small moments of trust build up into a life full of faith
 - What are some practical ways to trust in God? If faith without work is dead, and trust (H982. batach = בָּטח, careless or confident) is linked to faithfulness (H530. emunah = אֱמוּנָה, to be firm or steadfast), how do we live out _trust_?
-
-## Links
-[[faith]]
