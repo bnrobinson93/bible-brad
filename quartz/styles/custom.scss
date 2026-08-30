@@ -581,11 +581,18 @@ a:hover {
   }
 }
 
-// Link previews: match the panels used elsewhere in the layout.
+// Link previews: match the panels used elsewhere in the layout, and show the
+// content only. The reader is hovering a link whose text is the title, so the
+// crumb, title and meta row repeat what they already know.
 .popover > .popover-inner {
+  padding: 1.3rem 1.5rem;
   border-color: var(--rule);
   border-radius: 12px;
   background-color: var(--panel);
+
+  & .popover-hint:has(> .article-title) {
+    display: none;
+  }
 }
 
 // The home page's index is full-width; only prose is held to a reading measure.
