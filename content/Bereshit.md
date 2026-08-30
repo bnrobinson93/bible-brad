@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bereshit
 tags:
   - 0🌲
 created: 2025-09-14T19:35:27-05:00

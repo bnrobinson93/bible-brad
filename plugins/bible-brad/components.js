@@ -44,8 +44,11 @@ export const MarginRail = () => {
     const teachings = teachingsOf(allFiles)
     const home = resolveRelative(fileData.slug, "index")
 
+    // Quartz's SPA router treats a same-page hash link as a scroll and uses
+    // pushState, which fires no hashchange; routerIgnore hands the click back
+    // to the browser so the filter script hears it.
     const pill = (href, label, count) =>
-      h("a", { href, "data-collection": href.split("#")[1] }, [
+      h("a", { href, "data-collection": href.split("#")[1], "data-router-ignore": true }, [
         label,
         count === undefined ? null : h("b", null, String(count)),
       ])
@@ -127,7 +130,7 @@ export const TeachingIndex = () => {
         h("h2", null, "Recent"),
         h("span", { class: "index-count" }, [
           `${Math.min(RECENT_LIMIT, teachings.length)} of ${teachings.length} · `,
-          h("a", { href: "#everything" }, `All ${teachings.length} →`),
+          h("a", { href: "#everything", "data-router-ignore": true }, `All ${teachings.length} →`),
         ]),
       ]),
       h("div", { class: "index-list", "data-recent-limit": String(RECENT_LIMIT) }, [
@@ -169,6 +172,7 @@ document.addEventListener("nav", () => {
       count.append(" · ")
       const all = document.createElement("a")
       all.href = "#everything"
+      all.dataset.routerIgnore = ""
       all.textContent = "All " + items.length + " →"
       count.append(all)
     }

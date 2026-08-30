@@ -49,7 +49,7 @@ PYEOF
 
 echo ""
 echo "==> Tidying link footers..."
-"$(dirname "$0")/tidy-related-reading.py"
+"$(dirname "$0")/tidy-synced-notes.py"
 
 echo ""
 echo "Done. Run 'npx quartz build --serve' to preview."
