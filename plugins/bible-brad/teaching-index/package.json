@@ -1,0 +1,28 @@
+{
+  "name": "bible-brad-teaching-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "main": "./index.js",
+  "quartz": {
+    "name": "teaching-index",
+    "displayName": "Teaching Index",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "components": {
+      "TeachingIndex": {
+        "displayName": "Teaching Index",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

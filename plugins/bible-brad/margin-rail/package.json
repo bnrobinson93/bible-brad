@@ -1,0 +1,28 @@
+{
+  "name": "bible-brad-margin-rail",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "main": "./index.js",
+  "quartz": {
+    "name": "margin-rail",
+    "displayName": "Margin Rail",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "components": {
+      "MarginRail": {
+        "displayName": "Margin Rail",
+        "defaultPosition": "right",
+        "defaultPriority": 10
+      }
+    }
+  }
+}
