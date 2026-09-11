@@ -4,10 +4,10 @@ created: 2025-09-24T16:40:30-05:00
 updated: 2025-12-17T00:51
 categories:
   - "[[books of the bible]]"
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
+publish: true
 ---
 
 > [!important]  

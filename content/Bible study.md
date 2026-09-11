@@ -3,10 +3,10 @@ aliases: []
 created: 2025-09-24T16:01:52-05:00
 updated: 2025-12-29T21:03:59-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
+publish: true
 ---
 
 # Bible Study

@@ -7,7 +7,7 @@ URL: https://www.gotquestions.org/Bible-busyness.html
 created: 2022-06-30T22:17
 updated: 2025-12-29T21:01:07-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---

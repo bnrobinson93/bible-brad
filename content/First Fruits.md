@@ -8,7 +8,7 @@ created: 2022-04-21T23:42
 favorite: false
 updated: 2026-04-04T10:41:49-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -16,7 +16,7 @@ publish: true
 
 ## Context
 
->[**[[2-Areas/Bible/Teaching/Leviticus]] 23:9-14**](https://biblia.com/bible/niv/Lev%2023.9-14)  
+>[**[[Leviticus]] 23:9-14**](https://biblia.com/bible/niv/Lev%2023.9-14)  
 >The LORD said to Moses, (10) Speak to the Israelites and say to them: 'When you enter the land I am going to give you and you reap its harvest, bring to the priest a sheaf of the first grain you harvest. (11) He is to wave the sheaf before the LORD so it will be accepted on your behalf; the priest is to wave it  
 >**on the day after the Sabbath [that falls within the week of Unleavened bread]**. (12) On the day you wave the sheaf, you must sacrifice as a burnt offering to the LORD a lamb a year old without defect, (13) together with its grain offering of two-tenths of an ephah of fine flour mixed with oil--an offering made to the LORD by fire, a pleasing aroma--and its drink offering of a quarter of a hin of wine. (14) You must not eat any bread, or roasted or new grain, until the very day you bring this offering to your God. This is to be a lasting ordinance for the generations to come, wherever you live.
 
@@ -72,7 +72,3 @@ publish: true
 
 >[!important]  
 >Question: What hope does the Feast of Firstfruits give us?For me, knowing that [[God]] called the shots going as far back as Moses - and potentially even Noah - is valuable. It helps prove that [[God]] is in control and that some things he asks for may not make sense at the time but will later. To use Firstfruits as an example, Israel no longer celebrates this command (breaking the law) because the early church found this time of year to be their best teaching tool as [[Yeshua|Jesus]] so perfectly fulfilled the Feast of Firstfruits.
-
-## Related Reading
-
-- [[Passover]]

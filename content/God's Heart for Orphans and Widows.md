@@ -6,7 +6,7 @@ Favorite: true
 URL: https://youtu.be/H0rVBxf0lok
 updated: 2025-12-29T21:01:35-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---

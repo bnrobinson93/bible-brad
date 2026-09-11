@@ -4,10 +4,10 @@ Favorite: false
 URL: chrome-extension://iooicodkiihhpojmmeghjclgihfjdjhj/front/in_isolation/reformat.html
 updated: 2025-11-11T13:33:15-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
+publish: true
 ---
 
 [http://www.catholic-pages.com/pope/hahn.asp](http://www.catholic-pages.com/pope/hahn.asp)

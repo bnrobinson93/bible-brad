@@ -5,7 +5,7 @@ created: 2022-12-02T05:39
 Favorite: false
 updated: 2025-09-06T01:05:01-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -94,7 +94,7 @@ What was the message here?
 
 - [[John]] 4:23-24
   > But a time is coming - and now is here - when the true worshipers will worship the Father in spirit and truth, for the Father seeks such people to be his worshipers. [[God]] is spirit, and his worshipers must worship in the Spirit and in truth.”
-- [[Mark]] 2:23-27 ([[Exodus]] 25:23-30; [[2-Areas/Bible/Teaching/Leviticus]] 24:5-9)
+- [[Mark]] 2:23-27 ([[Exodus]] 25:23-30; [[Leviticus]] 24:5-9)
 
   > [[Yeshua|Jesus]] was going through the grain fields on a Sabbath, and his disciples began to pick some heads of wheat as they made their way.  So the Pharisees said to him, "Look, why are they doing what is against the law on the Sabbath?" He said to them, "Have **you never read what David did when he was in need and he and his companions were hungry - how he entered the house of [[God]] when Abiathar was high priest and ate the sacred bread, which is against the law for any but the priests to eat, and also gave it to his companions?**" Then he said to them, "The Sabbath was made for people, not people for the Sabbath. For this reason the Son of Man is lord even of the Sabbath."
 

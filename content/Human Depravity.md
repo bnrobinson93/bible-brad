@@ -7,7 +7,7 @@ URL: https://www.preceptaustin.org/judges_19_commentary
 created: 2022-08-04T22:04
 updated: 2025-12-29T21:01:02-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -29,7 +29,7 @@ HOWEVER
 
 ### Context
 
-- In chapters 17-18, we follow the story of a man named [[2-Areas/Bible/Teaching/Micah]] who steals silver and builds himself a little mini cult. The tribe of Dan eventually comes across him and steals out his priest and his idols so that they can “carry the gods” with them while they invaded a territory near by to settle in
+- In chapters 17-18, we follow the story of a man named [[Micah]] who steals silver and builds himself a little mini cult. The tribe of Dan eventually comes across him and steals out his priest and his idols so that they can “carry the gods” with them while they invaded a territory near by to settle in
 - [[Judges]] 19 settles into a store of immorality rather than idolitry
 - This entire section underscores the depraved nature of our flesh and exactly what the world would look like if we had no [[God]] to rule us
 - These chapters come after Moses delivers the law so these highlight Israel’s indifference toward [[God]] and his law, preferring independence instead
@@ -70,7 +70,7 @@ HOWEVER
 > [!important]  
 > Questions: 1. Why is that in the bible?2. What does this have to do with us?3. Did this really happen?
 
-- Note that the names are never really provided, while [[Judges]] 17-18 repeats [[2-Areas/Bible/Teaching/Micah]]’s name to the point that you get tired of reading it. As such, many posit that this was a sample or conglomerate story that represented the spirit of the times versus a true example
+- Note that the names are never really provided, while [[Judges]] 17-18 repeats [[Micah]]’s name to the point that you get tired of reading it. As such, many posit that this was a sample or conglomerate story that represented the spirit of the times versus a true example
 - The last sentence indicates that everyone noticed how bad things were, that times were worse than when in Egypt - something Joseph’s [[brother|brothers]] seemed to consider only a slight step up from death
 - Note that the phrase “in those days there was no king” is used to set the stage. We see this same phrase in the previous sections as well, indicating that God’s rule was not recognized by his children
 - One of the main lessons from [[Judges]] 18-19 is that when evil is not dealt with promptly and properly, it has a tendency to grow

@@ -9,7 +9,7 @@ Updated: 2022-09-30T06:08
 created: 2025-09-06T01:20:50-05:00
 updated: 2025-10-02T15:56:55-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---

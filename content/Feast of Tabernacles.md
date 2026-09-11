@@ -6,7 +6,7 @@ Favorite: false
 created: 2022-10-13T17:59
 updated: 2025-12-29T21:01:24-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---

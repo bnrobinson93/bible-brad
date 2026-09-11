@@ -6,7 +6,7 @@ created: 2025-09-06T17:29:10-05:00
 favorite: true
 updated: 2025-10-02T15:31:22-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -34,8 +34,8 @@ publish: true
   - This was around the time my dad and I “convinced” the whole family to skip Christmas — lots of tears, frusteration, and division
   - In more recent years, I’ve tried to prioritize better the things that the Bible emphasizes as main things: justice, faith, walk humbly, and demonstrate mercy
     > Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices—mint, dill and cumin. But you have neglected the more important matters of the law—justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former — [[Matthew]] 23:23
-    > He hath shewed thee, O man, what *is* good; and what doth the Lord require of thee, but to do justly, and to [[Love]] mercy, and to walk humbly with thy God? — [[2-Areas/Bible/Teaching/Micah]] 6:8
-  - The question I’ve griped with is: while doing Christmas “right” could certainly fall into “obedience” that [[2-Areas/Bible/Teaching/Micah]] speaks of in some translations, how does that balance with justice and mercy? Where is the line in faith vs truth?
+    > He hath shewed thee, O man, what *is* good; and what doth the Lord require of thee, but to do justly, and to [[Love]] mercy, and to walk humbly with thy God? — [[Micah]] 6:8
+  - The question I’ve griped with is: while doing Christmas “right” could certainly fall into “obedience” that [[Micah]] speaks of in some translations, how does that balance with justice and mercy? Where is the line in faith vs truth?
 
 ## Pagan Roots
 

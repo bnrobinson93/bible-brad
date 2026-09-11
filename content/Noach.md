@@ -3,12 +3,12 @@ created: 2025-10-17T18:58:35-05:00
 updated: 2026-08-28T18:26:50-05:00
 up: "[[The Bro Bible]]"
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
 aliases:
   - Noah
+publish: true
 ---
 # Noach - Genesis 6:9-11:32
 

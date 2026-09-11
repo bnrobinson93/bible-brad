@@ -4,47 +4,45 @@ set -euo pipefail
 VAULT="/home/brad/Documents/Vault/2-Areas/Bible"
 SITE="/home/brad/Documents/code/bible-brad/content"
 
-# Vault "Teaching" notes land at the top level of the site: content/<Name>.md -> /<name>
-# --delete is scoped by the protect rules below so it can never touch index.md,
-# notes/, or anything else that isn't a synced teaching.
-echo "==> Syncing vault Teaching notes to the site root..."
-rsync -av --delete \
-  --exclude='*.sync-conflict-*' \
-  --exclude='*.pdf' \
-  --exclude='*.xlsx' \
-  --exclude='Avi ben*' \
-  --filter='protect index.md' \
-  --filter='protect notes/***' \
-  "$VAULT/Teaching/" \
-  "$SITE/"
-
-echo ""
-echo "==> Syncing notes (publish: true only)..."
+# One gate for the whole site: the vault's evergreen tag (0🌲). A note is
+# vouched or it is not; there is no separate publish flag to keep in sync.
+# Quartz's explicit-publish plugin wants `publish: true`, so it is stamped
+# into the copy here, never into the vault.
+#   Teaching/  -> content/<Name>.md        (site root)
+#   Topics/    -> content/notes/<Name>.md
 python3 - <<'PYEOF'
-import glob, re, shutil, os
+import glob, re, os
+from pathlib import Path
 
-src = "/home/brad/Documents/Vault/2-Areas/Bible/Topics"
-dst = "/home/brad/Documents/code/bible-brad/content/notes"
-os.makedirs(dst, exist_ok=True)
+VAULT = Path("/home/brad/Documents/Vault/2-Areas/Bible")
+SITE = Path("/home/brad/Documents/code/bible-brad/content")
+PROTECT = {"index.md"}
+FM = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
 
-dst_files = {os.path.basename(f) for f in glob.glob(f"{dst}/*.md")}
-published = set()
+def evergreen(text):
+    m = FM.match(text)
+    return bool(m) and re.search(r"^\s*-\s*0🌲\s*$|^tags:\s*\[[^\]]*0🌲", m.group(1), re.M) is not None
 
-for path in glob.glob(f"{src}/*.md"):
-    fname = os.path.basename(path)
-    if '.sync-conflict-' in fname:
-        continue
-    with open(path) as f:
-        content = f.read()
-    m = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
-    if m and re.search(r'^\s*publish:\s*true\s*$', m.group(1), re.MULTILINE):
-        shutil.copy2(path, os.path.join(dst, fname))
-        published.add(fname)
+def stamp_publish(text):
+    m = FM.match(text)
+    fm = re.sub(r"^publish:.*\n", "", m.group(1) + "\n", flags=re.M)
+    return f"---\n{fm}publish: true\n---\n" + text[m.end():]
 
-for stale in dst_files - published:
-    os.remove(os.path.join(dst, stale))
-
-print(f"Synced {len(published)} notes")
+for src, dst in ((VAULT / "Teaching", SITE), (VAULT / "Topics", SITE / "notes")):
+    dst.mkdir(exist_ok=True)
+    keep = set()
+    for path in src.glob("*.md"):
+        if ".sync-conflict-" in path.name:
+            continue
+        text = path.read_text()
+        if not evergreen(text):
+            continue
+        (dst / path.name).write_text(stamp_publish(text))
+        keep.add(path.name)
+    for stale in dst.glob("*.md"):
+        if stale.name not in keep and stale.name not in PROTECT:
+            stale.unlink()
+    print(f"{src.name}: synced {len(keep)} evergreen notes -> {dst.relative_to(SITE.parent)}")
 PYEOF
 
 echo ""

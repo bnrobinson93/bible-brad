@@ -3,10 +3,10 @@ aliases: []
 created: 2025-09-24T16:03:45-05:00
 updated: 2025-11-11T13:33:27-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
+publish: true
 ---
 
 # Melchizedek
@@ -78,7 +78,7 @@ tags:
 
 ## Tying that back to Jesus
 
-- The author of [[2-Areas/Bible/Teaching/Hebrews]] does most of the leg work here
+- The author of [[Hebrews]] does most of the leg work here
 - Citing [[2-Areas/Bible/Books of Bible/Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
   - The LORD said to my lord — that is [[God]] said to Jesus
   - Just as [[Melchizedek]]’s back story is unknown, only that he was called by God, so was Jesus

@@ -6,7 +6,7 @@ created: 2020-12-04T01:08
 favorite: false
 updated: 2025-12-29T21:02:02-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -63,7 +63,7 @@ Context: some time seems to have passed. Not clear entirely how much
 
 > Pilate then went out again, and said to them, “Behold, I am bringing Him out to you, that you may know that I find no fault in Him.”[[John]] 19:4
 
-> Then Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins, putting them on the head of the goat, and sending it away into the wilderness by means of someone designated for the task. The goat shall bear on itself all their iniquities to a barren region; and the goat shall be set free in the wilderness.[[2-Areas/Bible/Teaching/Leviticus]] 16:21–22
+> Then Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins, putting them on the head of the goat, and sending it away into the wilderness by means of someone designated for the task. The goat shall bear on itself all their iniquities to a barren region; and the goat shall be set free in the wilderness.[[Leviticus]] 16:21–22
 
 > All we like sheep have gone astray;we have turned—every one—to his own way; and the LORD has laid on himthe iniquity of us all. He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter,and like a sheep that before its shearers is silent,so he opened not his mouth. … Yet it was the will of the LORD to crush him;he has put him to grief.[[Isaiah]] 53:6,-7,10a
 

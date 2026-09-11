@@ -8,7 +8,7 @@ Updated: 2023-12-17T09:34
 created: 2025-09-06T01:20:52-05:00
 updated: 2025-10-02T15:56:42-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
 publish: true
 ---
@@ -60,7 +60,7 @@ So this is the six month of Elizabeth’s pregenancy, not the sixth month of the
 
 - Only the shepherds arrive ([[Luke]] 2:8-20)
 - ‭‭[[Luke]]‬ ‭2:21‬ And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.
-- ‭‭[[2-Areas/Bible/Teaching/Leviticus]]‬ ‭23:39‬ ‭ESV‬‬ “On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the Lord seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
+- ‭‭[[Leviticus]]‬ ‭23:39‬ ‭ESV‬‬ “On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the Lord seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
 
 ## Herod & the astronomers
 
