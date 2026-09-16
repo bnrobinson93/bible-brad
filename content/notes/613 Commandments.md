@@ -19,4 +19,5 @@ Not to discount grace and mercy but I don't think "don't cut yourself" is someth
 
 ## Related Reading
 
+- [[Choose life]]
 - [[sin]]
