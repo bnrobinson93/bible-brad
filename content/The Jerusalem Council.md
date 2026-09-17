@@ -1,10 +1,9 @@
 ---
+tags: 0🌲
 categories:
-  - "[[Study Note]]"
-tags:
-  - 0🌲
+  - "[[Article]]"
 created: 2026-08-24T23:31
-updated: 2026-08-29T12:31:30-05:00
+updated: 2026-09-17T00:36
 publish: true
 ---
 # The Jerusalem Council

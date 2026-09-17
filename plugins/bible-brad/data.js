@@ -22,16 +22,21 @@ export function titleOf(file) {
   return file.frontmatter?.title ?? "Untitled"
 }
 
-export const isTeaching = (file) => categoriesOf(file).includes("Teaching")
+/** The vault's kind categories: what a page is, as opposed to which series it belongs to. */
+const TEACHING_KINDS = ["Article", "Teaching"]
+const NOTE_KINDS = ["Study Note", "Insight"]
+const NON_SERIES = new Set([...TEACHING_KINDS, ...NOTE_KINDS, "Index"])
 
-export const isNote = (file) => categoriesOf(file).includes("Study Note")
+export const isTeaching = (file) => categoriesOf(file).some((c) => TEACHING_KINDS.includes(c))
+
+export const isNote = (file) => categoriesOf(file).some((c) => NOTE_KINDS.includes(c))
 
 /**
- * The series label shown as a chip. "Teaching" and "Index" are deliberately not
+ * The series label shown as a chip. Kind categories are deliberately not
  * labels — a teaching with no other category renders with no chip at all.
  */
 export function seriesOf(file) {
-  const [first] = categoriesOf(file).filter((c) => c !== "Teaching" && c !== "Index")
+  const [first] = categoriesOf(file).filter((c) => !NON_SERIES.has(c))
   if (!first) return ""
   return first === "books of the bible" ? "Books of the Bible" : first
 }

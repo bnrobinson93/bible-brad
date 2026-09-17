@@ -21,7 +21,7 @@ FM = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
 
 def evergreen(text):
     m = FM.match(text)
-    return bool(m) and re.search(r"^\s*-\s*0🌲\s*$|^tags:\s*\[[^\]]*0🌲", m.group(1), re.M) is not None
+    return bool(m) and re.search(r"^\s*-\s*0🌲\s*$|^tags:\s*(0🌲\s*$|\[[^\]]*0🌲)", m.group(1), re.M) is not None
 
 def stamp_publish(text):
     m = FM.match(text)
