@@ -8,6 +8,7 @@ updated: 2025-12-29T21:01:24-06:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 # Feast of Tabernacles
 

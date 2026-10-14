@@ -7,6 +7,7 @@ categories:
   - "[[Article]]"
 tags:
   - 0🌲
+publish: true
 ---
 
 > [!important]  

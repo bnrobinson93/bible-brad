@@ -10,6 +10,7 @@ updated: 2026-10-12T18:54:59-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 # First Fruits
 
@@ -71,7 +72,3 @@ categories:
 
 >[!important]  
 >Question: What hope does the Feast of Firstfruits give us?For me, knowing that [[God]] called the shots going as far back as Moses - and potentially even Noah - is valuable. It helps prove that [[God]] is in control and that some things he asks for may not make sense at the time but will later. To use Firstfruits as an example, Israel no longer celebrates this command (breaking the law) because the early church found this time of year to be their best teaching tool as [[Yeshua|Jesus]] so perfectly fulfilled the Feast of Firstfruits.
-
-## Related Reading
-
-- [[Passover]]

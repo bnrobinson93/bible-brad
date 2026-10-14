@@ -8,6 +8,7 @@ tags:
   - 0🌲
 aliases:
   - Noah
+publish: true
 ---
 # Noach - Genesis 6:9-11:32
 

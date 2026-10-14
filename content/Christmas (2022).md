@@ -8,6 +8,7 @@ updated: 2025-10-02T15:31:22-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Christmas (2022)

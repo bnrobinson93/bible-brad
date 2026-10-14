@@ -8,6 +8,7 @@ updated: 2025-09-06T17:16:51-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Day of Atonement

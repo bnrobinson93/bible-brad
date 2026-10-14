@@ -8,6 +8,7 @@ updated: 2025-09-25T09:55:41-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # The Lord's Prayer

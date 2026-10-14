@@ -8,6 +8,7 @@ updated: 2025-12-29T21:00:53-06:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Matt 18 Pt1

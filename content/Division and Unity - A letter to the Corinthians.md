@@ -8,6 +8,7 @@ updated: 2026-10-12T18:58:40-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 # Division and Unity - A Letter to the Corinthians
 

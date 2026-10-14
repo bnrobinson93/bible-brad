@@ -8,6 +8,7 @@ updated: 2025-09-06T16:54:59-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Trials and Temptations (James 1)

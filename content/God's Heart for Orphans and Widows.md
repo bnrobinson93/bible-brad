@@ -8,6 +8,7 @@ updated: 2025-12-29T21:01:35-06:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 # God's Heart for Orphans and Widows
 

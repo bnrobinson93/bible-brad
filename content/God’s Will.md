@@ -9,6 +9,7 @@ updated: 2025-12-29T21:01:57-06:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # God’s Plan

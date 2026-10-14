@@ -8,6 +8,7 @@ updated: 2025-12-29T21:00:42-06:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Priorities and How We Can Side-Tracked even when We're Doing Everything Right

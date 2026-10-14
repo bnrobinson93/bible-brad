@@ -4,6 +4,7 @@ categories:
   - "[[Article]]"
 created: 2026-08-24T23:31
 updated: 2026-09-17T22:33
+publish: true
 ---
 # The Jerusalem Council
 

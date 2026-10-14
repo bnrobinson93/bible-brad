@@ -6,6 +6,7 @@ updated: 2026-08-28T18:27:34-05:00
 up: "[[The Bro Bible]]"
 categories:
   - "[[Article]]"
+publish: true
 ---
 # Bereshit - Genesis 1:1-6:8
 

@@ -8,6 +8,7 @@ updated: 2025-10-02T15:56:46-05:00
 categories:
   - "[[Article]]"
   - "[[Men's Group]]"
+publish: true
 ---
 
 # Predestination (Calvinism)
