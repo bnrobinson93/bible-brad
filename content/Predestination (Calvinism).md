@@ -6,9 +6,8 @@ Favorite: false
 created: 2025-09-06T01:20:38-05:00
 updated: 2025-10-02T15:56:46-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Predestination (Calvinism)
@@ -93,7 +92,7 @@ publish: true
   >
   > '"And [[Isaiah]] cries out on behalf of Israel, "
   >
-  > _Though the number of the children of Israel are as the sand of the sea_, _only the remnant will be saved_, _for the Lord will execute his sentence on the earth completely and quickly_." Just as [[Isaiah]] predicted,
+  > _Though the number of the children of Israel are as the sand of the sea_, _only the remnant will be saved_, _for the [[LORD|Lord]] will execute his sentence on the earth completely and quickly_." Just as [[Isaiah]] predicted,
   >
   > "_**If the Lord of armies**_
   >

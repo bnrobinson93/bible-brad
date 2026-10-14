@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
   - refine
 created: 2025-09-24T16:00:42-05:00
 updated: 2025-12-17T00:51
 categories:
   - "[[books of the bible]]"
-  - "[[Teaching]]"
-publish: true
+  - "[[Speaker Notes]]"
 ---
 
 # 1, 2, 3 John

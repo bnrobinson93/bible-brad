@@ -6,9 +6,8 @@ created: 2022-10-06T21:51
 favorite: false
 updated: 2025-09-06T17:16:51-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Day of Atonement
@@ -25,7 +24,7 @@ publish: true
 ## In the Bible
 
 - Lev 23:26-32
-  > And the LORD spoke to Moses, saying,  
+  > And the [[LORD]] spoke to Moses, saying,  
   > "Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD.  
   > And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the LORD your God.  
   > For whoever is not afflicted on that very day shall be cut off from his people.  

@@ -6,9 +6,8 @@ Favorite: false
 created: 2022-06-16T23:00
 updated: 2025-12-29T21:00:52-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Pentecost (Feast of Weeks)
@@ -23,7 +22,7 @@ _ḥāḡ šāḇûaʿ =_ **חַג שָׁבֻעוֹת** = Feast of Weeks (7 week
 
 - Giving of the ten commandments
   - [[Exodus]] 19-20:
-  - _On the On the first day of the third month after the Israelites left Egypt—on that very day—they came to the Desert of Sinai after the Israelites left Egypt—on that very day—they came to the Desert of Sinai … v11 and be ready by the third day, because on that day the Lord will come down on Mount Sinai in the sight of all the people. … v16 On the morning of the third day there was_ **_thunder and lightning_**_, with a thick cloud over the mountain, and a_ **_very loud trumpet blast_**_. Everyone in the camp trembled. … 20:18_ When the people saw the **thunder and lightning and heard the trumpet** and saw the mountain in smoke, they trembled with fear. They stayed at a distance and said to Moses, “Speak to us yourself and we will listen. But do not have [[God]] speak to us or we will die.” Moses said to the people, “Do not be afraid. [[God]] has come to test you, so that the fear of [[God]] will be with you to keep you from sinning.” The people remained at a distance, while Moses approached the thick darkness where [[God]] was.
+  - _On the On the first day of the third month after the Israelites left Egypt—on that very day—they came to the Desert of Sinai after the Israelites left Egypt—on that very day—they came to the Desert of Sinai … v11 and be ready by the third day, because on that day the [[LORD|Lord]] will come down on Mount Sinai in the sight of all the people. … v16 On the morning of the third day there was_ **_thunder and lightning_**_, with a thick cloud over the mountain, and a_ **_very loud trumpet blast_**_. Everyone in the camp trembled. … 20:18_ When the people saw the **thunder and lightning and heard the trumpet** and saw the mountain in smoke, they trembled with fear. They stayed at a distance and said to Moses, “Speak to us yourself and we will listen. But do not have [[God]] speak to us or we will die.” Moses said to the people, “Do not be afraid. [[God]] has come to test you, so that the fear of [[God]] will be with you to keep you from sinning.” The people remained at a distance, while Moses approached the thick darkness where [[God]] was.
   - 24:3-4: _When Moses went and told the people all the Lord’s words and laws, they responded with one voice, “Everything the Lord has said we will do.” Moses then wrote down everything the Lord had said._
   - Deut 5:4-5
     - The Lord spoke to you face to face out of the fire on the mountain. (At that time I stood between the Lord and you to declare to you the word of the Lord, because you were afraid of the fire and did not go up the mountain.)

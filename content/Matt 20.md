@@ -4,8 +4,7 @@ created: 2025-09-24T16:40:35-05:00
 updated: 2025-12-17T00:51
 categories:
   - "[[books of the bible]]"
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
 ---
@@ -23,7 +22,7 @@ A man hires people throughout the day. First at daybreak,again midmorning, again
 - This is pretty identifyable. Most would be upset in this scenario
 - For perspective: its not that the last people were lazy by not working all day - they were simply not hired (note they were still at the market looking for work) - nor that those that started early worked any less hard - they were right. We see it as the master being unfair to those that started early. Really he was just generous to those that started late.
 - What are some ways that we can keep this perspective: that [[God|God's]] owns all and he can do with us as he pleases, even if it feels unfair towards us?
-- What we are given we are given to watch over, its not ours (Gen 1:26 "let him have dominion", Ps 127:3-4 "Behold, children are a heritage from the LORD, the fruit of the womb a reward. Like arrows in the hand of a warrior are the children of one’s youth.")
+- What we are given we are given to watch over, its not ours (Gen 1:26 "let him have dominion", Ps 127:3-4 "Behold, children are a heritage from the [[LORD]], the fruit of the womb a reward. Like arrows in the hand of a warrior are the children of one’s youth.")
 
 ## [[Yeshua|Jesus]] Predicts His Death
 

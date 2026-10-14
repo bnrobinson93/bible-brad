@@ -6,9 +6,8 @@ Favorite: false
 created: 2022-10-13T17:59
 updated: 2025-12-29T21:01:24-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 # Feast of Tabernacles
 
@@ -18,7 +17,7 @@ publish: true
 - This one actually has a ton of references in scripture!
 - Its commandment is laid out in three places:
   - Lev 23:33-44
-    >And the LORD spoke to Moses, saying,  
+    >And the [[LORD]] spoke to Moses, saying,  
     >"Speak to the people of Israel, saying, On the fifteenth day of this seventh month and for seven days is the Feast of Booths to the LORD.  
     >On the first day shall be a holy convocation; you shall not do any ordinary work.  
     >For seven days you shall present food offerings to the LORD. On the eighth day you shall hold a holy convocation and present a food offering to the LORD. It is a solemn assembly; you shall not do any ordinary work.  

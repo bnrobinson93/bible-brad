@@ -6,9 +6,8 @@ created: 2020-12-04T01:08
 favorite: false
 updated: 2025-12-29T21:02:02-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Matt 16
@@ -42,7 +41,7 @@ Context: some time seems to have passed. Not clear entirely how much
 
 - Peter proclaims that [[Yeshua|Jesus]] is the son of the living God, not just a prophet but THE prophet
 
-> I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him.Deut 18:18-19Moses said, ‘The Lord [[God]] will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you.[[Acts]] 3:22
+> I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him.Deut 18:18-19Moses said, ‘The [[LORD|Lord]] [[God]] will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you.[[Acts]] 3:22
 
 - Calls "Peter" (masculine) meaning "part of rock" by the feminine form meaning "a rock". His Hebrew name, Kefa, meant a small rock, roughly the size of a hand
 - "On this rock" is referring to [[the rock]] that Peter just proclaimed: that [[Yeshua|Jesus]] is the son of God. [[Yeshua|Jesus]] is **[[the rock]]**
@@ -63,7 +62,7 @@ Context: some time seems to have passed. Not clear entirely how much
 
 > Pilate then went out again, and said to them, “Behold, I am bringing Him out to you, that you may know that I find no fault in Him.”[[John]] 19:4
 
-> Then Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins, putting them on the head of the goat, and sending it away into the wilderness by means of someone designated for the task. The goat shall bear on itself all their iniquities to a barren region; and the goat shall be set free in the wilderness.[[2-Areas/Bible/Teaching/Leviticus]] 16:21–22
+> Then Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins, putting them on the head of the goat, and sending it away into the wilderness by means of someone designated for the task. The goat shall bear on itself all their iniquities to a barren region; and the goat shall be set free in the wilderness.[[Leviticus]] 16:21–22
 
 > All we like sheep have gone astray;we have turned—every one—to his own way; and the LORD has laid on himthe iniquity of us all. He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter,and like a sheep that before its shearers is silent,so he opened not his mouth. … Yet it was the will of the LORD to crush him;he has put him to grief.[[Isaiah]] 53:6,-7,10a
 

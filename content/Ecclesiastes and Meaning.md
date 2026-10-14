@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 Favorite: false
 created: 2022-02-23T21:59
 updated: 2026-07-29T21:25:01-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Ecclesiastes and Meaning

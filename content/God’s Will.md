@@ -7,9 +7,8 @@ created: 2022-07-14T18:32
 favorite: true
 updated: 2025-12-29T21:01:57-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # God’s Plan
@@ -51,7 +50,7 @@ Some of the biggies to tell if you’re in God’s will:
 
 1. Are you saved?
    - [[2 Peter]] 3:9
-     The Lord is not slow concerning his promise, as some regard slowness, but is being patient toward you, because H**e does not wish for any to perish but for all to come to repentance**
+     The [[LORD|Lord]] is not slow concerning his promise, as some regard slowness, but is being patient toward you, because H**e does not wish for any to perish but for all to come to repentance**
    - [[God]] doesn’t want to lose anyone. He wants all to be inside of His will
    - **Part of God’s will is simply that He know you and you know Him**
 

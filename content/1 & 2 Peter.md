@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 created: 2022-05-05T22:38
 favorite: false
 updated: 2025-09-06T17:16:24-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # 1 & 2 Peter
@@ -16,7 +14,7 @@ publish: true
 ## Context
 
 - Shimon / Simon = Hebrew
-- When proclaimed [[Yeshua|Jesus]] as Lord, [[Yeshua|Jesus]] changed his name to Kefa (Aramaic, Matt 16:18-19), meaning “Rock”
+- When proclaimed [[Yeshua|Jesus]] as [[LORD|Lord]], [[Yeshua|Jesus]] changed his name to Kefa (Aramaic, Matt 16:18-19), meaning “Rock”
 - The word “rock” in Greek, then, is Petra, which is transliterated into English as Peter
 - This is why you see him sometimes called “Simon Peter” or “Simon who is called Peter”
 - Leader of the early church

@@ -7,9 +7,8 @@ URL: https://www.preceptaustin.org/judges_19_commentary
 created: 2022-08-04T22:04
 updated: 2025-12-29T21:01:02-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Human Depravity
@@ -29,7 +28,7 @@ HOWEVER
 
 ### Context
 
-- In chapters 17-18, we follow the story of a man named [[2-Areas/Bible/Teaching/Micah]] who steals silver and builds himself a little mini cult. The tribe of Dan eventually comes across him and steals out his priest and his idols so that they can “carry the gods” with them while they invaded a territory near by to settle in
+- In chapters 17-18, we follow the story of a man named [[Micah]] who steals silver and builds himself a little mini cult. The tribe of Dan eventually comes across him and steals out his priest and his idols so that they can “carry the gods” with them while they invaded a territory near by to settle in
 - [[Judges]] 19 settles into a store of immorality rather than idolitry
 - This entire section underscores the depraved nature of our flesh and exactly what the world would look like if we had no [[God]] to rule us
 - These chapters come after Moses delivers the law so these highlight Israel’s indifference toward [[God]] and his law, preferring independence instead
@@ -51,7 +50,7 @@ HOWEVER
 
   > **16** That evening **an old man** from the hill country of Ephraim, who was living in Gibeah (the inhabitants of the place were Benjamites), came in from his work in the fields. **17** When he looked and saw the traveler in the city square, the old man asked, “Where are you going? Where did you come from?”
 
-  > **18** He answered, “We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the Lord.[[a](https://www.biblegateway.com/passage/?search=[[Judges]]+19&version=NIV#fen-NIV-7043a)] No one has taken me in for the night. **19** We have both straw and fodder for our donkeys and bread and wine for ourselves your servants—me, the woman and the young man with us. We don’t need anything.”
+  > **18** He answered, “We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the [[LORD|Lord]].[[a](https://www.biblegateway.com/passage/?search=[[Judges]]+19&version=NIV#fen-NIV-7043a)] No one has taken me in for the night. **19** We have both straw and fodder for our donkeys and bread and wine for ourselves your servants—me, the woman and the young man with us. We don’t need anything.”
 
   > **20** “You are welcome at my house,” the old man said. “Let me supply whatever you need. Only don’t spend the night in the square.” **21** So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and drink.
 
@@ -70,7 +69,7 @@ HOWEVER
 > [!important]  
 > Questions: 1. Why is that in the bible?2. What does this have to do with us?3. Did this really happen?
 
-- Note that the names are never really provided, while [[Judges]] 17-18 repeats [[2-Areas/Bible/Teaching/Micah]]’s name to the point that you get tired of reading it. As such, many posit that this was a sample or conglomerate story that represented the spirit of the times versus a true example
+- Note that the names are never really provided, while [[Judges]] 17-18 repeats [[Micah]]’s name to the point that you get tired of reading it. As such, many posit that this was a sample or conglomerate story that represented the spirit of the times versus a true example
 - The last sentence indicates that everyone noticed how bad things were, that times were worse than when in Egypt - something Joseph’s [[brother|brothers]] seemed to consider only a slight step up from death
 - Note that the phrase “in those days there was no king” is used to set the stage. We see this same phrase in the previous sections as well, indicating that God’s rule was not recognized by his children
 - One of the main lessons from [[Judges]] 18-19 is that when evil is not dealt with promptly and properly, it has a tendency to grow

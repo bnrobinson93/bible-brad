@@ -5,8 +5,7 @@ created: 2025-09-14T19:35:27-05:00
 updated: 2026-08-28T18:27:34-05:00
 up: "[[The Bro Bible]]"
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 ---
 # Bereshit - Genesis 1:1-6:8
 
@@ -115,7 +114,7 @@ Chapter 6 then resumes the narrative, starting with Noah. Again, Nephelim[^1] ar
 
 [^1]: **Nephelim** are the half-human, half-angel beings that are the result of the "sons of God" (angels) mating with the "daughters of man." The Book of Enoch, an extra-biblical text, goes into more detail about this but the bible speaks little of them. As such, I find them to be more of a distracting rabbit hole than useful truth. While I am not opposed to discussing them, I prefer to focus where the Bible focuses. For now, just know that I believe them to be the origin of the giants mentioned later in the bible and the inspiration for the demi-gods spoken of in various other religions and mythologies. I'll discuss them a bit more in a focused study on [[Nephilim and Watchers]].
 
->And the LORD regretted that he had made man on the earth, and it grieved him to his heart. So the LORD said, "\[...\] I am sorry that I have made them."
+>And the [[LORD]] regretted that he had made man on the earth, and it grieved him to his heart. So the LORD said, "\[...\] I am sorry that I have made them."
 >**Gen 6:6,7b**
 
 However, the very last verse of this portion ends with hope:

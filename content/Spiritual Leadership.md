@@ -1,14 +1,12 @@
 ---
 tags:
-  - 0🌲
 created: 2025-09-06T01:08:16-05:00
 Favorite: false
 URL: https://youtu.be/WJSFU1sEvFA
 updated: 2025-10-02T15:56:49-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Traits
@@ -40,7 +38,7 @@ publish: true
 4. Know the word and share it constantly
 
    - Deut 11:18-21
-     > Fix these words of mine into your mind and being, and tie them as a reminder on your hands and let them be symbols on your forehead. Teach them to your children and speak of them **as you sit** in your house, **as you walk** along the road, **as you lie down**, and **as you get up**. Inscribe them on the door frames of your houses and on your gates so that your days and those of your descendants may be extended in the land which the LORD promised to give to your ancestors, like the days of heaven itself.
+     > Fix these words of mine into your mind and being, and tie them as a reminder on your hands and let them be symbols on your forehead. Teach them to your children and speak of them **as you sit** in your house, **as you walk** along the road, **as you lie down**, and **as you get up**. Inscribe them on the door frames of your houses and on your gates so that your days and those of your descendants may be extended in the land which the [[LORD]] promised to give to your ancestors, like the days of heaven itself.
    - As men, we should take this role in every relationship. While wives can take this up, and should have an integral role, men should lead their homes. Don’t take the back seat. It’s important for you and your family
 
 5. Even temperament (not short-tempered, impatient, or moody)

@@ -1,15 +1,13 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 Favorite: true
 URL: https://www.gotquestions.org/Bible-anger.html
 created: 2025-09-06T01:20:39-05:00
 updated: 2025-10-02T15:56:44-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Leaning on God - Anger
@@ -74,7 +72,7 @@ publish: true
 
   2. We can tend to play the victim, saying things like “when I fail” and turning grace into license
      - [[Jude]] 1:4
-       > _… ungodly men who have turned the grace of our [[God]] into a license for evil and who deny our only Master and Lord, [[Yeshua|Jesus]] Christ_
+       > _… ungodly men who have turned the grace of our [[God]] into a license for evil and who deny our only Master and [[LORD|Lord]], [[Yeshua|Jesus]] Christ_
 
 ### What else to do?
 

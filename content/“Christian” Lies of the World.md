@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 Favorite: false
 created: 2025-09-06T01:20:36-05:00
 updated: 2025-10-02T15:56:39-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # “Christian” Lies of the World
@@ -19,7 +17,7 @@ publish: true
 - This week, let’s discuss a few of the common lies that we face
 
 - To start with here, my intent is not to lambaste religions nor is it to try and sway you toward one of them. The idea here is to see the common tells for misuse of scripture that we can better see it in our own lives and the lives of those around us. Additionally, it is to try and equip you to have answers to those lies.
-  > “When the LORD your [[God]] cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land, take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, ‘How did these nations serve their gods?—that I also may do the same.’ You shall not worship the LORD your [[God]] in that way, for every abominable thing that the LORD hates they have done for their gods, for they even burn their sons and their daughters in the fire to their gods.
+  > “When the [[LORD]] your [[God]] cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land, take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, ‘How did these nations serve their gods?—that I also may do the same.’ You shall not worship the LORD your [[God]] in that way, for every abominable thing that the LORD hates they have done for their gods, for they even burn their sons and their daughters in the fire to their gods.
   >
   > “Everything that I command you, you shall be careful to do. You shall not add to it or take from it. —  
   > _**Deut 12:29-32**_

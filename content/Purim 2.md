@@ -3,10 +3,8 @@ aliases: []
 created: 2025-09-24T16:03:56-05:00
 updated: 2025-11-11T13:33:37-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Speaker Notes]]"
 tags:
-  - 0🌲
 ---
 
 # Purim 2

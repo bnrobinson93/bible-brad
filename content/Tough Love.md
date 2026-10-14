@@ -9,9 +9,8 @@ Updated: 2022-09-30T06:08
 created: 2025-09-06T01:20:50-05:00
 updated: 2025-10-02T15:56:55-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Tough Love
@@ -29,7 +28,7 @@ publish: true
   >  is on the prowl looking for someone to devour.
 - Many are lead down the path that leads to destruction - the law of [[sin]] & death (Matt 7:13-14)
   > "Enter through the narrow gate, because the gate is wide and the way is spacious that leads to destruction, and there are many who enter through it. But the gate is narrow and the way is difficult that leads to life, and there are few who find it.
-- The LORD uses tough [[Love]] on us as Christians (Heb 12:3-13)
+- The [[LORD]] uses tough [[Love]] on us as Christians (Heb 12:3-13)
 
   > Think of him who endured such opposition against himself by sinners, so that you may not grow weary in your souls and give up. You have not yet resisted to the point of bloodshed in your struggle against sin. And have you forgotten the exhortation addressed to you as sons?
 

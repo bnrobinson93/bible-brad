@@ -6,9 +6,8 @@ Favorite: false
 created: 2022-09-08T22:40
 updated: 2025-09-06T17:18:12-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # The Golden Calf
@@ -35,7 +34,7 @@ The answer: kinda…
   >
   > **2** Aaron answered them, “Take off the gold earrings that your wives, your sons and your daughters are wearing, and bring them to me.” **3** So all the people took off their earrings and brought them to Aaron. **4** He took what they handed him and made it into an idol cast in the shape of a calf, fashioning it with a tool. Then they said, “These are your gods,[b](https://www.biblegateway.com/passage/?search=Exodus+32&version=NIV#fen-NIV-2443b) Israel, who brought you up out of Egypt.”
   >
-  > **5** When Aaron saw this, he built an altar in front of the calf and announced, “Tomorrow there will be a festival to the Lord.” **6** So the next day the people rose early and sacrificed burnt offerings and presented fellowship offerings. Afterward they sat down to eat and drink and got up to indulge in revelry.
+  > **5** When Aaron saw this, he built an altar in front of the calf and announced, “Tomorrow there will be a festival to the [[LORD|Lord]].” **6** So the next day the people rose early and sacrificed burnt offerings and presented fellowship offerings. Afterward they sat down to eat and drink and got up to indulge in revelry.
   >
   > **7** Then the Lord said to Moses, “Go down, because your people, whom you brought up out of Egypt, have become corrupt. **8** They have been quick to turn away from what I commanded them and have made themselves an idol cast in the shape of a calf. They have bowed down to it and sacrificed to it and have said, ‘These are your gods, Israel, who brought you up out of Egypt.’
   >

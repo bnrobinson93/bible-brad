@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 created: 2020-05-12T18:41
 favorite: false
 updated: 2025-12-29T21:00:46-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Passover

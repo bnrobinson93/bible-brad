@@ -7,9 +7,8 @@ URL: https://youtu.be/Y7z868kEl5s
 created: 2022-12-29T22:05
 updated: 2025-09-06T01:08:13-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # “I AM the Law of Moses”
@@ -43,7 +42,7 @@ The scene is that a Pharasee was getting in [[Yeshua|Jesus]]’s face saying tha
   - Eph 2:11-22
     > Therefore remember that formerly you, the Gentiles in the flesh – who are called “uncircumcision” by the so-called “circumcision” that is performed on the body by human hands –  
     >  that you were at that time without the Messiah, alienated from the citizenship of Israel and strangers to the covenants of promise, having no hope and without [[God]] in the world. Now in Christ [[Yeshua|Jesus]]  
-    > **you who used to be far away have been brought near by the blood of Christ.**  For he is our peace, the one who made both groups into one and who destroyed the middle wall of partition, the hostility, when he nullified in his flesh the law of commandments in decrees. He did this to create in himself one new man out of two, thus making peace, and to reconcile them both in one body to [[God]] through the cross, by which the hostility has been killed. And he came and preached peace to you who were far off and peace to those who were near, so that through him we both have access in one Spirit to the Father. So then you are no longer foreigners and noncitizens, but you are fellow citizens with the saints and members of God’s household, because you have been built on the foundation of the apostles and prophets, with Christ [[Yeshua|Jesus]] himself as the cornerstone. In him the whole building, being joined together, grows into a holy temple in the Lord, in whom you also are being built together into a dwelling place of [[God]] in the Spirit.
+    > **you who used to be far away have been brought near by the blood of Christ.**  For he is our peace, the one who made both groups into one and who destroyed the middle wall of partition, the hostility, when he nullified in his flesh the law of commandments in decrees. He did this to create in himself one new man out of two, thus making peace, and to reconcile them both in one body to [[God]] through the cross, by which the hostility has been killed. And he came and preached peace to you who were far off and peace to those who were near, so that through him we both have access in one Spirit to the Father. So then you are no longer foreigners and noncitizens, but you are fellow citizens with the saints and members of God’s household, because you have been built on the foundation of the apostles and prophets, with Christ [[Yeshua|Jesus]] himself as the cornerstone. In him the whole building, being joined together, grows into a holy temple in the [[LORD|Lord]], in whom you also are being built together into a dwelling place of [[God]] in the Spirit.
   - As well as pretty much all of Rom 2-8
     Rom 3:20,23-24: For *no one is declared righteous before him by the works of the law, for* **_through the law comes the knowledge of sin._** _[…] for_ **_all have sinned_** _and fall short of the glory of God. But they are_ **_justified freely by his grace through the redemption that is in Christ Jesus._**
 - However, there are other lines that support it:

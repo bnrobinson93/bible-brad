@@ -6,9 +6,8 @@ created: 2020-12-04T01:07
 favorite: false
 updated: 2025-12-29T21:01:42-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Matt 15 Bible Study
@@ -21,7 +20,7 @@ Elijah prophecies that men will claim to be close to [[God]] but truly only teac
 
 Consider what God, through Moses, gave as the test for a prophet:
 
-> Do not add to what I command you and do not subtract from it, but keep the commands of the LORD your [[God]] that I give you.Deut 4:2
+> Do not add to what I command you and do not subtract from it, but keep the commands of the [[LORD]] your [[God]] that I give you.Deut 4:2
 
 > Everything that I command you, you shall be careful to do. You shall not add to it or take from it.Deut 12:32
 

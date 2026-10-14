@@ -5,9 +5,8 @@ created: 2022-06-03T06:10
 Favorite: false
 updated: 2025-12-29T21:01:17-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 - Source: [[James]] 1:6
@@ -15,7 +14,7 @@ publish: true
 
 Related verses:
 
-- Trust in the Lord with all your heart and lean not on your own understanding;in all your ways submit to him, and he will make your paths straight.
+- Trust in the [[LORD|Lord]] with all your heart and lean not on your own understanding;in all your ways submit to him, and he will make your paths straight.
   [**[[Proverbs]] 3:5-6**](https://dailyverses.net/proverbs/3/5-6)
 - When I am afraid, I put my trust in you.
   [**Psalm 56:3**](https://dailyverses.net/psalms/56/3)

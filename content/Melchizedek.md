@@ -3,8 +3,7 @@ aliases: []
 created: 2025-09-24T16:03:45-05:00
 updated: 2025-11-11T13:33:27-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
 ---
@@ -22,7 +21,7 @@ tags:
   - Gen 14:11-24 (context: several kingdoms have been battling for the better part of 12 years, ultimately, Abram’s nephew Lot is taken captive while living in Sodom)
     > The four victorious kings took all the possessions and food of Sodom and Gomorrah and left. They also took Abram's nephew Lot and his possessions when they left, for Lot was living in Sodom. A fugitive came and told Abram the Hebrew. Now Abram was living by the oaks of Mamre the Amorite, the [[brother]] of Eshcol and Aner. (All these were allied by treaty with Abram.) When Abram heard that his nephew had been taken captive, he mobilized his 318 trained men who had been born in his household, and he pursued the invaders as far as Dan. Then, during the night, Abram divided his forces against them and defeated them. He chased them as far as Hobah, which is north of Damascus. He retrieved all the stolen property. He also brought back his nephew Lot and his possessions, as well as the women and the rest of the people. After Abram returned from defeating Kedorlaomer and the kings who were with him, the king of Sodom went out to meet Abram in the Valley of Shaveh (known as the King's Valley). **[[Melchizedek]] king of Salem** brought out bread and wine. (**Now he was the priest of the Most High God**.) He blessed Abram, saying, "Blessed be Abram by the Most High God, Creator of heaven and earth.
     >
-    > Worthy of praise is the Most High God, who delivered your enemies into your hand." **Abram gave [[Melchizedek]] a tenth of everything.** Then the king of Sodom said to Abram, "Give me the people and take the possessions for yourself." But Abram replied to the king of Sodom, "I raise my hand to the LORD, the Most High God, Creator of heaven and earth, and vow that I will take nothing belonging to you, not even a thread or the strap of a sandal. That way you can never say, 'It is I who made Abram rich.' I will take nothing except compensation for what the young men have eaten. As for the share of the men who went with me - Aner, Eshcol, and Mamre - let them take their share."
+    > Worthy of praise is the Most High God, who delivered your enemies into your hand." **Abram gave [[Melchizedek]] a tenth of everything.** Then the king of Sodom said to Abram, "Give me the people and take the possessions for yourself." But Abram replied to the king of Sodom, "I raise my hand to the [[LORD]], the Most High God, Creator of heaven and earth, and vow that I will take nothing belonging to you, not even a thread or the strap of a sandal. That way you can never say, 'It is I who made Abram rich.' I will take nothing except compensation for what the young men have eaten. As for the share of the men who went with me - Aner, Eshcol, and Mamre - let them take their share."
   - God’s reward for this interaction is the covenant with Abram that leads to his name change and the birth of Isaac
   - Psalm 110
     > _A psalm of David._
@@ -78,7 +77,7 @@ tags:
 
 ## Tying that back to Jesus
 
-- The author of [[2-Areas/Bible/Teaching/Hebrews]] does most of the leg work here
+- The author of [[Hebrews]] does most of the leg work here
 - Citing [[2-Areas/Bible/Books of Bible/Psalms]] 110, the author reveals how [[Yeshua|Jesus]] fulfills this scripture in several ways:
   - The LORD said to my lord — that is [[God]] said to Jesus
   - Just as [[Melchizedek]]’s back story is unknown, only that he was called by God, so was Jesus

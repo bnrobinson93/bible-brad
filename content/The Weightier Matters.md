@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 Favorite: true
 created: 2025-09-28T17:35:09-05:00
 updated: 2025-09-28T17:35:09-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # The Weightier Matters
@@ -19,7 +17,7 @@ What [[Yeshua|Jesus]] says is first:
 
 - [[Love]] God, [[Love]] people
 
-> “Teacher, which is the greatest commandment in the Law?”Jesus replied: “‘Love the Lord your [[God]] with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.” - Matt 22:36-40
+> “Teacher, which is the greatest commandment in the Law?”Jesus replied: “‘Love the [[LORD|Lord]] your [[God]] with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.” - Matt 22:36-40
 
 - For eternal life, keep all the commandments (faith is counted as righteousness) and live selflessly
 

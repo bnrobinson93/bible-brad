@@ -4,8 +4,7 @@ Favorite: false
 URL: chrome-extension://iooicodkiihhpojmmeghjclgihfjdjhj/front/in_isolation/reformat.html
 updated: 2025-11-11T13:33:15-06:00
 categories:
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
 ---
@@ -91,7 +90,7 @@ This is not EVEN what happened... The way I read this passage, Peter stands up a
 
 Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”
 
-**6** The apostles and elders met to consider this question. **7** After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago [[God]] made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. **8** God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. **9** He did not discriminate between us and them,for he purified their hearts by faith. **10** Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? **11** No! We believe it is through the grace of our Lord [[Yeshua|Jesus]] that we are saved, just as they are.”
+**6** The apostles and elders met to consider this question. **7** After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago [[God]] made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. **8** God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. **9** He did not discriminate between us and them,for he purified their hearts by faith. **10** Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? **11** No! We believe it is through the grace of our [[LORD|Lord]] [[Yeshua|Jesus]] that we are saved, just as they are.”
 
 **12** The whole assembly became silent as they listened to Barnabas and Paul telling about the signs and wonders God had done among the Gentiles through them. **13** When they finished, James spoke up. “Brothers,” he said, “listen to me. **14** Simon(That is Peter) has described to us how [[God]] first intervened to choose a people for his name from the Gentiles. **15** The words of the prophets are in agreement with this, as it is written:
 

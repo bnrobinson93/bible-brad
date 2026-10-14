@@ -4,8 +4,7 @@ created: 2025-09-24T16:40:30-05:00
 updated: 2025-12-17T00:51
 categories:
   - "[[books of the bible]]"
-  - "[[Teaching]]"
-publish: true
+  - "[[Article]]"
 tags:
   - 0🌲
 ---
@@ -20,7 +19,7 @@ This parable of sorts offers the way to address when a [[brother]] "sins against
 - In both cases, tell him. Then:
   1. If they listen, carry on (forgive)
      - Lev 19:17
-       > You shall not hate your [[brother]] but you shall reason frankly with your neighbor, lest you incur [[sin]] because of him. You shall not take vengeance or bear a grudge against your own people but you shall [[Love]] your neighbor as yourself: I am the LORD)
+       > You shall not hate your [[brother]] but you shall reason frankly with your neighbor, lest you incur [[sin]] because of him. You shall not take vengeance or bear a grudge against your own people but you shall [[Love]] your neighbor as yourself: I am the [[LORD]])
   2. If they don't listen,
      1. Bring one or two others
         - Deut 19:15-21

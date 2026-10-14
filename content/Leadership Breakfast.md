@@ -2,11 +2,9 @@
 created: 2026-04-03
 updated: 2026-04-03
 tags:
-  - 0🌲
 categories:
   - "[[Index]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Leadership Breakfast

@@ -2,9 +2,8 @@
 updated: 2026-08-29T12:40:35-05:00
 created: 2026-08-28T18:15-0600
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
 description: ""
-draft: false
 ---
 # The Story of the Bible
 

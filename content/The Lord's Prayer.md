@@ -6,9 +6,8 @@ Favorite: false
 created: 2025-09-06T01:20:41-05:00
 updated: 2025-09-25T09:55:41-05:00
 categories:
-  - "[[Teaching]]"
+  - "[[Article]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # The Lord's Prayer
@@ -21,7 +20,7 @@ publish: true
 
 ### [[Luke]] 11:1-13
 
-> Now [[Yeshua|Jesus]] was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, as [[John]] taught his disciples.” And he said to them, “When you pray, say: “Father, hallowed be your name. Your kingdom come. Give us each day our daily bread, and forgive us our sins,for we ourselves forgive everyone who is indebted to us. And lead us not into temptation.”And he said to them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves, for a friend of mine has arrived on a journey, and I have nothing to set before him’; and he will answer from within, ‘Do not bother me; the door is now shut, and my children are with me in bed. I cannot get up and give you anything’? I tell you, though he will not get up and give him anything because he is his friend, yet because of his impudence he will rise and give him whatever he needs. And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. What father among you, if his son asks for bread, will give him a stone; or if he asks for a fish, will instead of a fish give him a serpent; or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!”
+> Now [[Yeshua|Jesus]] was praying in a certain place, and when he finished, one of his disciples said to him, “[[LORD|Lord]], teach us to pray, as [[John]] taught his disciples.” And he said to them, “When you pray, say: “Father, hallowed be your name. Your kingdom come. Give us each day our daily bread, and forgive us our sins,for we ourselves forgive everyone who is indebted to us. And lead us not into temptation.”And he said to them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves, for a friend of mine has arrived on a journey, and I have nothing to set before him’; and he will answer from within, ‘Do not bother me; the door is now shut, and my children are with me in bed. I cannot get up and give you anything’? I tell you, though he will not get up and give him anything because he is his friend, yet because of his impudence he will rise and give him whatever he needs. And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. What father among you, if his son asks for bread, will give him a stone; or if he asks for a fish, will instead of a fish give him a serpent; or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!”
 
 ## One New Man Translation
 

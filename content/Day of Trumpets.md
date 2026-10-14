@@ -3,14 +3,12 @@ aliases:
   - Rosh Hashana
   - Yom Teruah
 tags:
-  - 0🌲
 Favorite: false
 created: 2025-01-23T21:55:32-06:00
 updated: 2025-12-29T21:01:49-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Day of Trumpets - Yom Teruah
@@ -29,7 +27,7 @@ publish: true
 
 - The Bible tells us it is a memorial of the blowing of trumpets, a day of remembrance for when [[God]] shouted down the 10 commandments (which occurred on Pentecost)
   - Ex 19:16-20
-    > On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. And as the sound of the trumpet grew louder and louder, Moses spoke, and [[God]] answered him in thunder. The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
+    > On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. Now Mount Sinai was wrapped in smoke because the [[LORD|Lord]] had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. And as the sound of the trumpet grew louder and louder, Moses spoke, and [[God]] answered him in thunder. The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
 
 - Heralds the Messiah’s second coming in prophecy
 - Kicks off the “10 days of awe” or “time of repentance” (a time of seeking recompense with your neighbor and God) - a time of introspection
@@ -40,7 +38,7 @@ publish: true
 
 ## In the Bible
 
-- [[2-Areas/Bible/Teaching/Leviticus]] 23:23-25
+- [[Leviticus]] 23:23-25
   > And the Lord spoke to Moses, saying, “Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation. You shall not do any ordinary work, and you shall present a food offering to the Lord.”
 - [[Numbers]] 29:1-6
 

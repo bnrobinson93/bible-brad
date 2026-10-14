@@ -1,14 +1,12 @@
 ---
 aliases: []
 tags:
-  - 0🌲
 created: 2022-07-21T22:08
 favorite: false
 updated: 2025-12-29T21:01:31-06:00
 categories:
-  - "[[Teaching]]"
+  - "[[Speaker Notes]]"
   - "[[Men's Group]]"
-publish: true
 ---
 
 # Gideon
@@ -34,7 +32,7 @@ publish: true
 
 ## After it’s Settled (6:25-32, 36-40)
 
-- Once Gideon truly accepts that this is his call from the LORD, [[God]] calls him to strike down the idols that his own father had placed
+- Once Gideon truly accepts that this is his call from the [[LORD]], [[God]] calls him to strike down the idols that his own father had placed
 - He does and earns his nickname “Jerub-Baal” meaning “one who fights/contends with Baal”
 - Now prove that I am to be the one to defeat the Midianites (twice)
 
