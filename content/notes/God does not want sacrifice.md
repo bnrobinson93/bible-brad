@@ -26,3 +26,7 @@ Likewise, [[Jeremiah]] 7 shows God becoming annoyed by worthless sacrifices. He 
 As we see the parallel of marriage all through the bible, let's use it here. Would you rather a wife who does love you and she's "well meaning" but never really listens to or gets to know you? How about one who knows everything about you but who doesn't really love you for you, only your money? How about one who actually loves you and who listens, knows, and does what you ask of them? Obviously, you want the wife who loves you, understands you, and does as you like (a.k.a. "obeys," though that carries baggage in today's world).
 
 God tells us that his "[[613 Commandments]]" are not hard: they are telling you his heart and showing you how to live [[a righteous life]] - a life that draws him near to you. If I tell my wife I love coffee and hate baked chicken, I am right to be annoyed when she dumps all my coffee on the ground and then bakes a chicken to say sorry. How much more does God have the right to be annoyed when we [[Intentional Sin|intentionally sin]] and then apologize with hollow words in a hurried prayer that gets repeated every night over dinner? He just wants us to [[follow, don't apologize|listen from the start, not ignore him and then say "sorry."]]
+
+## Related Reading
+
+- [[God's Judgment is Just]]
