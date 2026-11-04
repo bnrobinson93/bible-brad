@@ -42,7 +42,7 @@ Context: some time seems to have passed. Not clear entirely how much
 
 - Peter proclaims that [[Yeshua|Jesus]] is the son of the living God, not just a prophet but THE prophet
 
-> I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him.Deut 18:18-19Moses said, ‘The Lord [[God]] will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you.[[Acts]] 3:22
+> I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him.Deut 18:18-19Moses said, ‘The [[LORD|Lord]] [[God]] will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you.[[Acts]] 3:22
 
 - Calls "Peter" (masculine) meaning "part of rock" by the feminine form meaning "a rock". His Hebrew name, Kefa, meant a small rock, roughly the size of a hand
 - "On this rock" is referring to [[the rock]] that Peter just proclaimed: that [[Yeshua|Jesus]] is the son of God. [[Yeshua|Jesus]] is **[[the rock]]**

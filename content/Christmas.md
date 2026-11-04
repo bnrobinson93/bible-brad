@@ -20,7 +20,7 @@ publish: true
 ### [[John]] the Baptist
 
 - [[Luke]] 1
-  > In the days of Herod, king of Judea, there was a priest named [[Zechariah]],[fn] of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years. Now while he was serving as priest before [[God]] when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord standing on the right side of the altar of incense.
+  > In the days of Herod, king of Judea, there was a priest named [[Zechariah]],[fn] of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the [[LORD|Lord]]. But they had no child, because Elizabeth was barren, and both were advanced in years. Now while he was serving as priest before [[God]] when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord standing on the right side of the altar of incense.
 
 ### Mary and Joseph
 

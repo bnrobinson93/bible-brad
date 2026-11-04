@@ -32,7 +32,7 @@ Two of these come from [[Leviticus]] 17–18 and are specifically the items that
 >I will set my face against that person who eats blood and will **cut him off** from among his people. For the life of the flesh is in the blood \[…\] No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood.
 
 >[[2-Areas/Bible/Books of Bible/Leviticus|Lev]] 18:6,29
->No one is to approach any close relative to have sexual relations. I am the LORD. \[…\] For everyone who does any of these abominations, the persons who do them shall be **cut off** from among their people
+>No one is to approach any close relative to have sexual relations. I am the [[LORD]]. \[…\] For everyone who does any of these abominations, the persons who do them shall be **cut off** from among their people
 
 Additionally, the letter was sent with trusted members of the congregation and there is an expectation that recipients are a part of the assembly that meets every Sabbath:
 

@@ -37,7 +37,7 @@ I think that many of us can get this backwards. God reminds us several times thr
 >All go to one place. All are from the dust, and to dust all return.
 
 >[[2-Areas/Bible/Books of Bible/Psalms|Ps]] 94:14 [NLT]
->The LORD will not reject his people;  
+>The [[LORD]] will not reject his people;  
 >he will not abandon his special possession.
 
 >[[Isaiah|Isa]] 65:1-3a,5 [ESV] 
@@ -55,3 +55,7 @@ Think of it like an extreme version of diet and exercise: do the things you shou
 >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe **is condemned already**, because he has not believed in the name of the only Son of God.
 
 God is long suffering and I am grateful that he didn't call **my** debt before it was too late for Jesus to pay it for me. Without Jesus, I only had filthy rags to offer as payment and the bounty was worth thousands of lives.
+
+## Related Reading
+
+- [[God's Judgment is Just]]

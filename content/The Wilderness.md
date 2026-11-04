@@ -27,7 +27,7 @@ COVID-19 has tossed us into a lonely, silo'd world where we are encouraged to do
 
 Not to be over-spiritual but I do think that there is a constant battle going on right past our field of vision.
 
-> And when the servant of the man of [[God]] was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do? And he answered, Fear not: for they that be with us are more than they that be with them. And Elisha prayed, and said, Lord, I pray thee, open his eyes, that he may see. And the Lord opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha. ([[2 Kings]] 6:15-17)
+> And when the servant of the man of [[God]] was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do? And he answered, Fear not: for they that be with us are more than they that be with them. And Elisha prayed, and said, [[LORD|Lord]], I pray thee, open his eyes, that he may see. And the Lord opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha. ([[2 Kings]] 6:15-17)
 
 I see where we're at in a few ways:
 

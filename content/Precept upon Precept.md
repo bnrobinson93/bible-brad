@@ -22,7 +22,7 @@ publish: true
 
 - Isa 28:9-13
 
-  > Who is the LORD trying to teach?
+  > Who is the [[LORD]] trying to teach?
   >
   > To whom is he explaining a message?
   >

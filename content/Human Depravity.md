@@ -51,7 +51,7 @@ HOWEVER
 
   > **16** That evening **an old man** from the hill country of Ephraim, who was living in Gibeah (the inhabitants of the place were Benjamites), came in from his work in the fields. **17** When he looked and saw the traveler in the city square, the old man asked, “Where are you going? Where did you come from?”
 
-  > **18** He answered, “We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the Lord.[[a](https://www.biblegateway.com/passage/?search=[[Judges]]+19&version=NIV#fen-NIV-7043a)] No one has taken me in for the night. **19** We have both straw and fodder for our donkeys and bread and wine for ourselves your servants—me, the woman and the young man with us. We don’t need anything.”
+  > **18** He answered, “We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the [[LORD|Lord]].[[a](https://www.biblegateway.com/passage/?search=[[Judges]]+19&version=NIV#fen-NIV-7043a)] No one has taken me in for the night. **19** We have both straw and fodder for our donkeys and bread and wine for ourselves your servants—me, the woman and the young man with us. We don’t need anything.”
 
   > **20** “You are welcome at my house,” the old man said. “Let me supply whatever you need. Only don’t spend the night in the square.” **21** So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and drink.
 
