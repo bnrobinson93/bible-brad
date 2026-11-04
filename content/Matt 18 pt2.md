@@ -5,8 +5,6 @@ updated: 2025-12-17T00:51
 categories:
   - "[[books of the bible]]"
   - "[[Article]]"
-tags:
-  - 0🌲
 publish: true
 ---
 

@@ -3,7 +3,6 @@ updated: 2026-09-22T18:00:12-05:00
 created: 2025-03-13T09:02:12-05:00
 tags:
   - bible/doctrine
-  - 0🌲
 categories:
   - "[[Insight]]"
 publish: true

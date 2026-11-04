@@ -3,7 +3,6 @@ created: 2026-07-18T18:52:26-0500
 updated: 2026-11-03T22:45:24-06:00
 tags:
   - bible/doctrine
-  - 0🌲
 categories:
   - "[[Study Note]]"
 aliases:
@@ -15,7 +14,7 @@ publish: true
 ---
 # LORD
 
-The all-caps rendering of the divine name [[YHVH]] in English translations. Sometimes referred to as the Tetragrammaton, this name is first revealed in [[Exodus]] 3:13-15 in answer to [[Moses]]'s question "who shall I say sent me." God responds, "I AM that I AM,"אֲשֶׁר אֶהְיֶה אֶהְיֶה. In Hebrew, this literally translates to:
+The all-caps rendering of the divine name YHVH in English translations. Sometimes referred to as the Tetragrammaton, this name is first revealed in [[Exodus]] 3:13-15 in answer to [[Moses]]'s question "who shall I say sent me." God responds, "I AM that I AM,"אֲשֶׁר אֶהְיֶה אֶהְיֶה. In Hebrew, this literally translates to:
 
 - Haya - "to be" or 
 - Ashēr - which/because

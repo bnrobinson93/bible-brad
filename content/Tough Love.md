@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 Created: 2022-09-29T21:58
 Favorite: false
 URL: https://www.gotquestions.org/tough-love.html; https://www.redletterchristians.org/3-reasons-tough-love-rarely-works/

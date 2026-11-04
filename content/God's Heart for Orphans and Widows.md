@@ -1,6 +1,4 @@
 ---
-tags:
-  - 0🌲
 created: 2023-08-27T09:10
 Favorite: true
 URL: https://youtu.be/H0rVBxf0lok

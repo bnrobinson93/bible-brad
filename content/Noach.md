@@ -4,8 +4,6 @@ updated: 2026-08-28T18:26:50-05:00
 up: "[[The Bro Bible]]"
 categories:
   - "[[Article]]"
-tags:
-  - 0🌲
 aliases:
   - Noah
 publish: true

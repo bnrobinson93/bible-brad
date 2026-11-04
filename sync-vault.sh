@@ -7,7 +7,8 @@ SITE="/home/brad/Documents/code/bible-brad/content"
 # One gate for the whole site: the vault's evergreen tag (0🌲). A note is
 # vouched or it is not; there is no separate publish flag to keep in sync.
 # Quartz's explicit-publish plugin wants `publish: true`, so it is stamped
-# into the copy here, never into the vault.
+# into the copy here, never into the vault. The gate tag itself is stripped from
+# the copy: it is vault machinery, not site navigation.
 #   Teaching/  -> content/<Name>.md        (site root)
 #   Topics/    -> content/notes/<Name>.md
 python3 - <<'PYEOF'
@@ -23,9 +24,18 @@ def evergreen(text):
     m = FM.match(text)
     return bool(m) and re.search(r"^\s*-\s*0🌲\s*$|^tags:\s*(0🌲\s*$|\[[^\]]*0🌲)", m.group(1), re.M) is not None
 
+def drop_gate_tag(fm):
+    def inline(m):
+        items = [i.strip() for i in m[1].split(",") if i.strip() not in ("", "0🌲")]
+        return f"tags: [{', '.join(items)}]\n" if items else ""
+    fm = re.sub(r"^[ \t]*-[ \t]*0🌲[ \t]*\n|^tags:[ \t]*0🌲[ \t]*\n", "", fm, flags=re.M)
+    fm = re.sub(r"^tags:[ \t]*\[([^\]\n]*)\][ \t]*\n", inline, fm, flags=re.M)
+    # A note tagged only 0🌲 is left with a bare key, which would parse as null.
+    return re.sub(r"^tags:[ \t]*\n(?![ \t]*-)", "", fm, flags=re.M)
+
 def stamp_publish(text):
     m = FM.match(text)
-    fm = re.sub(r"^publish:.*\n", "", m.group(1) + "\n", flags=re.M)
+    fm = re.sub(r"^publish:.*\n", "", drop_gate_tag(m.group(1) + "\n"), flags=re.M)
     return f"---\n{fm}publish: true\n---\n" + text[m.end():]
 
 for src, dst in ((VAULT / "Teaching", SITE), (VAULT / "Topics", SITE / "notes")):

@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 Favorite: false
 URL: https://www.preceptaustin.org/judges_19_commentary
 created: 2022-08-04T22:04

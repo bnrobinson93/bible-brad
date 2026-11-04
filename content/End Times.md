@@ -4,8 +4,6 @@ created: 2025-09-24T16:02:06-05:00
 updated: 2025-11-11T13:33:32-06:00
 categories:
   - "[[Article]]"
-tags:
-  - 0🌲
 publish: true
 ---
 

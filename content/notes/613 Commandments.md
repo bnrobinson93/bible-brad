@@ -2,7 +2,6 @@
 updated: 2025-11-11T13:32:27-06:00
 created: 2025-02-26T22:15:47-06:00
 tags:
-  - 0🌲
   - bible/doctrine
 categories:
   - "[[Study Note]]"

@@ -1,6 +1,4 @@
 ---
-tags:
-  - 0🌲
 created: 2022-12-02T05:39
 Favorite: false
 updated: 2025-09-06T01:05:01-05:00

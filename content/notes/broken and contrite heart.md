@@ -3,7 +3,6 @@ aliases: []
 tags:
   - refine
   - bible/doctrine
-  - 0🌲
 created: 2025-09-14T17:30:44-05:00
 updated: 2026-09-22T18:01:12-05:00
 categories:

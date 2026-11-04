@@ -5,7 +5,6 @@ aliases:
 created: 2025-01-23T21:55:32-06:00
 updated: 2026-11-03T23:07:08-06:00
 tags:
-  - 0🌲
   - bible/doctrine
 categories:
   - "[[Study Note]]"
@@ -28,4 +27,4 @@ In Greek, which the [[New Testament]] was written in, the name is transliterated
  
  The lamb of [[God]] who takes away the sins of the world ([[John]] 1:29). jesus
 
-See also: [[Yeshua|Jesus]], [[Messiah|Christ]], [[Son of God]], [[Son of Man]]
+See also: Jesus, [[Messiah|Christ]], [[Son of God]], [[Son of Man]]

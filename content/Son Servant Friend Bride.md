@@ -5,8 +5,6 @@ categories:
   - "[[Study Note]]"
   - "[[Insight]]"
   - "[[Article]]"
-tags:
-  - 0🌲
 publish: true
 ---
 # The Process of Sanctification

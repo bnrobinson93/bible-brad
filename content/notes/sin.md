@@ -3,7 +3,6 @@ aliases: []
 tags:
   - bible/bible-study/word-study
   - bible/doctrine
-  - 0🌲
 created: 2025-09-24T16:32:32-05:00
 updated: 2025-11-11T13:34:18-06:00
 categories:
@@ -17,7 +16,7 @@ publish: true
 Sin is often defined according to the English word, which was an archery term meaning "to miss the mark." While I do think that's a valid interpretation, I don't think it fully embodies the meaning from Scripture. My personal definition is that which can be found in the Bible itself: sin is transgression of the law.
 
 >[[1 John]] 3:4
->Everyone who sins breaks the law; in fact, [[sin]] is lawlessness.
+>Everyone who sins breaks the law; in fact, sin is lawlessness.
 
 ## What's the Difference?
 

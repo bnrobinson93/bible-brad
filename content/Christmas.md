@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 Created: 2021-12-16T23:36
 Favorite: true
 Updated: 2023-12-17T09:34

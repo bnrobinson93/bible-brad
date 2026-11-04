@@ -1,8 +1,6 @@
 ---
 aliases:
   - Feast of First Fruits
-tags:
-  - 0🌲
 URL: https://jesusplusnothing.com/series/post/FeastOfFirstFruits
 created: 2022-04-21T23:42
 favorite: false
@@ -23,7 +21,7 @@ publish: true
 ## Overview
 
 - Each of the three major harvests had a feast associated with it:
-  - Barley - Spring - [[First Fruits]]
+  - Barley - Spring - First Fruits
   - Wheat - Summer - [[Pentecost (Feast of Weeks)]]
   - Fruit (grapes, figs) - Fall - [[Day of Trumpets]] & [[Feast of Tabernacles]]
 - First fruits were offered as a sign to [[God]] that they were grateful for the harvest and that they trusted in Him for the remainder of the year’s harvest

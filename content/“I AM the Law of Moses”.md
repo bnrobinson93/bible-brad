@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 Favorite: false
 URL: https://youtu.be/Y7z868kEl5s
 created: 2022-12-29T22:05

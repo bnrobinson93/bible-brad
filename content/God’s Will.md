@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 URL: https://www.youtube.com/watch?v=8DzoRz0hU3E
 created: 2022-07-14T18:32
 favorite: true

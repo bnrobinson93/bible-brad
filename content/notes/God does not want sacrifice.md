@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - bible/doctrine
-  - 0🌲
 created: 2025-09-14T17:30:23-05:00
 updated: 2026-09-15T21:53:47-05:00
 categories:

@@ -1,7 +1,5 @@
 ---
 aliases: []
-tags:
-  - 0🌲
 Favorite: false
 URL: https://www.gotquestions.org/Bible-busyness.html
 created: 2022-06-30T22:17

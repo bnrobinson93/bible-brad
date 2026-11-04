@@ -3,7 +3,6 @@ aliases: []
 tags:
   - bible/bible-study
   - bible/doctrine
-  - 0🌲
 created: 2025-09-24T16:30:37-05:00
 updated: 2026-09-30T20:10:08-05:00
 categories:
